@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the framework (LexiNet) that is central to the research and clearly indicates the paper's focus on lexical semantics, perfectly aligning with the abstract. It is concise yet comprehensive, providing the reader with the exact information needed to understand what the paper is about without being overly technical or vague.",
+      "B": "Title B is too generic and lacks the specific naming of the LexiNet framework which is central to the research contribution described in the abstract. While it accurately conveys the general topic, it fails to distinguish this work from countless other papers on neural approaches to lexical semantics, diminishing its scholarly impact and memorability.",
+      "C": "Title C poses a question rather than stating the contribution, creating unnecessary ambiguity about whether the paper actually offers solutions. While more engaging than Title B, it still omits the specific LexiNet framework mentioned in the abstract and adopts a less scholarly, more conversational tone that doesn't fully convey the technical rigor and specific contribution of the research."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific framework (DialogFlow) being presented in the research while clearly indicating its purpose for dialogue management, perfectly aligning with the abstract's content. It is scholarly, informative, and effectively conveys both the technical innovation and the significance of the research contribution in developing an intelligent dialogue management system.",
+      "B": "Title B is overly generic, omitting the critical name of the framework (DialogFlow) that is central to the research described in the abstract. While it does indicate the paper's general topic, it lacks specificity and distinctiveness, making it less informative and memorable compared to Title A.",
+      "C": "Title C poses a question that misrepresents the research, as the abstract doesn't investigate whether intelligent frameworks can improve dialogue management but rather demonstrates a specific framework that does. This question format creates unnecessary ambiguity about the paper's contribution and feels misaligned with the definitive results and implementation-focused nature of the research described in the abstract."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly aligns with the abstract by naming the approach (TransLingua) that is explicitly referenced throughout the research. It is clear, scholarly, and accurately represents the transfer learning methodology for multilingual NLP described in the paper, providing the exact focus of the research.",
+      "B": "Title B is too generic and lacks the specific naming of the approach (TransLingua) that features prominently in the abstract. While technically accurate in describing the research focus, it fails to distinguish this work from numerous other papers in the same domain and lacks the scholarly precision of Title A.",
+      "C": "Title C frames the research as a question rather than presenting the contribution, which misrepresents the confident findings presented in the abstract. Though more engaging than Title B, the interrogative format suggests uncertainty about results that are actually presented as conclusive in the abstract, making it less aligned with the paper's actual contributions."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (SentimentNet) introduced in the paper, directly aligning with the abstract's description of the novel neural architecture. It is scholarly, informative, and clearly communicates the paper's focus on both the proposed architecture and its application to sentiment analysis.",
+      "B": "Title B is overly generic and lacks specificity about the paper's main contribution - the SentimentNet architecture. While technically accurate, it fails to distinguish this work from numerous other papers on neural architectures for sentiment analysis, missing the opportunity to highlight the novelty described in the abstract.",
+      "C": "Title C frames the paper as an evaluative study rather than one introducing a new model, which misrepresents the primary contribution described in the abstract. While it creates interest through its question format, it doesn't capture that SentimentNet is the paper's central innovation rather than just an evaluation of existing neural architectures."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the framework 'TextGen' that is central to the research, perfectly aligning with the abstract's description of the proposed model and its capabilities. It is scholarly, technically precise, and effectively conveys both the methodology (generative text modeling) and the specific contribution (the TextGen framework) discussed throughout the abstract.",
+      "B": "Title B is overly generic and lacks the specific identification of the 'TextGen' framework that is the paper's main contribution. While technically accurate, it fails to differentiate this research from numerous other papers on generative text modeling frameworks, missing the opportunity to highlight the novel contribution described in the abstract.",
+      "C": "Title C poses a question that does not accurately represent the research presented in the abstract, which focuses specifically on introducing and evaluating the TextGen framework rather than broadly discussing advantages of generative models. The interrogative format is misaligned with the paper's purpose of presenting a specific framework and its empirical evaluation."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific innovation (ContextualEmbeddings) while accurately representing the research described in the abstract. The title is precise and scholarly, directly naming the approach that produced the reported 8.5% improvement, though the use of 'Revolutionary' is somewhat marketing-like and overstates what's shown in the abstract.",
+      "B": "Title B is overly generic and lacks the crucial contextual aspect of the research, making it misaligned with the paper's focus. While it retains the marketing-like 'Revolutionary' term, it fails to specify what makes the approach novel or what distinguishes it from other word representation methods, severely limiting its clarity and usefulness.",
+      "C": "Title C effectively captures the contextual nature of the research and poses an engaging question that reflects the paper's investigation. It has more originality than Title A through its question format, but lacks the specificity of directly naming the approach (ContextualEmbeddings) that is central to the paper's contribution."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (EvalAI) being introduced in the paper while accurately conveying its purpose as a benchmark for AI evaluation in NLP. This title is scholarly, precise, and directly aligned with the abstract's focus on introducing a comprehensive evaluation framework, making it immediately clear to readers what contribution the paper offers.",
+      "B": "Title B is straightforward and accurately describes the paper's content, but lacks specificity by omitting the name of the proposed framework (EvalAI). While technically accurate, this generic title is less distinctive and fails to differentiate this research from other benchmark papers, making it functional but less memorable than Title A.",
+      "C": "Title C takes a question format that feels less scholarly and more conversational, introducing unnecessary ambiguity about whether the paper offers solutions or merely poses questions. The phrasing doesn't effectively communicate that the paper is introducing a specific framework (EvalAI), and the rhetorical structure misrepresents the decisive, solution-oriented nature of the research described in the abstract."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the proposed model (TransMorph) and clearly indicates the research focus on morphological analysis, perfectly aligning with the abstract's content. The title is concise yet informative, striking a good balance between scholarly precision and memorability, while explicitly identifying the contribution described in the abstract.",
+      "B": "Title B is overly generic and lacks specificity, omitting the name of the model that constitutes the paper's main contribution. While technically accurate, it fails to convey any sense of the paper's originality or the deep learning approach that distinguishes this work, making it substantially weaker than Title A which includes these elements.",
+      "C": "Title C poses a question rather than stating the contribution, creating a disconnect with an abstract that clearly presents a specific model and its results. While it does hint at the deep learning aspect of the research, the interrogative format feels more appropriate for a position paper or review rather than a paper presenting a concrete model (TransMorph) with empirical results."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (ParaphraseGen) and clearly describes the research focus, showing perfect alignment with the abstract. It is scholarly and informative, providing the right balance of specificity and conciseness to effectively communicate the paper's contribution without unnecessary terminology.",
+      "B": "Title B is clear but lacks the specific model name that appears in the abstract, making it overly generic and less distinctive. It accurately describes the research but fails to differentiate it from other similar works in the field, essentially offering a subset of the information provided in Title A.",
+      "C": "Title C adopts a question format that creates some ambiguity about whether the paper is an evaluation study rather than introducing a new model. While more engaging and conversational than Title B, it misleadingly suggests the paper primarily questions effectiveness rather than presenting a new model with demonstrated improvements."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly aligns with the abstract by specifically naming the model (NeuroParser) that is the focus of the research. It is scholarly, precise, and directly reflective of the content, making it immediately clear what the paper contributes to the field of syntactic parsing.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other parsing papers. While technically accurate, it fails to mention the neural aspect or the specific model name (NeuroParser) that features prominently in the abstract, making it less informative than Title A.",
+      "C": "Title C poses a question rather than stating the contribution, creating unnecessary ambiguity about the paper's findings. While it does reference neural models and parsing, the interrogative format doesn't convey the confidence of the actual results (11.7% improvement) mentioned in the abstract, and it omits the specific model name."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligns with the abstract, explicitly naming the 'ImageCaptioner' framework that is central to the paper. It is scholarly and technically accurate, directly communicating the paper's main contribution without unnecessary embellishment or ambiguity.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other image captioning papers. While technically accurate, it omits the name of the proposed framework (ImageCaptioner) and fails to convey the significance of the contribution described in the abstract.",
+      "C": "Title C uses an engaging question format but is misleading since the paper primarily presents a specific framework rather than discussing multiple innovations. The interrogative structure creates an expectation of a survey or review paper, which doesn't match the implementation-focused research described in the abstract."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A accurately represents the research by explicitly naming the proposed model (TextSummarizer) and clearly indicating the neural approach to text summarization described in the abstract. It is faithful to the content, scholarly in tone, and provides specific information about both the method and task, making it immediately clear what the paper contributes.",
+      "B": "Title B is clear but overly generic, lacking the specific identification of the model (TextSummarizer) mentioned in the abstract. While it correctly identifies the approach and task, it fails to distinguish this research from numerous other papers on neural text summarization, making it less informative than Title A.",
+      "C": "Title C poses a question rather than stating the contribution, creating ambiguity about whether the paper actually presents a solution or merely explores possibilities. The interrogative format feels less scholarly and less aligned with the abstract, which clearly presents TextSummarizer as a concrete contribution with measured improvements rather than just exploring potential enhancements."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the system name 'KnowledgeGraph' and clearly represents the research focus described in the abstract. It is straightforward, scholarly, and provides an accurate indication of the paper's content, including both the system and its application for knowledge representation in NLP.",
+      "B": "Title B is overly generic and lacks the specific reference to knowledge graphs that is central to the research. While technically accurate, it is too broad and fails to capture the innovative aspect of the system being proposed, making it less informative than the other options.",
+      "C": "Title C poses a question rather than stating the contribution, which creates some ambiguity about whether the paper actually demonstrates improvement or merely investigates the possibility. While more engaging and thought-provoking than Title B, it doesn't directly communicate that the paper introduces a specific system called 'KnowledgeGraph'."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the specific framework (EmotionNet) that is the central contribution of the paper, aligning perfectly with the abstract's focus. It is scholarly, direct, and accurately conveys both the technical approach and application domain, giving readers a clear expectation of the research content.",
+      "B": "Title B is overly generic and lacks the specific identification of the EmotionNet framework that is central to the paper's contribution. While technically accurate, it fails to differentiate this research from countless other emotion recognition frameworks, diminishing its ability to convey the paper's unique contribution.",
+      "C": "This question-format title creates unnecessary ambiguity about whether the paper actually presents a framework or merely discusses potential improvements. It uses a less scholarly, more conversational tone that doesn't clearly communicate that EmotionNet is the paper's main contribution, making it less aligned with the abstract's content."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A directly names the specific framework (TransCritic) introduced in the paper and clearly states its purpose for translation quality assessment, perfectly matching the abstract's content. It is scholarly, precise, and effectively communicates both the technical contribution and its significance in the field of NLP, making it immediately clear what readers can expect.",
+      "B": "Title B is overly generic and lacks the specific details that would distinguish this research from other translation quality assessment papers. While technically accurate, it fails to mention the neural approach or the specific framework (TransCritic) that constitutes the paper's main contribution, making it less informative than the alternatives.",
+      "C": "Title C presents the research as a question rather than a statement of contribution, which creates some ambiguity despite capturing the neural aspect of the work. While more informative than Title B by highlighting the neural component, it doesn't specifically name the TransCritic framework and frames the work as exploratory rather than presenting a definitive contribution with demonstrated improvements."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the system name (SentimentAnalyzer) along with the technical approach, perfectly matching the content described in the abstract. This title is scholarly and comprehensive, providing the most faithful representation of the research without being excessively wordy. While not highly original in structure, it offers the clearest and most specific indication of what readers will find in the paper.",
+      "B": "Title B is clear but generic, lacking the specific system name that is central to the research contribution. This title is technically accurate but overly broad, failing to distinguish this work from countless other deep learning sentiment analysis papers. It conveys less significance than Titles A and C by omitting any hint of the improvement aspect highlighted in the abstract.",
+      "C": "Title C poses an intriguing question that effectively captures the paper's focus on improvement through deep learning techniques. This approach is more original and engaging than the other titles, potentially drawing more reader interest. However, it lacks the specific system name (SentimentAnalyzer) mentioned in the abstract, making it slightly less precise than Title A."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (ContextPredictor) that is introduced in the abstract, establishing clear alignment with the research content. It is scholarly and informative, directly communicating the paper's focus on a new model for contextual understanding. The title effectively conveys the significance of the work while maintaining technical accuracy.",
+      "B": "Title B is overly generic and lacks the specific identification of the ContextPredictor model that is central to the research. While technically accurate, it fails to convey the innovative aspects of the work or distinguish it from numerous other papers on contextual understanding in NLP. Its brevity comes at the cost of specificity and significance.",
+      "C": "Title C poses a question rather than asserting the paper's contribution, creating unnecessary ambiguity about whether the research actually demonstrates enhanced understanding. The interrogative format feels less scholarly and definitive than Title A, and it doesn't highlight the specific ContextPredictor model that represents the paper's main contribution. The title also suggests a broader review rather than the introduction of a specific model."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the abstract by naming the specific system (GrammarChecker) and clearly indicating the neural approach to grammatical error correction. It is scholarly and informative, providing readers with an immediate understanding of the paper's focus while highlighting the technical contribution.",
+      "B": "Title B is accurate but overly generic, lacking the specific system name mentioned in the abstract. While clear, it fails to distinguish this work from other neural approaches to grammatical error correction, offering less informative value compared to Title A.",
+      "C": "Title C poses a question rather than stating the contribution, creating a mismatch with the abstract which clearly presents a successful system rather than evaluating effectiveness. This questioning format introduces ambiguity about whether the paper is a survey/analysis rather than presenting the novel GrammarChecker system described in the abstract."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise and clearly identifies the specific framework (TextClassify) discussed in the abstract, creating perfect alignment with the research content. While not highly original in structure, it accurately communicates the technical contribution and practical significance of the work, making it scholarly and informative without unnecessary embellishment.",
+      "B": "This title is overly generic and lacks the specificity needed to distinguish this research from many other papers on text classification frameworks. Without mentioning the TextClassify framework by name, it fails to capture the unique contribution described in the abstract, resulting in a technically accurate but unremarkable representation of the work.",
+      "C": "This question-format title attempts to be engaging but creates ambiguity about whether the paper is a review, opinion piece, or original research contribution. While more original in presentation than the other titles, it doesn't clearly communicate the concrete framework (TextClassify) that constitutes the paper's primary contribution, potentially misleading readers about the nature of the work."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the system name (AutoSummarizer) and clearly conveys the paper's focus on automated text summarization, which directly aligns with the abstract's content. While not exceptionally original in phrasing, it is scholarly and informative, effectively communicating both the tool and approach described in the research.",
+      "B": "Title B is clear but lacks the specific system name mentioned in the abstract, making it less faithful to the full content. It is quite generic and lacks originality, resembling many other papers in the field without conveying the specific contribution or improvement (17.6% ROUGE score increase) highlighted in the abstract.",
+      "C": "Title C uses an engaging question format but creates ambiguity about whether this is a research paper or a review/position paper on automation potential. The interrogative structure is somewhat original but fails to clearly represent the paper's contribution of introducing a specific system (AutoSummarizer) with measurable improvements."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A accurately represents the research by specifically naming the proposed model (DiscourseNet) and its purpose for discourse analysis, directly matching the core contribution described in the abstract. It is scholarly, precise, and immediately communicates the paper's focus, making it the most faithful representation of the work among the three options.",
+      "B": "Title B is overly generic and lacks the specific identification of the proposed model (DiscourseNet) that is central to the research. While technically accurate, it fails to convey the novelty or significance of the contribution, making it considerably less informative than Title A and insufficiently distinctive in a conference setting.",
+      "C": "Title C adopts a question format that feels less scholarly and doesn't directly communicate that the paper presents a specific new model (DiscourseNet). While it touches on the theme of models enhancing discourse analysis, it creates an expectation of a survey or position paper rather than the introduction of a specific model with experimental results as described in the abstract."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies both the framework name (StyleTransfer) and its purpose, perfectly aligning with the abstract's description of the research contribution. While not highly original in its phrasing, it's precise, scholarly, and informative, leaving no ambiguity about the paper's focus on introducing a new framework for text style transfer.",
+      "B": "Title B is a truncated version of Title A that loses specificity by omitting the framework name. Though still clear, it's overly generic and fails to distinguish this work from other text style transfer frameworks, lacking the scholarly precision of Title A while conveying less significance about the specific contribution.",
+      "C": "Title C takes an interesting question-based approach that hints at applications, but doesn't clearly indicate that the paper introduces a new framework called StyleTransfer. While more attention-grabbing and original than the other options, it's somewhat misaligned with the primary contribution described in the abstract, creating false expectations about the paper's focus on application improvements rather than a new framework."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the specific framework (FactChecker) introduced in the abstract and clearly indicates the research focus on automated fact-checking. It is scholarly, informative, and perfectly aligned with the research contribution, giving readers immediate insight into both the tool developed and its purpose.",
+      "B": "Title B is overly generic, lacking the specificity of naming the FactChecker framework that appears to be the main contribution. While technically accurate, it fails to distinguish this work from other automated fact-checking papers and lacks the precision needed to capture the specific innovation described in the abstract.",
+      "C": "Title C adopts a question format that feels less scholarly and more tentative than declaring the contribution directly. While it touches on the paper's theme of enhancing fact-checking processes, it misses the opportunity to highlight the specific framework (FactChecker) and comes across as examining a general concept rather than presenting a concrete research contribution."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the proposed model (CoherenceNet) and clearly indicates the paper's focus on coherence in text generation, perfectly aligning with the abstract. The title is scholarly, specific, and accurately represents the research contribution without being overly verbose or technical.",
+      "B": "Title B is overly generic and lacks the specific mention of the proposed model (CoherenceNet) that appears prominently in the abstract. While technically accurate, it misses an opportunity to highlight the novelty of the research and fails to distinguish this work from other papers on text generation coherence.",
+      "C": "Title C frames the research as a question rather than presenting the contribution directly, creating a slight mismatch with the solution-oriented nature of the abstract. While it addresses coherence in text generation, it doesn't mention the specific model (CoherenceNet) that constitutes the paper's main contribution, making it less precise than Title A."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the specific framework introduced in the paper (EmotionClassifier) and clearly aligns with the abstract's description of the research contribution. While somewhat formulaic in structure, it is straightforward and scholarly, providing the exact focus of the paper without unnecessary embellishment or ambiguity.",
+      "B": "Title B is overly generic and lacks the specific details that would distinguish this research from other emotion classification papers. It fails to mention the deep learning aspect or the name of the framework, which are key elements of the research described in the abstract, making it feel incomplete and less informative than the alternatives.",
+      "C": "Title C presents the research as a question, which is engaging but slightly misaligned with the abstract that confidently states an improvement was achieved rather than merely exploring possibilities. While it does mention deep learning frameworks, which is a key aspect of the work, it lacks specificity about the proposed EmotionClassifier framework that constitutes the paper's main contribution."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the content of the abstract by naming the specific system (ParaphraseFinder) that was developed and clearly indicating its purpose. This scholarly and descriptive title accurately represents both the methodology and the contribution, making it immediately clear to readers what the paper is about.",
+      "B": "Title B is technically accurate but lacks specificity by omitting the name of the system described in the abstract. While straightforward and clear, it is overly generic and fails to distinguish this research from other neural paraphrase detection systems, diminishing its originality.",
+      "C": "Title C poses a question rather than stating the paper's contribution, creating a slight mismatch with the concrete system development described in the abstract. The interrogative format feels somewhat less scholarly and more conversational, and it doesn't directly communicate that the paper introduces a specific system (ParaphraseFinder)."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and directly names the system (GrammarNet) that is the focus of the abstract, creating perfect alignment with the research content. It is scholarly in tone and clearly communicates the purpose of the work, providing readers with immediate understanding of what to expect from the paper.",
+      "B": "Title B is straightforward and clear but lacks the specific reference to GrammarNet which is central to the paper's contribution. It is overly generic and fails to distinguish this work from other grammar checking papers, missing an opportunity to highlight the deep learning approach that makes this system innovative.",
+      "C": "Title C poses a question rather than stating the research contribution, creating some ambiguity about whether the paper actually demonstrates enhancement or merely explores the possibility. While somewhat engaging and original in its framing, it doesn't clearly indicate that the paper presents a specific system (GrammarNet) with measured improvements, making it less faithful to the abstract's content."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific framework (TextToSpeech) being introduced in the paper, making it faithful to the research described in the abstract. While not highly original in structure, it clearly communicates the technical contribution and names the framework that achieved the reported 15.3% improvement in naturalness ratings, which is a key finding.",
+      "B": "This title is overly generic, lacking the specific name of the framework that distinguishes this research. It represents the paper's content at only a superficial level, failing to highlight the deep learning aspects or the specific framework contribution mentioned in the abstract, making it less informative than Title A.",
+      "C": "This question-format title is misaligned with the abstract's focus, as the paper is presenting a specific framework (TextToSpeech) rather than discussing how frameworks in general improve TTS conversion. The rhetorical structure creates unnecessary ambiguity about the paper's actual contribution and fails to mention the specific system being introduced."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the paper's subject by naming the specific model (VisualNLP) described in the abstract, establishing a clear and faithful representation of the research. The title concisely communicates both the technical focus and the innovative integration of visual and language processing, aligning perfectly with the model introduction and performance claims detailed in the abstract.",
+      "B": "Title B is overly generic, missing the specific name of the model (VisualNLP) which is central to the research contribution. While technically accurate, it lacks distinctiveness and fails to highlight the innovation described in the abstract, making it seem like just another model paper rather than a contribution to an emerging field with significant performance improvements.",
+      "C": "This title is misleadingly framed as a question when the abstract clearly presents a solution rather than an exploratory investigation. The interrogative format creates unnecessary ambiguity about the paper's contributions and doesn't reflect the concrete model development and empirical results described in the abstract, making it less scholarly and less aligned with the research's actual content."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and scholarly, clearly identifying the specific framework (DialogueNet) that is the core contribution of the paper. It perfectly aligns with the abstract's focus on presenting and evaluating this framework, making it immediately clear to readers what to expect from the research.",
+      "B": "Title B is overly generic and lacks the specificity needed to differentiate this research from countless other papers on conversational agent frameworks. By omitting the name 'DialogueNet,' it fails to establish the paper's unique contribution and appears less scholarly and more like a textbook heading.",
+      "C": "Title C uses an intriguing question format but lacks specificity about the paper's actual contribution (DialogueNet). While it hints at the research's significance by questioning the value of frameworks, it creates ambiguity about whether the paper presents a new framework or merely evaluates existing ones."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the system name (TopicModeler) and clearly indicates the paper's focus on topic modeling in text, aligning perfectly with the abstract. While somewhat straightforward in structure, it accurately captures the technical contribution described in the abstract and clearly indicates to readers what to expect from the paper.",
+      "B": "Title B provides a generic description of the research but lacks specificity by omitting the name of the system being introduced. It's overly broad and fails to distinguish the work from other topic modeling papers, making it less effective at capturing the specific contribution of the TopicModeler system described in the abstract.",
+      "C": "Title C adopts an engaging question format that hints at the significance of topic modeling systems, but it doesn't specifically mention the TopicModeler system that is central to the paper. While more original and attention-grabbing than the other titles, it creates some ambiguity about whether the paper presents a specific system or just discusses topic modeling improvements more generally."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific framework (TextRetrieval) discussed in the abstract, creating a direct and faithful connection between title and content. It maintains scholarly precision while clearly communicating the paper's focus on a novel information retrieval framework, which aligns perfectly with the 16.1% improvement claim and experimental analysis described in the abstract.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from countless other information retrieval papers. By omitting the framework's name (TextRetrieval), it fails to capture the unique contribution described in the abstract and appears considerably less informative than Title A.",
+      "C": "This title adopts a question format that feels somewhat less scholarly and more like a blog post or educational article rather than a research paper. While it mentions frameworks and information retrieval systems, it doesn't specifically reference TextRetrieval and creates uncertainty about whether the paper actually answers the question posed."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the system name (SpeechRecognizer) that matches the abstract's description, providing good alignment with the research content. While not particularly original in phrasing, it is straightforward and academic in tone, accurately representing the technical contribution described in the abstract better than the alternatives.",
+      "B": "Title B is overly generic and lacks specificity, omitting the system name mentioned in the abstract. This title fails to distinguish the research from countless other speech recognition papers and doesn't convey any of the improvements or technical contributions that make this work unique.",
+      "C": "Title C adopts a question format that somewhat misrepresents the paper's actual contribution - the abstract describes a specific system rather than broadly exploring how systems can enhance accuracy. While this title suggests significance and broader implications, it creates expectations for a survey or theoretical exploration that doesn't match the system-specific implementation described in the abstract."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (TextNormalizer) introduced in the paper, perfectly matching the abstract's focus. While it uses a conventional 'Product: A Framework for X' format that isn't highly original, it accurately conveys the scholarly contribution and its significance as a solution to text normalization challenges.",
+      "B": "Title B is overly generic and lacks the specific name of the framework (TextNormalizer) that is central to the paper's contribution. This title provides minimal information about the research's uniqueness or significance, making it indistinguishable from countless other papers about text normalization frameworks.",
+      "C": "Title C uses a question format that feels less scholarly and doesn't directly communicate that the paper introduces a specific framework. While more engaging than Title B, it fails to mention TextNormalizer and creates unnecessary ambiguity about whether the paper reviews existing frameworks or proposes a new one."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific system (EmotionAnalyzer) described in the abstract and clearly indicates the research focus on emotion detection in text. The title is straightforward, scholarly, and directly aligned with the abstract's content, making the connection between the title and the research immediately apparent.",
+      "B": "Title B is overly generic and lacks the specific system name that appears prominently in the abstract. While technically accurate, it fails to distinguish this research from countless other emotion detection systems and does not reflect the specific contribution or innovation described in the abstract.",
+      "C": "Title C uses a question format that creates ambiguity about what the paper actually delivers, rather than clearly stating the research contribution. The phrasing suggests a theoretical exploration rather than the concrete system implementation and evaluation that forms the core of the abstract, creating a misalignment between title and content."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A explicitly names the framework 'TextAnalyzer' which perfectly aligns with the abstract's description of the research contribution. It is straightforward, scholarly, and accurately represents the paper's focus on a specific framework for text analysis, making it immediately clear to readers what to expect.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from countless other papers on text analysis frameworks. It omits the crucial name of the introduced framework (TextAnalyzer) and fails to convey the innovation or significance detailed in the abstract, making it insufficient as a standalone title.",
+      "C": "Title C's question format is misaligned with the paper's actual contribution, which is presenting a specific framework rather than broadly exploring how frameworks enhance analysis. This title is unnecessarily vague and potentially misleading since it suggests a survey or theoretical discussion rather than the introduction of a concrete tool with empirical results."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly aligns with the abstract by explicitly naming the proposed model (TranslationNet) that is the focus of the research. It is straightforward, scholarly, and accurately reflects the paper's contribution to neural machine translation, matching the technical nature of the work described in the abstract.",
+      "B": "Title B is overly generic and lacks specificity about the novel contribution (TranslationNet) discussed in the abstract. While technically accurate, it fails to distinguish this research from countless other papers on neural machine translation, diminishing its ability to convey the significance of the 18.7% BLEU score improvement mentioned in the abstract.",
+      "C": "Title C uses an engaging question format but lacks precision by not mentioning the specific model (TranslationNet) that is central to the research. While more intriguing than Title B, it creates a mismatch with the abstract which clearly presents a specific model rather than a broader exploration of how neural models can enhance translation."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the framework 'CodeSwitch' while clearly communicating the paper's focus on code-switching in NLP, perfectly aligning with the abstract's content. It is technically accurate, scholarly in tone, and provides readers with the specific contribution (a named framework) that achieves the reported 13.2% improvement. This title balances conciseness with informativeness better than the alternatives.",
+      "B": "Title B is overly generic, failing to name the specific framework (CodeSwitch) that represents the paper's primary contribution. While technically accurate, it lacks the specificity that would help readers understand the novelty of the work, making it appear less significant than the research actually is. The title's vagueness undermines the paper's contribution to addressing code-switching challenges.",
+      "C": "Title C uses a question format that creates engagement but lacks the directness of Title A in communicating the paper's specific contribution. While it addresses the challenge aspect mentioned in the abstract, the interrogative structure makes it less clear that the paper actually presents a solution (CodeSwitch) rather than just exploring the problem space. The title feels slightly more conversational than scholarly."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific system (TextVisualizer) and its purpose, matching perfectly with the abstract's focus. While somewhat formulaic in structure, it is scholarly, precise, and effectively communicates the paper's contribution of a novel text visualization system that demonstrates measurable improvements over traditional methods.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other text visualization work. It omits the name of the system being presented and fails to convey the innovative aspects or significance of the contribution described in the abstract, making it appear less substantial than the research actually is.",
+      "C": "Title C poses a question rather than stating the research contribution, creating a mismatch with the abstract which clearly presents a specific system rather than a theoretical exploration. The interrogative format is unnecessarily vague and potentially misleading, as the paper does not broadly explore how systems enhance visualization techniques but rather presents a specific system called TextVisualizer."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the proposed framework 'DataAugmenter' and clearly indicates its purpose in NLP, aligning perfectly with the abstract's focus. It is scholarly and technically precise, providing readers with an immediate understanding of the paper's contribution while maintaining an appropriate level of specificity.",
+      "B": "Title B is clear but overly generic, failing to mention the specific framework name 'DataAugmenter' that appears prominently in the abstract. This title lacks the distinctiveness needed to differentiate this research from other augmentation frameworks, appearing more like a category label than a representation of novel research.",
+      "C": "Title C uses an interrogative style that creates ambiguity about whether the paper answers this question or merely poses it. While it emphasizes the performance improvement aspect mentioned in the abstract, it fails to indicate that the paper introduces a specific framework called 'DataAugmenter', making it less faithful to the core contribution described."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the abstract by naming the specific model (TextCorrelator) introduced in the research and clearly stating its purpose for textual correlation analysis. This scholarly title is faithful to the content, appropriately technical, and provides readers with a clear expectation of what the paper delivers.",
+      "B": "Title B is overly generic, omitting the specific model name (TextCorrelator) that features prominently in the abstract. While technically accurate, it lacks the specificity and distinctiveness needed to differentiate this research from other correlation analysis papers, making it less informative than Title A.",
+      "C": "Title C uses a question format that creates unnecessary ambiguity about what the paper actually delivers, when the abstract clearly presents a specific model with concrete results. This marketing-like approach feels misaligned with the abstract's straightforward presentation of a new model with measurable improvements, and the framing suggests a survey rather than a model introduction."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific framework 'ContextualClassifier' discussed in the abstract, making it highly informative and aligned with the research contribution. It is clear and scholarly, effectively communicating the paper's focus on a framework for contextual classification, though it repeats 'contextual classification' in a somewhat formulaic way.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other classification frameworks. While technically accurate, it omits the crucial 'Contextual' aspect of the classifier name that forms the core contribution identified in the abstract, making it significantly less informative than Title A.",
+      "C": "Title C takes an intriguing question-based approach that highlights the research problem rather than the solution, which makes it more engaging than B but less precise than A. While it effectively conveys the paper's motivation, it fails to mention the specific 'ContextualClassifier' framework that is central to the research contribution described in the abstract."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (ResponseGenerator) that is the focus of the research and clearly indicates its purpose for interactive response generation, perfectly matching the abstract's content. While not exceptionally original in structure, it is scholarly, direct, and unambiguous, providing readers with an immediate understanding of the paper's contribution to dialogue systems.",
+      "B": "Title B is overly generic, lacking the specific model name (ResponseGenerator) that features prominently in the abstract. It's technically accurate but insufficiently distinctive, failing to capture the innovative aspects or significance of the research contribution described in the abstract. This title could apply to numerous papers in the dialogue systems field, making it less effective at representing this specific research.",
+      "C": "Title C uses an intriguing question format that suggests originality, but it creates ambiguity about whether the paper is a review/survey or presents a new model. The abstract clearly describes a specific model (ResponseGenerator) which this title fails to mention, making it less faithful to the research content despite its engaging tone. The question format also slightly misrepresents the paper's definitive contributions described in the abstract."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (NamedEntityRecognizer) discussed in the abstract, establishing a direct connection to the research contribution. While not particularly original in structure, it accurately communicates the paper's focus on developing a framework for NER that achieves significant performance improvements. The title is technically precise and descriptive, avoiding ambiguity about the paper's content.",
+      "B": "Title B is overly generic and fails to highlight the specific contribution (NamedEntityRecognizer) mentioned in the abstract. It lacks distinctiveness and could apply to countless papers in the NER field, providing no indication of the 11.6% improvement or deep learning approach that makes this research significant. This title is technically accurate but too broad to effectively represent the specific advances described in the abstract.",
+      "C": "Title C's question format feels misaligned with the abstract, which presents a specific framework rather than exploring how frameworks in general enhance NER. The rhetorical structure creates unnecessary ambiguity about the paper's content and contributions, and it fails to mention the specific framework (NamedEntityRecognizer) that is central to the research. This title has a more conversational tone but sacrifices precision and scholarly focus."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the abstract by explicitly mentioning the model name 'TextSynthesis' and clearly stating the neural approach to text generation. It is scholarly, informative, and directly aligns with the research contribution described in the abstract, making it immediately clear what readers should expect.",
+      "B": "Title B is overly generic and lacks specificity about the particular neural approach (GANs) or the model name (TextSynthesis) that are central to the research. While technically accurate, it fails to distinguish this work from countless other papers on neural text generation approaches, making it less effective at conveying the unique contribution.",
+      "C": "Title C uses a question format that feels less scholarly and more conversational than appropriate for a technical paper. While it does highlight the focus on neural approaches for text generation, it lacks specificity about the particular contribution (TextSynthesis model) and doesn't reflect the concrete results presented in the abstract."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (SemanticParser) introduced in the research while indicating its purpose, which aligns perfectly with the abstract. The title is scholarly and technically precise, providing readers with an immediate understanding of what the paper offers - a new framework for semantic parsing that achieves significant improvements over existing methods.",
+      "B": "Title B is overly generic and lacks the specific identification of the SemanticParser framework that forms the core contribution of the research. While technically accurate, it fails to convey the novelty of the work described in the abstract and does not distinguish this research from countless other papers on semantic parsing frameworks.",
+      "C": "Title C uses a question format that creates ambiguity about the paper's actual contribution and doesn't mention the specific SemanticParser framework described in the abstract. The title feels more like a blog post or discussion prompt rather than a scholarly research paper, and it fails to convey the concrete improvements (15.7% accuracy gain) demonstrated in the research."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific system (SummarizationNet) developed in the research and clearly indicates its purpose for automatic text summarization, perfectly matching the abstract's content. It is scholarly and technically accurate, providing readers with immediate understanding of the paper's focus while highlighting the system's contribution to the field.",
+      "B": "Title B is overly generic and lacks specificity about which system is being presented, omitting the crucial 'SummarizationNet' name mentioned prominently in the abstract. While technically accurate, it fails to distinguish this research from countless other summarization papers and doesn't convey the deep learning approach or performance improvements detailed in the abstract.",
+      "C": "Title C poses a question rather than stating the research contribution, creating misalignment with the abstract which clearly presents a specific system rather than exploring theoretical possibilities. This interrogative framing is misleading since the paper actually demonstrates a concrete solution (SummarizationNet) rather than merely discussing how systems might improve summarization."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (DataAnalyzer) that is central to the research presented in the abstract, making it precise and unambiguous. While not exceptionally original in structure, it faithfully represents the research contribution and effectively communicates the technical nature and significance of the work.",
+      "B": "Title B is overly generic, lacking the specific name of the framework (DataAnalyzer) that distinguishes this research. The vague phrasing diminishes both its clarity and significance, as it fails to highlight what makes this particular framework noteworthy compared to others in the field.",
+      "C": "Title C's question format creates unnecessary ambiguity about the paper's actual contribution and findings. The rhetorical structure feels somewhat gimmicky rather than scholarly, and it fails to directly identify the specific framework (DataAnalyzer) that constitutes the main research contribution described in the abstract."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific system (ContextualGenerator) and its purpose, perfectly aligning with the abstract's focus. It is scholarly, informative, and strikes an appropriate balance between being descriptive and concise, accurately representing the research contribution without unnecessary embellishment.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other text generation studies. While technically accurate, it omits the system name (ContextualGenerator) that appears prominently in the abstract, making it less informative and memorable than Title A.",
+      "C": "This question-format title is ambiguous and doesn't clearly communicate that the paper presents a specific system (ContextualGenerator). The interrogative structure creates uncertainty about whether the paper is a survey, opinion piece, or system description, making it misaligned with the concrete implementation and evaluation described in the abstract."
+    }
+  },
+  {
+    "id": 50,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the specific model introduced in the paper (FeedbackLoop) while clearly indicating its purpose for continuous learning in NLP, perfectly aligning with the abstract's focus. It is scholarly, informative, and directly references the novel contribution described in the abstract, making it immediately clear what the research contributes to the field.",
+      "B": "Title B is overly generic and lacks the specific model name (FeedbackLoop) that is central to the paper's contribution. While technically accurate, it fails to differentiate this work from other continuous learning research in NLP and doesn't capture the innovative aspect of the proposed model that the abstract emphasizes.",
+      "C": "Title C poses a question rather than stating the contribution, making it less direct though still related to the abstract's content. While it addresses the topic area, it doesn't specifically mention the FeedbackLoop model that constitutes the paper's main contribution, and the question format feels less scholarly and more conversational than would be expected for this research."
+    }
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "B",
+    "reasons": {
+      "A": "Title A is mostly clear and communicates the main idea effectively, but the phrasing is slightly less direct than Title B. It is somewhat original, though it follows a common pattern in NLP titles. The title suggests a meaningful contribution to the field, but it could be more specific about the impact.",
+      "B": "Title B is the clearest and most straightforward, making it immediately understandable to an NLP audience. It maintains a similar level of originality as Title A, but its directness enhances its clarity. The title suggests a significant contribution, indicating a focus on enhancing perception, which is relevant to the field.",
+      "C": "Title C introduces a question format, which adds a layer of originality and intrigue. However, this format slightly reduces its clarity compared to Title B. The significance is less pronounced, as the question format implies uncertainty about the contribution's impact. It is more engaging but less definitive than the other titles."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and straightforward, making it easy for an NLP audience to understand the focus on a comprehensive architecture for visual recognition. While it lacks originality, as it follows a common naming convention, it suggests a significant contribution to the field. Compared to the other titles, it is the most precise and impactful.",
+      "B": "Title B is mostly clear but slightly less direct than Title A due to its phrasing. It maintains the same level of originality and significance as Title A, but the wording is less concise. It does not stand out as much as Title A in terms of clarity.",
+      "C": "Title C introduces a question format, which adds a degree of originality but at the cost of clarity. It implies an exploration of VisionNet's functionality, which may suggest a narrower scope. Compared to Titles A and B, it is less direct and may not convey the same level of significance."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on generating realistic environments with minimal input. It is slightly more original than Title B due to its active phrasing, which suggests a strong contribution. The title implies a significant impact in the field of NLP, as it addresses a challenging task with potential broad applications.",
+      "B": "Title B is mostly clear but slightly less engaging due to its passive structure. It lacks the originality of Title A, as it resembles more conventional phrasing. The significance is somewhat reduced, as the title does not emphasize the novelty or impact as effectively as Title A.",
+      "C": "Title C introduces a question format, which adds a layer of originality and intrigue. However, it may imply uncertainty about the research's success, potentially reducing perceived significance. While it is clear, it does not communicate the contribution as assertively as Title A, making it less impactful overall."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 5,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on a novel approach to temporal action detection. It effectively communicates potential significance by highlighting the novelty of the method. Compared to the other titles, it strikes a good balance between clarity and originality, making it the strongest choice for academic impact.",
+      "B": "Title B is mostly clear but slightly less precise due to the phrase 'Enhanced Precision,' which could be interpreted in various ways. It lacks the originality of Title A, as it resembles more typical titles in the field. The significance is moderate, suggesting an improvement rather than a groundbreaking contribution.",
+      "C": "Title C is the most original, using a question format that piques curiosity. However, it sacrifices some clarity, as it is less direct about the paper's content. While it suggests potential significance, the phrasing is more speculative, making it less effective than Title A in conveying a strong academic impact."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and presents the framework 'DepthWise' as novel, which suggests a fresh contribution to the field. It is concise and effectively communicates the potential significance of the work in 3D reconstruction. However, it could be slightly more specific about the nature of the framework.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it slightly harder to parse. It lacks the punch of Title A and feels more generic, reducing its originality and perceived significance. The use of 'as a' makes it sound more like a description than a strong statement.",
+      "C": "Title C is clear and poses an intriguing question about the effectiveness of 'DepthWise,' which can engage the reader. However, it suggests a narrower focus on evaluation rather than introducing a novel framework, which may limit its perceived significance compared to Title A. It is more original than Title B but less impactful overall."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a significant contribution to the field of human pose detection using deep learning. It uses the term 'Unlocking,' which implies a novel approach or breakthrough, although it is somewhat less original in its phrasing. Compared to Title B, it suggests a broader impact, and it is more straightforward than Title C.",
+      "B": "Title B is the clearest of the three, directly stating the focus on enhanced human pose detection. However, it lacks originality, as it follows a common structure and does not imply a significant breakthrough. It appears more incremental compared to Title A, which suggests a more substantial contribution.",
+      "C": "Title C is the most original, using a question format that piques curiosity. However, it sacrifices some clarity for this originality, making it slightly harder to immediately grasp. It suggests potential significance by questioning new possibilities, but the phrasing is less direct than Title A, which more clearly communicates its impact."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and straightforward, effectively communicating the core idea of the paper. It is precise and unambiguous, making it easy for an NLP audience to understand the focus on video generation from text. While the originality is average, the title suggests a meaningful contribution to the field, indicating a framework that could have broad applications.",
+      "B": "Title B is mostly clear but slightly less direct than Title A due to its phrasing. It lacks originality, as it closely resembles typical academic titles without offering a fresh angle. The significance is somewhat limited, as it does not strongly suggest a broad impact, focusing more on the framework aspect without highlighting potential contributions.",
+      "C": "Title C introduces a question format, which adds a degree of originality and intrigue. However, it is less clear and more ambiguous than the other titles, as it implies an exploration rather than a concrete contribution. The significance appears limited, as the title suggests a narrower focus on facilitation rather than the framework's potential impact."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and conveys the purpose of the research effectively, though it could be more specific about what makes the framework 'advanced.' It is somewhat original, as it introduces a new framework, but the name 'SegmentationNet' is not particularly novel. The title suggests a significant contribution to the field of image segmentation, making it the strongest choice overall.",
+      "B": "Title B is clear but lacks originality, as it closely resembles many existing titles in the field. It suggests a focus on techniques rather than a framework, which may imply a narrower scope. The significance is moderate, as it hints at improvements in techniques but does not strongly suggest a broad impact.",
+      "C": "Title C is less clear due to its question format, which can be seen as vague or marketing-like. However, it is more original in its approach, suggesting an exploration of the framework's advancements. The significance is higher than Title B, as it implies a deeper investigation into the contributions of SegmentationNet, but the phrasing could be more scholarly."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and communicates the research focus effectively, though it could be slightly more concise. It suggests a meaningful contribution to the field of identity verification, which is significant. However, it lacks a strong sense of originality, as it resembles typical phrasing in the field.",
+      "B": "Title B is clear but feels more generic and less impactful than Title A. It lacks originality, as it closely mirrors common phrasing and structure found in many NLP papers. The significance is somewhat limited, as it does not strongly suggest a broad impact.",
+      "C": "Title C introduces a question format, which adds a degree of originality and intrigue. However, it is less clear than the other titles due to its interrogative nature, which may imply uncertainty about the research contribution. The significance is moderate, as it does not clearly convey the potential impact of the research."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "B",
+    "reasons": {
+      "A": "Title A is mostly clear but slightly ambiguous due to the lack of context around 'ObjectDetection.' It suggests a significant contribution by introducing a 'new paradigm,' but the originality is average as it resembles common phrasing in the field. Compared to Title B, it is less precise.",
+      "B": "Title B is the clearest and most precise, directly stating the focus on 'ObjectDetection as a New Paradigm.' It maintains a similar level of originality to Title A but is more straightforward, making it the strongest choice for academic impact. The significance is well-communicated, suggesting a meaningful contribution.",
+      "C": "Title C is intriguing and somewhat original due to its question format, which invites curiosity. However, it is slightly less clear than Title B and suggests a narrower scope, focusing on the factors that make 'ObjectDetection' a new paradigm. It is less significant in terms of broad impact compared to the other titles."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and presents a balanced view of the research focus, suggesting a connection between artistic and realistic styles through style transfer. It is somewhat original, as it implies a novel approach to style transfer, and suggests a meaningful contribution to the field. Compared to the other titles, it is concise and impactful.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to immediately grasp the research focus. It lacks originality, as it resembles many existing titles and does not stand out. The significance is average, as it does not strongly suggest a broad impact or novel contribution.",
+      "C": "Title C is clear and engaging, using a question format that piques interest. It is somewhat original, as the question format is less common in academic titles, and it suggests a meaningful contribution by implying an exploration of the style transfer process. However, it is slightly longer than Title A, which may affect its immediate impact."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the use of GANs in vision tasks. It is slightly more original than Title B due to its catchy phrasing, though it lacks the questioning intrigue of Title C. The title suggests a meaningful contribution to the field, indicating a broad application of GANs in vision tasks.",
+      "B": "Title B is straightforward but lacks the engaging phrasing of Title A and the exploratory nature of Title C. It is less original, as it closely resembles typical academic titles without adding a unique angle. The significance is moderate, as it implies a technical application without suggesting broader impact.",
+      "C": "Title C introduces an element of inquiry, which adds originality and suggests a critical evaluation of GANs' effectiveness in vision tasks. However, the phrasing is slightly awkward, which affects clarity. It implies a significant contribution by questioning the effectiveness, potentially leading to impactful insights, but the clarity is not as strong as in Title A."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, effectively communicating the focus on advanced techniques for object tracking in videos using NeuralTracking. While it lacks originality, as it follows a common structure, it suggests a meaningful contribution to the field, potentially indicating significant advancements in video object tracking.",
+      "B": "Title B is slightly less clear due to its awkward phrasing, which may confuse readers about the primary focus. It is less original, as it closely resembles Title A but with a less effective structure. The significance is moderate, as it implies a technical contribution but lacks the impact suggested by Title A.",
+      "C": "Title C introduces a question format, adding a layer of originality and suggesting an evaluative study. It is clear but slightly less direct than Title A. The significance is notable, as it implies an assessment of effectiveness, which could be valuable for the field. However, it may not convey as strong an academic impact as Title A."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, though it could be more concise. It effectively communicates the focus on enhancing image understanding through segmentation, but lacks originality as it uses common phrasing. The title suggests a potentially useful contribution, though it appears somewhat incremental.",
+      "B": "Title B is slightly less clear due to its awkward phrasing, which makes it harder to parse. Like Title A, it lacks originality and uses repetitive language. The significance is similar to Title A, indicating a useful but not groundbreaking contribution.",
+      "C": "Title C introduces a question format, which adds a slight edge in originality compared to the others. However, the phrasing is somewhat vague and could be interpreted as speculative. The significance remains similar, suggesting a contribution that may be useful but not necessarily impactful. Overall, Title A is the strongest due to its clarity."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, effectively communicating the focus on deep learning and visual recognition. However, it lacks originality, as it follows a common pattern seen in many NLP and computer vision papers. The title suggests a significant contribution to the field, but it does not specify the scope or impact of the research.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to immediately grasp the research focus. It is also unoriginal, as it resembles many existing titles without offering a fresh perspective. The significance is average, as it implies a general application of deep learning without highlighting any specific advancements or contributions.",
+      "C": "Title C is clear and engaging, posing a question that suggests an exploration of the impact of NeuroVision on visual recognition. It is more original than the other titles, as it frames the research in an inquisitive manner, which is less common. The title implies a significant contribution by focusing on the enhancement aspect, suggesting a deeper investigation into the benefits of the approach."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a meaningful contribution to the field of computer vision by focusing on advancing contextual awareness. However, it lacks a bit of originality, as it resembles typical academic titles. Compared to Title B, it implies a broader impact, and compared to Title C, it is more straightforward.",
+      "B": "Title B is the clearest of the three, directly stating the purpose of improving contextual awareness. However, it is the least original, as it follows a common structure and lacks a distinctive angle. Its significance seems more limited compared to Title A, as it suggests an incremental improvement rather than a broad advancement.",
+      "C": "Title C is somewhat original due to its question format, which can engage the reader's curiosity. However, it is less clear and slightly awkward, as it does not directly state the contribution. It suggests a significant impact by questioning the advances brought by SceneUnderstanding, but it is less direct than Title A in communicating this potential."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, though it could be slightly more precise by avoiding redundancy. It is somewhat unoriginal, as it uses common terminology and structure found in many NLP papers. The title suggests a useful contribution, but it does not strongly imply a broad impact. Compared to the others, it is the most straightforward and less awkwardly phrased.",
+      "B": "Title B is less clear due to its awkward phrasing and redundancy, making it harder to follow. It lacks originality, as it closely resembles typical NLP titles without offering a fresh perspective. The significance is similar to Title A, suggesting a useful but not groundbreaking contribution. Overall, it is less effective than Title A due to its cumbersome structure.",
+      "C": "Title C introduces a question format, which adds a slight originality compared to the others. However, it is less clear due to its awkward phrasing and redundancy. The significance is on par with the other titles, indicating a potentially useful but not highly impactful contribution. While the question format is interesting, it does not sufficiently enhance clarity or significance."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, effectively communicating the focus on assessing and improving image quality for vision tasks. However, it lacks a distinctive angle, making it somewhat generic. The title suggests a meaningful contribution to the field, but it could benefit from a more engaging phrasing to enhance originality.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse. It appears unoriginal and derivative, resembling many existing titles without offering a fresh perspective. The significance is limited as the title does not strongly convey the potential impact or scope of the research.",
+      "C": "Title C is clear and engaging, posing a question that invites curiosity about the research. It stands out with a more original approach by framing the topic as an inquiry, which suggests a broader exploration of the impact of image quality. This title effectively communicates significance, indicating a potentially impactful study in the field of vision tasks."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the focus on anomaly detection in visual data. However, it lacks a unique angle or specific technique, making it somewhat generic. Compared to Title B, it is slightly more direct, and unlike Title C, it avoids unnecessary complexity.",
+      "B": "Title B is similar to Title A but includes the word 'for,' which adds a minor level of ambiguity without enhancing clarity. It is less original, as it closely resembles common phrasing in the field. Its significance is on par with Title A, but it does not stand out as much.",
+      "C": "Title C introduces a question format, which is less common and slightly more original. However, it sacrifices clarity for this originality, as the phrasing is more complex and less direct. The significance remains the same, but the title's structure may confuse readers compared to the straightforwardness of Titles A and B."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the focus on transforming data into visual representations. However, it lacks originality, as it resembles many existing titles in the data visualization domain. The significance is moderate, suggesting a useful but not groundbreaking contribution.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to follow. It is also unoriginal, feeling derivative and similar to many other titles. The significance is similar to Title A, indicating a potentially useful but not highly impactful contribution.",
+      "C": "Title C is clear and poses an intriguing question, which adds a layer of originality and engages the reader. It suggests a broader impact by implying an exploration of the transformation process, making it more significant than the other titles. Overall, it stands out as the strongest choice for academic impact."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and straightforward, effectively communicating the focus on generating realistic facial images using AI. It is precise and unambiguous, making it easy for an NLP audience to understand. However, it lacks originality, as it follows a common pattern seen in AI-related titles. Despite this, it suggests a significant contribution to the field of AI image generation.",
+      "B": "Title B is slightly less clear due to its length and redundancy, which makes it less impactful. It uses the phrase 'using AI techniques,' which is somewhat generic and does not add much originality. The significance is moderate, as it implies a technical contribution but lacks the punch of a more concise title.",
+      "C": "Title C introduces a question format, which adds a layer of originality and engages the reader by posing a challenge. It is clear but slightly less direct than Title A. The question format suggests a critical examination of the capability of AI in generating realistic images, hinting at a potentially significant contribution. However, it may not be as immediately informative as Title A."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, though it could be more concise. It effectively communicates the focus on enhancing object tracking through deep learning, but lacks originality as it resembles many existing titles. The significance is moderate, suggesting a useful but not groundbreaking contribution.",
+      "B": "Title B is somewhat awkwardly phrased, making it less clear than Title A. It repeats the concept of 'enhanced object tracking' without adding new information, resulting in a lack of originality. The significance is similar to Title A, indicating a potentially useful but not highly impactful study.",
+      "C": "Title C introduces a question format, which adds a slight originality compared to the other titles. However, the phrasing is less direct, which may confuse readers about the paper's focus. The significance remains moderate, as it implies an exploration of enhancement techniques without suggesting a major breakthrough."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, making it immediately understandable to an NLP audience. It effectively communicates the focus on advancing OCR with AI, suggesting a meaningful contribution. However, it lacks originality, as it follows a common structure seen in many NLP titles.",
+      "B": "Title B is less clear due to awkward phrasing, which makes it harder to follow. It appears unoriginal and generic, resembling many existing titles without offering a fresh angle. The significance is also limited, as it does not strongly suggest a broad impact.",
+      "C": "Title C is somewhat clear but uses a question format that may not be as direct. It offers a slightly more original approach by posing a question, but this can also make it seem less scholarly. The significance is moderate, as it implies an exploration rather than a definitive advancement."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and straightforward, effectively communicating the focus on image restoration from low-quality inputs. It is precise and unambiguous, making it easy for an NLP audience to understand. While the originality is average, the title suggests a significant contribution to the field of image processing, which is relevant to NLP in the context of multimodal research.",
+      "B": "Title B is slightly less clear due to its awkward phrasing, which makes it feel more like a generic description rather than a compelling title. It lacks originality and does not stand out among typical research titles. The significance is also less pronounced compared to Title A, as it does not strongly suggest a broad impact.",
+      "C": "Title C introduces a question format, which adds a layer of originality and suggests an evaluative approach to the research. This makes it more engaging and potentially significant, as it implies an investigation into the effectiveness of the method. However, the phrasing is slightly less clear than Title A, and it may not immediately convey the research's scope to all readers."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and straightforward, making it easy to understand for an NLP audience. It effectively communicates the focus on image analysis for environment identification. However, it lacks originality, as it resembles many existing titles in the field.",
+      "B": "Title B is slightly less clear due to its longer phrasing, which adds unnecessary complexity. It is less original and feels more generic compared to Title A. The significance is also slightly lower, as it does not suggest any novel contribution.",
+      "C": "Title C introduces a sense of originality by hinting at innovations, which could intrigue readers. However, it sacrifices clarity with its question format, making it less direct. It suggests a potentially significant contribution, but the phrasing could be more precise to enhance understanding."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a meaningful contribution to the field of human-computer interaction. However, it lacks specificity about the nature of the advancement, making it somewhat generic. Compared to Title C, it does not pose a question that might intrigue the reader about the mechanisms of advancement.",
+      "B": "Title B is less clear due to its awkward phrasing and excessive length, which makes it harder to parse. It appears less original and significant compared to the other titles, as it seems to merely state a relationship without indicating a novel angle or specific contribution. It lacks the engaging element present in Title C.",
+      "C": "Title C is clear and poses an intriguing question, which can engage the reader by suggesting an exploration of the mechanisms behind gesture recognition's impact on human-computer interaction. It is more original than the other titles due to its question format, which is less common in academic titles. It also implies a significant contribution by focusing on the advancement aspect, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively conveying the focus on augmented reality's role in connecting physical and digital realms. It is somewhat original, though it uses a common structure seen in many tech-related titles. The title suggests a significant contribution by addressing a broad and impactful topic in the field of augmented reality.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse at first glance. It lacks originality, as it closely resembles typical titles without offering a fresh perspective. The significance is moderate, as it implies a useful but not groundbreaking contribution to the field.",
+      "C": "Title C is clear and engaging, using a question format that invites curiosity about the research. It is somewhat original, as the question format is less common in academic titles, though not entirely unique. The title suggests a significant contribution by implying an exploration of the mechanisms behind augmented reality's impact, making it comparable to Title A in terms of potential impact."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, making it immediately understandable to an NLP audience. It effectively communicates the focus on motion dynamics in video analysis using OpticalFlow, suggesting a meaningful contribution. However, it lacks a distinctive angle, making it somewhat average in originality compared to Title C.",
+      "B": "Title B is mostly clear but slightly less precise due to the use of 'for' which makes it feel more like a tool application rather than a study. It is less original and significant than Title A, as it does not strongly suggest a novel or impactful contribution to the field.",
+      "C": "Title C introduces a question format, which adds a fresh angle and increases its originality. However, the phrasing is slightly awkward and less direct, reducing clarity. It suggests a significant contribution by implying an enhancement in understanding, but the question format may imply a narrower scope than Title A."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and presents a catchy and engaging phrase with 'Bringing Depth to Visual Experiences.' It suggests a novel approach to 3D reconstruction, hinting at a potentially significant contribution to the field. However, it could be slightly more precise in its technical scope compared to Title B.",
+      "B": "Title B is the clearest and most straightforward, directly stating the purpose of enhancing depth in visual experiences through 3D reconstruction. However, it lacks the engaging and novel phrasing found in Title A, making it feel more conventional and less impactful.",
+      "C": "Title C introduces a question format, which adds a layer of originality but also introduces ambiguity about the research's effectiveness. It suggests a potential exploration of the effectiveness of 3D reconstruction, but the phrasing is less direct and clear compared to Titles A and B, which may reduce its perceived significance."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, making it immediately understandable to an NLP audience. However, it lacks originality, as it resembles many existing titles in style. The significance is moderate, suggesting a useful but not groundbreaking contribution. Compared to the other titles, it is the most straightforward and concise.",
+      "B": "Title B is mostly clear but slightly more verbose than Title A, which may introduce minor ambiguity. It is less original, feeling more generic and derivative. The significance remains moderate, similar to Title A, but the phrasing does not enhance its impact.",
+      "C": "Title C is clear but framed as a question, which can be engaging but also slightly less direct. It has a bit more originality due to its interrogative form, but this does not necessarily enhance its significance. The title suggests a similar level of contribution as the others but is less conventional in its presentation."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and direct, making it easy to understand for an NLP audience. It effectively communicates the focus on improving action recognition in videos through temporal segmentation. While the originality is average, the title suggests a meaningful contribution to the field, making it the strongest choice overall.",
+      "B": "Title B is mostly clear but slightly less direct than Title A due to the use of 'Enhanced' instead of 'Improving.' It maintains a similar level of originality and significance as Title A, but the phrasing is less precise, which slightly affects its clarity.",
+      "C": "Title C introduces a question format, which adds a touch of originality but at the cost of clarity. The phrasing is somewhat vague and less direct, making it harder to immediately grasp the research contribution. It suggests a more exploratory approach, which may imply a narrower scope of significance compared to Titles A and B."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, but it lacks specificity about the methods or context, making it somewhat generic. It suggests a focus on improving accuracy, which is significant, but the title does not convey a strong sense of novelty. Compared to Title C, it is less engaging and does not imply a research question or exploration.",
+      "B": "Title B is slightly more technical and less clear due to its awkward phrasing. It attempts to specify the application context but ends up being verbose without adding much clarity or originality. Like Title A, it suggests a focus on accuracy but does not stand out in terms of novelty or significance.",
+      "C": "Title C is clear and poses a question, which can be engaging and suggestive of an exploratory study. It is slightly more original than the other titles due to its interrogative form, which implies a deeper investigation into the mechanisms of accuracy enhancement. This title is the strongest overall as it hints at a more significant contribution by framing the research as an inquiry."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and communicates the integration of diverse data sources for enhanced learning. However, it lacks originality as it resembles many existing titles in the field. The significance is suggested by the potential impact of integrating multiple modalities, but it could be more explicit about the specific contributions.",
+      "B": "Title B is less clear due to its awkward phrasing and excessive length, making it harder to follow. It is unoriginal and feels derivative, as it closely resembles Title A but with a less effective structure. The significance is not strongly conveyed, appearing more incremental than impactful.",
+      "C": "Title C is clear and poses an intriguing question, which adds a layer of originality and engages the reader. It suggests a significant contribution by questioning the potential of multimodal learning, which could imply a broader impact. Compared to the other titles, it stands out for its engaging format and potential to spark interest."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and conveys the main idea effectively, though it is somewhat lengthy. It uses a common structure seen in many NLP papers, which makes it less original. The title suggests a potentially useful contribution, but it does not strongly imply a broad impact.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse at first glance. It lacks originality, as it closely resembles typical NLP paper titles. The significance is similar to Title A, indicating a useful but not groundbreaking contribution.",
+      "C": "Title C is clear and engaging, using a question format that piques interest and suggests a deeper exploration of the topic. It stands out as more original compared to the other titles, and it implies a significant contribution by framing the research as an investigation into the mechanisms of feature extraction. This makes it the strongest choice for academic impact."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and communicates the main idea effectively, though it could be slightly more concise. It is somewhat original, but the concept of knowledge distillation is well-known, making it less distinctive. The title suggests a meaningful contribution to model efficiency, indicating a potentially significant impact.",
+      "B": "Title B is less clear due to its awkward phrasing and excessive length, which makes it harder to parse. It lacks originality, as it closely resembles Title A without adding any new perspective. The significance is moderate, as it implies an enhancement but does not strongly convey a broad impact.",
+      "C": "Title C is clear and engaging, using a question format that invites curiosity and suggests a deeper exploration of the topic. It is more original than the others, as it frames the research in an inquisitive manner. The title implies a significant contribution by questioning the mechanism of improvement, suggesting a broader impact on understanding knowledge distillation."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a significant contribution by framing GraphNeuralNetworks as a 'new frontier.' However, it lacks specificity about the nature of the innovations, making it somewhat generic. It is similar to Title B in structure but slightly more direct.",
+      "B": "Title B is clear and implies a significant contribution, similar to Title A. The use of 'as a' makes it slightly less direct, but it still effectively communicates the potential impact. It does not stand out in terms of originality compared to the other titles.",
+      "C": "Title C is the clearest and most original, directly posing a question about the innovations of GraphNeuralNetworks. This approach suggests a thorough exploration of their impact on deep learning, making it highly significant. It stands out by inviting curiosity and promising a detailed analysis, unlike the more declarative Titles A and B."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and straightforward, effectively communicating the focus on using pre-trained models to speed up training. It is slightly more original than Title B due to its active phrasing, which suggests a more dynamic contribution. The title implies a significant contribution to the field by addressing a common challenge in NLP, making it the strongest choice overall.",
+      "B": "Title B is clear but lacks originality, as it closely resembles many existing titles in the field. It is more passive in tone compared to Title A, which may suggest a less impactful contribution. The significance is somewhat limited, as it does not strongly convey the potential impact or novelty of the research.",
+      "C": "Title C introduces a question format, which adds a layer of originality and suggests an exploratory approach. However, the phrasing is slightly awkward, making it less clear than Titles A and B. It implies a significant contribution by questioning the mechanisms of transfer learning, but the lack of clarity slightly diminishes its impact."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and presents Federated Learning as a new paradigm, which suggests a significant contribution. However, it lacks originality as it resembles many existing titles that introduce new paradigms. The title is straightforward but could benefit from a more engaging or distinctive phrasing.",
+      "B": "Title B is similar to Title A but uses a slightly more formal phrasing with 'as a New Paradigm.' This makes it slightly less original and impactful. It maintains clarity but does not stand out in terms of novelty or significance compared to the other titles.",
+      "C": "Title C is the clearest and most engaging, posing a question that invites curiosity about the advantages of Federated Learning. It suggests a novel angle by focusing on the benefits, which implies a significant contribution to the field. This title is more original and impactful than the others, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the focus on self-supervised learning and its potential without labels. It is somewhat original, as it suggests a broad exploration of the topic, which could have significant implications for the NLP field. Compared to the other titles, it strikes a good balance between clarity and impact, making it the strongest choice overall.",
+      "B": "Title B is less clear due to its awkward phrasing and slightly redundant wording. It lacks originality, as it closely resembles common phrasing in the field. The significance is average, as it does not strongly suggest a broad impact or novel contribution. Overall, it is less compelling than Titles A and C.",
+      "C": "Title C is clear and poses an intriguing question, which can engage the reader's curiosity. It is original in its approach by framing the topic as a question, suggesting a deeper exploration of the mechanisms behind self-supervised learning. The significance is on par with Title A, but the question format may imply a narrower focus. Nonetheless, it is a strong contender."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and communicates the focus on enhancing transparency in machine learning models through ExplainableAI. However, it lacks originality, as it resembles many existing titles in the field. The significance is suggested but not strongly emphasized, making it appear as a meaningful contribution with a somewhat broad scope.",
+      "B": "Title B is clear but slightly less original than Title A, as it uses a common phrasing structure. The significance is less pronounced, as it suggests an enhancement but does not imply a strong impact. Overall, it feels more generic compared to the other titles.",
+      "C": "Title C is the clearest and most original among the three, as it poses a question that invites curiosity and suggests a deeper exploration of the topic. It effectively communicates the significance by implying a thorough investigation into the role of ExplainableAI in enhancing transparency. This title stands out for its engaging and scholarly approach."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, effectively communicating the focus on ethical AI and its challenges. It is slightly more original than the others due to its concise and impactful phrasing. The title suggests a significant contribution to the field by addressing the broad and important topic of responsible AI development.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to follow. It lacks originality, as it closely resembles Title A but with a less effective structure. The significance is slightly lower because the title's phrasing does not emphasize the potential impact as strongly as Title A.",
+      "C": "Title C is clearer than Title B but not as precise as Title A. It introduces a question format, which is somewhat original but not entirely unique. The significance is similar to Title B, as it suggests a meaningful contribution but does not convey the same level of impact as Title A."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and concise, effectively communicating the focus on evaluating model robustness under adversarial conditions. It is precise and unambiguous, making it easy for an NLP audience to understand. While the originality is average, the title suggests a meaningful contribution to the field, indicating a broad impact on model evaluation techniques.",
+      "B": "Title B is slightly less clear due to its awkward phrasing, which makes it feel somewhat redundant. It lacks originality, as it closely resembles Title A but with less clarity. The significance is also reduced, as the title does not strongly suggest a novel or impactful contribution compared to Title A.",
+      "C": "Title C introduces a question format, which adds a degree of originality but at the cost of clarity. The phrasing is more complex and may confuse readers about the paper's focus. While it hints at exploring methods, the significance is not as apparent, making it less impactful than Title A."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the focus on automated machine learning and its role in streamlining model development. However, it lacks originality, as it uses common terms and phrasing. The significance is moderate, suggesting a useful but not groundbreaking contribution.",
+      "B": "Title B is less clear due to its awkward phrasing and excessive length, which makes it harder to parse. Like Title A, it lacks originality and suggests a moderate level of significance. The redundancy in wording detracts from its clarity compared to Title A.",
+      "C": "Title C introduces a question format, which adds a slight originality compared to the others. However, the phrasing is somewhat awkward, and the title does not clearly convey the research's significance. It suggests an exploration rather than a definitive contribution, making it less impactful than Title A."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and concise, effectively communicating the focus on AI techniques in cybersecurity. It is somewhat original, though it follows a common pattern of combining fields. The title suggests a meaningful contribution to the field, indicating a broad impact on enhancing security through AI.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse. It lacks originality, as it closely resembles typical titles without offering a fresh angle. The significance is average, as it implies a contribution but does not strongly suggest a broad impact.",
+      "C": "Title C is clear and engaging, using a question format that piques interest. It is somewhat original, as the question format is less common in academic titles. The title suggests a significant contribution by implying an exploration of the mechanisms behind AI's impact on cybersecurity, though it may be perceived as slightly less formal."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and presents a strong sense of significance by framing quantum computing as a new paradigm, which suggests a broad impact on computational efficiency. It is slightly less clear than Title B due to the lack of a verb, but it is more original in its phrasing compared to Title B. The title effectively communicates the potential for a significant shift in computational methods.",
+      "B": "Title B is the clearest of the three, with a straightforward and unambiguous structure. However, it lacks originality, as it closely resembles typical academic titles. While it suggests a meaningful contribution, it does not convey the same level of impact as Title A, making it slightly less significant.",
+      "C": "Title C is somewhat clear but introduces a question format that may imply uncertainty about the contribution. It is more original than Title B due to its interrogative style, but this also makes it less assertive in terms of significance. The title suggests exploration rather than a definitive statement, which may limit its perceived impact compared to Title A."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a significant impact on the field of biological data analysis. However, it lacks originality, as it uses common terms like 'revolutionizing' that are often seen in similar contexts. Compared to Title C, it is less engaging and does not pose an intriguing question.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse at first glance. It also lacks originality, as it closely resembles many existing titles without offering a fresh perspective. Its significance is moderate, but it does not stand out compared to the other titles.",
+      "C": "Title C is clear and poses an engaging question, which adds a layer of originality and invites curiosity. It suggests a significant contribution by implying a transformative impact on biological data analysis. Compared to the other titles, it is more dynamic and likely to capture the reader's interest."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and concise, making it easy to understand for an NLP audience. It effectively communicates the integration of AI in urban planning, suggesting a meaningful contribution to the field. However, it lacks a unique angle, as it resembles many existing titles in its structure and wording.",
+      "B": "Title B is slightly less clear due to its awkward phrasing, which makes it feel a bit cumbersome. It appears less original and significant compared to Title A, as it doesn't strongly convey the potential impact or novelty of the research. The title feels more like a rearrangement of common phrases rather than a fresh perspective.",
+      "C": "Title C introduces a question format, which adds a slight originality to the presentation. It maintains clarity, though the phrasing could be seen as less direct. The title suggests a significant contribution by implying an exploration of the impact of AI on urban planning, but it doesn't stand out as much as Title A in terms of academic impact."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and conveys the main idea effectively, though the use of 'PredictiveMaintenance' as a single word could be slightly confusing. It suggests a meaningful contribution to the field of predictive analytics, but the phrasing is somewhat standard. Compared to Title C, it lacks the engaging question format that could intrigue readers.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to parse at first glance. It feels more generic and less original than the other titles, as it closely resembles typical phrasing found in many technical papers. The significance is moderate, but it doesn't stand out as much as Title C.",
+      "C": "Title C is clear and uses a question format that adds originality and engages the reader's curiosity. It suggests a significant contribution by questioning the potential of predictive maintenance, which could imply a broader impact. This title is more intriguing and distinctive compared to Titles A and B, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, making it immediately understandable to an NLP audience. It effectively communicates the concept of creating virtual replicas, suggesting a meaningful contribution to the field. However, it lacks a distinctive angle, making it somewhat average in originality compared to Title C.",
+      "B": "Title B is mostly clear but slightly less concise than Title A due to its phrasing. It appears less original and significant, as it closely resembles common phrasing and lacks a strong indication of impact. It does not stand out as much as the other titles.",
+      "C": "Title C introduces a question format, adding a fresh angle and making it more original. It suggests an exploration of the process, which could imply a significant contribution. However, the phrasing is slightly less direct than Title A, which affects its clarity."
+    }
+  },
+  {
+    "id": 50,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, effectively communicating the focus on eco-friendly practices through AI technologies. It is slightly more original than Title B due to its concise phrasing and directness. The title suggests a significant contribution to the field by addressing sustainability, a critical and timely issue, making it the strongest choice overall.",
+      "B": "Title B is mostly clear but slightly longer and more cumbersome than Title A. It lacks the same level of originality, as it closely resembles typical academic titles. While it suggests a meaningful contribution, it does not convey the same level of impact as Title A, making it less compelling.",
+      "C": "Title C introduces a question format, which adds a layer of originality and engages curiosity. However, it implies uncertainty about the contribution, which may reduce its perceived significance. While it is clear, the question format may not convey the same level of confidence in the research's impact as Title A."
+    }
+  }
+]

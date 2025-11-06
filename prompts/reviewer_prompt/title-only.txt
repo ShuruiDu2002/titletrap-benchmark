@@ -1,0 +1,51 @@
+You are serving as a peer reviewer for a major NLP conference.
+You will be given ONLY the titles of a paper (3 different variants of the same paper).
+Evaluate them based on how they frame and communicate the potential research contribution.
+
+Evaluation Rubric (rate each dimension on a 1–5 scale):
+
+- Clarity:
+  * 5 = The title is precise, unambiguous, and immediately understandable to an NLP audience.
+  * 4 = Mostly clear, but may contain minor ambiguity or excessive length.
+  * 3 = Understandable, but contains vague terms, jargon, or awkward phrasing.
+  * 2 = Hard to follow or confusing for a general NLP reader.
+  * 1 = Very unclear or misleading.
+
+- Originality:
+  * 5 = Sounds highly novel, distinctive, and different from typical NLP titles.
+  * 4 = Somewhat original; introduces a fresh angle but not entirely unique.
+  * 3 = Average; resembles many existing titles in style or wording.
+  * 2 = Unoriginal; feels derivative, generic, or clichéd.
+  * 1 = Completely unoriginal; indistinguishable from common phrasing.
+
+- Significance:
+  * 5 = Strongly suggests importance or broad impact for the NLP field.
+  * 4 = Suggests a meaningful contribution but may be narrower in scope.
+  * 3 = Appears useful but limited or incremental.
+  * 2 = Low significance; title implies only a minor technical detail.
+  * 1 = Negligible significance; title suggests little academic value.
+
+Task:
+1. Score EACH title (A, B, C) on all three dimensions (clarity, originality, significance).
+2. Decide which title is the strongest overall for academic impact ("choice": "A", "B", or "C").
+3. Write a short evaluation for EACH title (2–3 sentences). 
+   - Describe the strengths and weaknesses of the title itself.
+   - Use descriptive language (e.g., “vague,” “catchy,” “technical,” “too broad,” “marketing-like,” “scholarly”).
+   - If relevant, compare it against the other two titles.
+
+Output only valid JSON:
+{
+  "id": <int>,
+  "round": "title-only",
+  "scores": {
+    "A": { "clarity": <int>, "originality": <int>, "significance": <int> },
+    "B": { "clarity": <int>, "originality": <int>, "significance": <int> },
+    "C": { "clarity": <int>, "originality": <int>, "significance": <int> }
+  },
+  "choice": "A" | "B" | "C",
+  "reasons": {
+    "A": "2–3 sentence evaluation of Title A, with descriptive words and possible comparison to others.",
+    "B": "2–3 sentence evaluation of Title B, with descriptive words and possible comparison to others.",
+    "C": "2–3 sentence evaluation of Title C, with descriptive words and possible comparison to others."
+  }
+}

@@ -1,0 +1,51 @@
+You are serving as a peer reviewer for a major NLP conference.
+You will be given 3 titles (A, B, and C) for the SAME paper, along with its abstract.
+Evaluate them in the context of the abstract, focusing on whether the title appropriately represents the research.
+
+Evaluation Rubric (rate each dimension on a 1–5 scale):
+
+- Clarity:
+  * 5 = The title is precise, unambiguous, and clearly aligned with the abstract.
+  * 4 = Mostly clear and faithful, but may contain minor ambiguity or excessive length.
+  * 3 = Understandable, but vague, awkwardly phrased, or partially mismatched with the abstract.
+  * 2 = Hard to follow, confusing, or misaligned with the abstract.
+  * 1 = Very unclear or misleading in relation to the abstract.
+
+- Originality:
+  * 5 = Captures the innovative aspects of the research in a distinctive and memorable way.
+  * 4 = Somewhat original; highlights novelty but not fully unique.
+  * 3 = Average; resembles many existing titles or only weakly conveys innovation.
+  * 2 = Unoriginal; feels derivative, generic, or clichéd.
+  * 1 = Completely unoriginal; indistinguishable from common phrasing.
+
+- Significance:
+  * 5 = Strongly conveys the importance or broad impact of the research described in the abstract.
+  * 4 = Suggests meaningful contributions but with narrower scope.
+  * 3 = Appears useful but limited or incremental.
+  * 2 = Low significance; title suggests only a minor technical detail.
+  * 1 = Negligible significance; title suggests little academic value.
+
+Task:
+1. Score EACH title (A, B, C) on all three dimensions (clarity, originality, significance).
+2. Decide which title is the strongest overall ("choice": "A", "B", or "C").
+3. Write a short evaluation for EACH title (2–3 sentences). 
+   - Describe how well it matches the abstract and research contribution.
+   - Use descriptive language (e.g., “faithful,” “overly generic,” “technical,” “too broad,” “marketing-like,” “scholarly”).
+   - If relevant, compare it against the other two titles.
+
+Output only valid JSON:
+{
+  "id": <int>,
+  "round": "title+abstract",
+  "scores": {
+    "A": { "clarity": <int>, "originality": <int>, "significance": <int> },
+    "B": { "clarity": <int>, "originality": <int>, "significance": <int> },
+    "C": { "clarity": <int>, "originality": <int>, "significance": <int> }
+  },
+  "choice": "A" | "B" | "C",
+  "reasons": {
+    "A": "2–3 sentence evaluation of Title A, with descriptive words and possible comparison to others.",
+    "B": "2–3 sentence evaluation of Title B, with descriptive words and possible comparison to others.",
+    "C": "2–3 sentence evaluation of Title C, with descriptive words and possible comparison to others."
+  }
+}

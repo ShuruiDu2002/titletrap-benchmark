@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, concise, and clearly communicates the primary contribution of the paper - a system called LangGen for generating natural language descriptions from code. It maintains an appropriate scholarly tone while being informative enough to accurately represent the research described in the abstract.",
+      "B": "Title B conveys similar information to Title A but introduces redundancy with the repetition of 'LangGen' and 'Generating.' This makes it less elegant and slightly less clear than Title A, while offering no additional information or originality to compensate for the awkward phrasing.",
+      "C": "Title C frames the paper as a question rather than a statement of contribution, creating uncertainty about whether the paper actually introduces LangGen or merely analyzes it. This interrogative format misrepresents the definitive nature of the research contribution described in the abstract, where LangGen is clearly presented as a novel framework with demonstrated improvements."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly and concisely communicates the purpose of the research, matching the abstract's focus on using TextSynth to generate text from structured data. It is scholarly and straightforward, accurately representing the paper's contribution without unnecessary words or ambiguity.",
+      "B": "Title B is repetitive with the redundant use of 'TextSynth' and 'Synthesizing,' making it less elegant than Title A while conveying essentially the same information. While clear, it lacks originality and sounds somewhat clumsy due to the repetition of similar terms.",
+      "C": "Title C frames the research as a question, which introduces unnecessary ambiguity about the paper's findings when the abstract clearly states positive results. This question format is more original but less appropriate for a paper that definitively demonstrates TextSynth's improvements over state-of-the-art models."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title clearly and concisely introduces the main contribution of the paper - DialogFlow as a framework for conversational agent development. It's straightforward, scholarly, and perfectly aligned with the abstract's focus on presenting a new framework and its capabilities. While not highly original in structure, it effectively communicates the paper's purpose without unnecessary words.",
+      "B": "This title conveys essentially the same information as Title A, but the phrasing 'as a Framework' slightly reduces its clarity and directness. The minor wording change makes it feel less authoritative and more tentative than Title A, without adding any benefits. It remains faithful to the abstract's content but is less effective due to this subtle structural weakness.",
+      "C": "This question-format title attempts to be more engaging but introduces unnecessary ambiguity about whether the paper is evaluating an existing tool or introducing a new framework. The interrogative structure feels less scholarly and more marketing-oriented than Titles A and B. While more original in approach, it doesn't clearly communicate that the paper is presenting DialogFlow as a new framework."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and directly aligns with the abstract's focus on introducing SentimentNet for social media sentiment analysis. It clearly communicates the research contribution without unnecessary words or ambiguity, making it immediately accessible to the target audience.",
+      "B": "Title B conveys the same information as Title A but with a slightly less elegant structure that adds an unnecessary preposition. This minor phrasing issue makes it slightly less clear and more awkward than Title A, while being even less original in construction.",
+      "C": "Title C adopts a question format that feels less scholarly and introduces unnecessary ambiguity by framing the research as an evaluation rather than an introduction of a new model. While more conversational and somewhat original in approach, it doesn't accurately represent that the paper is primarily introducing SentimentNet rather than just evaluating it."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise yet comprehensive, clearly identifying the research contribution (TransMorph) and its application domain (morphological analysis in NLP). It maintains scholarly tone while being informative, and the brevity makes it memorable without sacrificing clarity about the paper's content.",
+      "B": "Title B is unnecessarily verbose with the redundant phrasing 'and Its Role in Transforming,' which doesn't add information but makes the title awkwardly long. The wordiness dilutes impact and makes it less memorable than Title A, while conveying exactly the same information.",
+      "C": "Title C frames the research as a question, creating uncertainty about whether TransMorph actually enhances morphological analysis, despite the abstract clearly stating positive results. This question format undermines the confident contribution demonstrated in the abstract and introduces unnecessary doubt about research outcomes that are presented as definitive."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and directly aligns with the core contribution described in the abstract - the introduction of ContextNet for improved text representation. It succinctly conveys the purpose of the model without unnecessary verbiage, clearly indicating both the innovation (ContextNet) and its purpose (enhancing text representation through contextual understanding).",
+      "B": "Title B is awkwardly phrased and contains redundant wording with 'ContextNet's Role in Contextual Understanding,' making it less clear than Title A. The possessive construction makes the title unnecessarily complex and slightly less faithful to the abstract, which focuses on introducing the model rather than analyzing its 'role.'",
+      "C": "Title C frames the research as a question, which creates some ambiguity about the actual findings that are clearly stated in the abstract. While this interrogative format can be engaging, it undermines the confidence conveyed in the abstract about ContextNet's demonstrated effectiveness, where results already show it achieves state-of-the-art performance."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly communicates the paper's focus on introducing the LabelMe framework for semantic annotation. It succinctly captures both the tool being presented and its purpose, perfectly aligning with the abstract's description of the framework and its evaluation.",
+      "B": "Title B is awkwardly phrased and lacks clarity about whether the paper presents a new framework or merely discusses LabelMe's application. This title appears incomplete and less scholarly than Title A, missing the framework aspect that's central to the research contribution described in the abstract.",
+      "C": "Title C's question format, while engaging, introduces unnecessary ambiguity and shifts focus to the 'how' rather than presenting the framework itself. Though more descriptive than Title B, this conversational approach diminishes the scholarly tone and doesn't fully represent the paper's contribution as effectively as Title A."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly conveys the purpose and functionality of TopicModel in a concise, scholarly manner that accurately represents the research described in the abstract. It effectively communicates the main contribution (a new approach for theme discovery) without unnecessary framing or qualification. The use of a colon creates a clean separation between the method name and its function, making it more readable than the other options.",
+      "B": "Title B conveys similar information to Title A but is less clear due to the removal of the colon, which creates a slightly awkward construction. The preposition 'for' makes the title feel more like a product description rather than a scholarly research paper, diminishing its academic tone. It lacks the structural clarity of Title A while containing essentially identical content.",
+      "C": "Title C frames the research as a question, which creates uncertainty about whether the paper actually demonstrates effectiveness or merely explores a possibility. This framing doesn't align well with the confident claims in the abstract, which clearly states that TopicModel successfully identifies themes and outperforms traditional methods. The question format feels somewhat less professional and adds unnecessary length without providing additional meaningful information."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly aligned with the abstract, explicitly stating the purpose of SummarizeIt for automatic news summarization. It concisely captures the essence of the research without unnecessary elements, striking an excellent balance between brevity and informativeness.",
+      "B": "Title B is awkwardly phrased with the preposition 'for' creating ambiguity about whether SummarizeIt is the tool being presented or if the paper is about using SummarizeIt for summarization purposes. The redundancy of 'SummarizeIt for Automatic Summarization' makes it less effective than Title A's cleaner formulation.",
+      "C": "Title C frames the research as a question, which creates unnecessary uncertainty when the abstract clearly presents SummarizeIt as an effective solution. While more engaging than Title B, the question format and use of 'enhance' suggests an improvement to existing summarization techniques rather than introducing a new model, slightly misaligning with the abstract's presentation."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, scholarly, and directly represents the core contribution presented in the abstract. It clearly conveys the purpose of ImageText as a bridging mechanism between text and image representations, matching the abstract's description of the model's function without unnecessary embellishment.",
+      "B": "Title B conveys the same information as Title A but uses a slightly awkward phrasing with 'for bridging' that makes it less elegant. The construction feels less scholarly and more instructional, though it still accurately represents the research described in the abstract.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity when the abstract clearly presents ImageText as a successful approach. The interrogative format and additional words like 'Can' and 'Facilitate Improved' make the title wordier and less direct than Title A, diminishing its impact and clarity."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly represents the research focus on TranscribeIt as an ASR system for diverse accents. It directly aligns with the abstract's description of the system and its purpose without unnecessary words or ambiguity.",
+      "B": "Title B is grammatically awkward and unclear, making it confusing what the paper actually presents. The phrasing 'TranscribeIt in Automatic Speech Recognition' suggests the system is being used within another ASR rather than being an ASR system itself, misrepresenting the content of the abstract.",
+      "C": "Title C frames the paper as a question rather than a definitive contribution, which somewhat diminishes the scholarly tone and confidence of the findings. While it accurately captures the research focus, the question format is less direct than Title A and creates an unnecessary rhetorical framing for what appears to be a system introduction paper."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly and directly communicates the main contribution of the research - introducing TextClass as a comprehensive framework for text classification. It is scholarly, precise, and faithfully represents the abstract's content without unnecessary embellishment or ambiguity, making it immediately clear what readers should expect.",
+      "B": "Title B is awkwardly phrased and potentially confusing, making it difficult to understand the paper's focus at first glance. The wording seems to position TextClass within existing frameworks rather than introducing it as a new framework itself, which misaligns with the abstract's actual contribution.",
+      "C": "Title C adopts a question format that creates unnecessary uncertainty about the research contribution, though it does add some originality. While it mentions TextClass and accuracy improvement (which aligns with the abstract), the tentative phrasing understates the positive results already confirmed in the research, making it less representative of the work's actual accomplishments."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and accurately represents the research presented in the abstract. It faithfully conveys the focus on real-time translation technology and its application to multilingual communication, aligning perfectly with the research contribution outlined in the abstract.",
+      "B": "Title B contains awkward phrasing with the preposition 'in' after 'TranslateNow', making it grammatically confusing and less professional. While it does mention the key elements of the research, the structural issues diminish its clarity and make it appear less scholarly than Title A.",
+      "C": "Title C is phrased as a question rather than a declaration, which doesn't match the assertive nature of the research findings in the abstract. The 'How Does' framing suggests an exploratory study rather than the results-focused presentation described in the abstract, making it less representative of the actual research contribution."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly and concisely communicates the core contribution of the paper - a model called VisionText that integrates vision and language processing. It is scholarly and straightforward, allowing readers to immediately understand the paper's focus without unnecessary embellishment or grammatical issues.",
+      "B": "Title B appears to contain a grammatical error with the awkward phrasing 'in Integrating,' making it confusing and less professional than the other options. While it identifies the model name and research area, the syntax undermines clarity and suggests a lack of polish that doesn't reflect the quality of research described in the abstract.",
+      "C": "Title C uses a question format which adds an unnecessary rhetorical element while conveying the same information as Title A. While still clear and scholarly, the question format creates ambiguity about whether VisionText actually achieves its goal, whereas the abstract clearly states positive results and improvements over existing models."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly communicates the core focus of the research described in the abstract. It presents the model name (EmotionNet) and its purpose (detecting emotions in text) in a straightforward, scholarly manner that accurately represents the contribution without unnecessary embellishment.",
+      "B": "Title B conveys the same information as Title A but with awkward phrasing that makes it less elegant and less impactful. The repetition of 'EmotionNet' and 'for' creates a slightly clunky construction that diminishes the title's clarity and professional tone.",
+      "C": "Title C frames the research as a question about effectiveness, which doesn't fully align with the abstract's confident presentation of EmotionNet's demonstrated superior performance. While this questioning approach adds some originality, it creates unnecessary ambiguity about the paper's contributions and fails to directly assert the model's capabilities that are clearly established in the abstract."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, straightforward, and directly aligned with the research described in the abstract. It clearly identifies the system name (GrammarCheck) and its purpose (automated grammar correction), making it a scholarly and faithful representation of the work without unnecessary embellishment.",
+      "B": "Title B is awkwardly phrased with the redundant preposition 'in' that creates grammatical confusion and makes the title hard to parse. This title appears to be a poorly constructed variation of Title A, reducing both its clarity and professional appearance.",
+      "C": "Title C frames the research as a question rather than a statement of contribution, creating some uncertainty about the paper's findings. While this interrogative approach is somewhat more original, it unnecessarily introduces doubt about GrammarCheck's effectiveness when the abstract clearly demonstrates positive results and significant improvements."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly states the essence of the research—expanding short texts into detailed narratives using the TextExpand approach. It's scholarly yet accessible, accurately reflecting both the method and the goal described in the abstract without unnecessary wording or ambiguity.",
+      "B": "Title B is redundant with the phrase 'TextExpand for expanding,' creating an awkward repetition that diminishes clarity. It reads as less polished than Title A while conveying the same information, making it appear less scholarly and more like a casual description of the tool rather than formal research.",
+      "C": "Title C frames the research as a question, which adds an evaluative angle that does align with the abstract's focus on effectiveness. However, the question format makes it less direct than Title A and potentially creates uncertainty about whether the paper actually answers this question definitively, despite the clear results mentioned in the abstract."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise, clear, and accurately represents the research presented in the abstract, directly naming the model while describing its purpose. It maintains a scholarly tone that conveys academic credibility while being succinct enough to be memorable and informative without unnecessary words.",
+      "B": "While this title conveys the same information as Title A, its phrasing is slightly awkward with the preposition 'for' creating a less professional structure. The title is faithful to the content but reads more like a project description than a scholarly research paper, reducing its academic impact.",
+      "C": "The question format of this title adds an unnecessary rhetorical element that doesn't enhance clarity or impact. While it clearly identifies the research focus, the interrogative structure feels less authoritative and confident than Title A, despite fully spelling out 'Natural Language Processing' which adds completeness."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, scholarly, and directly communicates the paper's focus on efficient tokenization for NLP tasks. It clearly introduces the proposed method (TokenizeIt) and its purpose, perfectly aligning with the abstract's description of a new tokenization approach that improves efficiency and accuracy.",
+      "B": "Title B contains a grammatical error ('in' seems misplaced), creating confusion about the paper's focus. While it mentions the key elements, the awkward phrasing significantly diminishes clarity and professionalism, making it appear unpolished compared to the other options.",
+      "C": "Title C is phrased as a question, which makes it less direct than Title A but still adequately communicates the research focus. The interrogative format is less conventional for academic papers and adds unnecessary length without providing additional information about the research contribution."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is clear and straightforward, accurately reflecting the introduction of the PredictiveText model described in the abstract. While scholarly and informative, it lacks a distinctive framing that would set it apart from other research papers in the text prediction domain.",
+      "B": "Title B is essentially a less grammatically sound version of Title A, creating an awkward phrasing that reduces clarity. It appears redundant by repeating 'PredictiveText' and 'enhancing text prediction' in a way that doesn't add meaning, making it less effective than the other options.",
+      "C": "Title C frames the research as an inquiry, which effectively captures the evaluative nature of the work while highlighting its practical application in NLP. The question format is more engaging and memorable than the declarative alternatives, while still faithfully representing the research that demonstrates PredictiveText's superior performance."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, concise, and clearly communicates the research focus on TextPredictor for predictive text generation. It faithfully represents the content of the abstract without unnecessary words or phrasing, making it scholarly and direct while highlighting the tool's purpose and application.",
+      "B": "Title B is redundant with the awkward phrasing of 'TextPredictor as a...tool', making it less clear than Title A. The wording feels unnecessarily verbose and adds no additional information, diminishing its impact and making it less scholarly than the more direct alternatives.",
+      "C": "Title C frames the paper as a question, which somewhat misrepresents the abstract's definitive findings about TextPredictor's effectiveness. While it does highlight the evaluation aspect of the research, the interrogative format is less scholarly and suggests uncertainty where the abstract presents clear results and achievements."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly conveys the research contribution of using deep learning for syntax analysis through SyntaxNet. It accurately represents the abstract's focus on a new approach that improves syntax analysis accuracy, without being overly wordy or ambiguous.",
+      "B": "Title B is somewhat ambiguous with its preposition 'for,' making it unclear whether SyntaxNet is using deep learning or is designed for deep learning applications. While it captures the key terms from the abstract, it lacks the clarity and precision of Title A, reading more like a product description than a research paper title.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity about the paper's findings when the abstract clearly confirms SyntaxNet's effectiveness. This title is less scholarly and more tentative than needed, failing to directly assert the paper's contribution of developing a deep learning approach that demonstrably improves syntax analysis."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise, concise, and directly communicates the research content described in the abstract. It clearly identifies both the tool (NameGenerator) and its purpose (automated character name generation) without unnecessary elements, making it scholarly and straightforward.",
+      "B": "This title contains redundancy with 'NameGenerator' and 'Name Generation' appearing together, creating an awkward phrasing that diminishes clarity. It seems like a less polished version of Title A, conveying the same information but in a less elegant and more repetitive manner.",
+      "C": "This question-format title adds a unique rhetorical element that engages the reader and highlights the evaluation aspect mentioned in the abstract. While more conversational than traditional academic titles, it effectively communicates the research focus, though the interrogative structure might be seen as less scholarly in certain academic contexts."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title clearly and concisely communicates the paper's focus on the DataAugment framework and its purpose for enhancing NLP datasets. It is straightforward, academic in tone, and faithfully represents the research contribution described in the abstract without unnecessary embellishment.",
+      "B": "This title is nearly identical to Title A but introduces an awkward phrasing with the redundant 'for Enhancing' after 'DataAugment,' making it less elegant and slightly less clear. The repetition of 'augmentation' in both the tool name and description creates unnecessary redundancy without adding informational value.",
+      "C": "This question-format title introduces unnecessary ambiguity about the paper's findings, when the abstract clearly states positive results. While more attention-grabbing and conversational, it fails to communicate the paper's actual contribution and framework introduction, instead focusing on a question that the paper has already answered affirmatively."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly aligns with the abstract's focus on introducing a translation model for low-resource languages. It has a scholarly tone that accurately represents the research contribution without unnecessary embellishment or ambiguity, making it immediately apparent what the paper is about.",
+      "B": "Title B has awkward phrasing with the 'as a' construction, making it less clear and more convoluted than Title A. The redundant wording reduces both its originality and impact, creating an impression of hesitancy rather than the confident research presentation evident in the abstract.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity when the abstract clearly presents TransLang's effectiveness rather than questioning it. While more engaging than Title B, this rhetorical approach diminishes the scholarly impact and fails to directly state the paper's primary contribution of introducing a new model."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly identifies both the model name and its purpose in a concise, straightforward manner. It perfectly aligns with the abstract's focus on presenting ExplainIt as a model for interpretable text generation, while maintaining an academic tone that accurately conveys the research contribution.",
+      "B": "Title B is functional but less polished than Title A, omitting the word 'model' which slightly reduces clarity about what ExplainIt is. While still accurate, it feels less scholarly and more like a product announcement, lacking some of the academic framing that would better represent the research nature of the work.",
+      "C": "Title C frames the research as a question, which introduces unnecessary ambiguity about the paper's conclusions that isn't reflected in the confident assertions of the abstract. The interrogative structure feels misaligned with the abstract's definitive presentation of ExplainIt's capabilities and results, making it seem less authoritative than Title A."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise, scholarly, and clearly aligned with the abstract, effectively communicating the purpose of LayoutNet for document layout understanding in NLP. It concisely captures the research contribution without unnecessary words while maintaining sufficient context for the reader to understand the paper's focus.",
+      "B": "This title is more truncated and less clear than Title A, lacking the contextual connection between document layouts and NLP applications. It feels incomplete and less scholarly, missing the opportunity to convey the significance of the research in a more comprehensive manner.",
+      "C": "This question-format title introduces unnecessary uncertainty that isn't reflected in the confident findings presented in the abstract. While it's more specific than Title B by mentioning 'NLP tasks,' the interrogative structure feels less scholarly and authoritative than the declarative form of Title A."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the subject of the paper (SpellCheck) and its purpose (automated spell checking). It is straightforward, scholarly, and accurately represents the research described in the abstract, though it lacks some originality in phrasing.",
+      "B": "Title B is confusing with redundant wording ('SpellCheck in Automated Spell Checking'), making it unclear what the paper's actual contribution is. The awkward phrasing creates ambiguity about whether SpellCheck is a component within another system or the main contribution itself.",
+      "C": "Title C uses a question format that adds originality but introduces unnecessary ambiguity about the paper's findings. While more engaging than Title A, the interrogative structure implies uncertainty about SpellCheck's effectiveness, which contradicts the definitive positive results reported in the abstract."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly aligned with the abstract's focus on introducing the ChatbotAI framework for building intelligent conversational agents. It concisely captures the main contribution without unnecessary wording while maintaining professional academic tone, making it more effective than the alternatives.",
+      "B": "Title B appears grammatically awkward with the preposition 'in' creating confusion about whether ChatbotAI is being used in building agents or is itself the framework being introduced. This phrasing reduces clarity and makes the title less effective at conveying the paper's contribution compared to Title A's straightforward approach.",
+      "C": "Title C uses a question format that feels somewhat less scholarly and more marketing-like than Title A, though it does capture the essence of the research. The 'How Does' framing suggests a methodology paper rather than clearly indicating the introduction of a new framework, which is the primary contribution according to the abstract."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and directly aligned with the abstract, clearly stating both the tool name and its purpose. It effectively conveys the significance of the research while maintaining a concise, professional tone that accurately reflects the technical contribution described in the abstract.",
+      "B": "Title B has awkward phrasing that reduces clarity and appears less scholarly than Title A. The title omits the word 'text' before 'quality,' making it grammatically incomplete and less precise in conveying the exact focus of the research.",
+      "C": "The question format of Title C introduces unnecessary ambiguity and reduces the authoritative tone that would better reflect the demonstrated results in the abstract. This title feels less confident about the tool's capabilities despite the abstract presenting clear evidence of its effectiveness, making it seem less scholarly and more tentative than Title A."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise, scholarly, and directly aligns with the abstract by clearly identifying FilterIt as a framework for text filtering in NLP. It succinctly communicates the core contribution while maintaining an academic tone, avoiding unnecessary phrasing or questions that might dilute the research focus.",
+      "B": "This title is somewhat awkwardly phrased and less clear than the alternatives, creating confusion about whether 'FilterIt in Text Filtering' is redundant or describing a specific application. It lacks the descriptive precision of Title A and feels more like an incomplete thought than a proper scholarly presentation of the research.",
+      "C": "This question-formatted title introduces unnecessary uncertainty about the research contribution, despite containing the key information. While it maintains clarity about what FilterIt is, the interrogative structure suggests the paper may be primarily evaluative rather than presenting a new framework as described in the abstract, making it less aligned with the actual contribution."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, scholarly, and directly aligns with the research presented in the abstract. It clearly identifies the model name (SummarizeMe) and its primary function (personalized text summarization) without unnecessary words, making it immediately comprehensible to readers interested in this research area.",
+      "B": "Title B uses an awkward preposition structure ('for') that makes it sound more like a product advertisement than an academic paper. While it contains the same key information as Title A, the phrasing creates ambiguity about whether this is a research paper or promotional material, making it less effective for an academic audience.",
+      "C": "Title C frames the research as a question, which unnecessarily diminishes the confidence in the work when the abstract clearly demonstrates positive results (95% satisfaction rate). This interrogative format is less scholarly and fails to directly state the paper's contribution, potentially causing readers to underestimate the significance of the research findings."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, scholarly, and precisely captures the research focus on the FactFinder model for information verification. It clearly aligns with the abstract's description of the model's purpose and maintains a professional tone that accurately represents the research contribution without unnecessary embellishment.",
+      "B": "Title B conveys similar information to Title A but uses a slightly awkward phrasing with 'for' that reduces its clarity and academic tone. While it adequately describes the research focus, it feels less polished than Title A and doesn't add any additional information that would justify the different structure.",
+      "C": "Title C frames the research as a question, which creates uncertainty about the findings that isn't reflected in the confident conclusions presented in the abstract. This rhetorical approach feels misaligned with the abstract's straightforward presentation of FactFinder's effectiveness (87% accuracy) and unnecessarily casts doubt on results that are presented as definitive."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, concise, and directly represents the research described in the abstract, clearly identifying the system (QueryBot) and its purpose (intelligent query generation for databases). It effectively conveys the academic contribution while maintaining a scholarly tone that aligns perfectly with the technical nature of the work.",
+      "B": "Title B is awkwardly phrased with the unnecessary 'in' that creates grammatical confusion, weakening its clarity compared to Title A. While it contains the key components of the research, the phrasing makes it sound like an incomplete thought or section heading rather than a standalone research paper title.",
+      "C": "Title C adopts a question format that introduces uncertainty about the research contribution, when the abstract clearly states positive results. While reasonably clear, the interrogative structure suggests the paper is exploring possibilities rather than presenting a developed system with demonstrated 88% success rate as described in the abstract."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title clearly and concisely represents the research focus on the ExploreText model and its purpose of discovering insights from textual data. It is straightforward, scholarly, and accurately reflects the content of the abstract without unnecessary elements, making it the most balanced and effective option.",
+      "B": "This title is awkwardly phrased with the preposition 'for' making it read more like a marketing tagline than a scholarly paper title. While it contains the same key information as Title A, the phrasing is less elegant and reduces both its clarity and scholarly tone.",
+      "C": "This question-based title attempts to be engaging but introduces uncertainty about the research contribution that isn't present in the abstract, which confidently states a 20% improvement. The interrogative format is more original but somewhat misaligned with the definitive nature of the findings presented in the abstract."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly aligns with the abstract by concisely introducing MetaLearn and its purpose. It faithfully represents the research contribution without unnecessary wording, making it immediately clear what the paper is about.",
+      "B": "Title B is grammatically awkward and confusing due to the redundant phrasing of 'MetaLearn in Learning'. This title appears less professional and creates unnecessary ambiguity that doesn't exist in the abstract, making it the weakest option.",
+      "C": "Title C uses a question format that creates unnecessary uncertainty about the research outcomes when the abstract clearly states positive results. While it mentions the key elements, the interrogative structure undermines the definitive contributions presented in the abstract where MetaLearn demonstrably improves performance."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, scholarly, and directly aligns with the abstract's focus on introducing PhraseNet for phrasal structure analysis. It clearly communicates the research contribution without unnecessary words while maintaining an academic tone appropriate for a conference submission.",
+      "B": "Title B conveys similar information as Title A but uses a slightly less formal construction with 'for' instead of a colon, making it feel less scholarly. While still clear and accurate, it lacks the concise precision of Title A and feels slightly less polished for an academic conference paper.",
+      "C": "Title C frames the research as a question, which introduces unnecessary uncertainty not present in the abstract, where PhraseNet's effectiveness is clearly demonstrated. The interrogative format feels less confident and authoritative than the declarative statements in Titles A and B, and the addition of 'How Effective' makes the title wordier without adding substance."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is straightforward and precise, clearly stating what the paper is about with no ambiguity. However, it lacks originality with its standard 'Model: Task' format and doesn't convey the significance of the 25% error reduction or improved prosodic features mentioned in the abstract.",
+      "B": "Title B is awkwardly phrased with the redundant preposition 'for', making it less clear than Title A while offering no additional information. It maintains the same generic format and fails to communicate the paper's significant contribution to speech synthesis quality improvement.",
+      "C": "Title C is framed as a question that directly addresses the core contribution—enhancing speech synthesis quality—which aligns well with the abstract's focus on improved performance. It stands out as more engaging than the other options while accurately conveying the paper's significance in advancing speech synthesis technology with measurable improvements."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly communicates the paper's focus on ChatGen for interactive chatbot response generation. It is scholarly and straightforward, faithfully representing the research described in the abstract without unnecessary words or framing devices.",
+      "B": "Title B is essentially identical to Title A but with a redundant preposition that makes it slightly less elegant and more awkward to read. The repetition of 'generating' in the preposition phrase feels unnecessarily verbose compared to the more direct approach in Title A.",
+      "C": "Title C frames the research as a question, which adds a rhetorical element but doesn't fundamentally enhance clarity or impact. While this framing might engage readers by suggesting an evaluative approach, the abstract already confirms ChatGen's effectiveness, making the question format somewhat unnecessary and less direct than Title A."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly presents the research focus on SearchSmart's role in enhancing search relevance specifically for NLP. The title is concise yet informative, effectively capturing the core contribution mentioned in the abstract while maintaining a scholarly tone that aligns well with the 20% improvement claim.",
+      "B": "Title B conveys similar information to Title A but with awkward phrasing that makes it less clear and more informal. It lacks the precision of Title A and appears slightly less professional, though it does accurately reflect the research focus on search relevance in NLP.",
+      "C": "Title C frames the research as a question, which creates unnecessary uncertainty when the abstract clearly demonstrates positive results. While this approach can be engaging, it undermines the definitive contribution (20% improvement) highlighted in the abstract and makes the research seem less authoritative than Title A."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, straightforward, and precisely aligns with the abstract's focus on introducing the EntityLink model for entity linking. It clearly communicates the paper's contribution in a scholarly manner without unnecessary words or phrases, making it immediately understandable to the intended audience.",
+      "B": "Title B is redundant with the repetition of 'EntityLink' and 'linking entities,' making it less elegant than Title A. While it accurately represents the research, the phrasing feels less polished and somewhat awkward, reducing its impact and professional presentation.",
+      "C": "Title C frames the paper as a question rather than a statement of contribution, which doesn't match the confident, definitive tone of the abstract. This rhetorical approach creates unnecessary uncertainty about the effectiveness that is already clearly demonstrated in the abstract (F1 score of 0.90), making the title less aligned with the paper's actual findings."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, concise, and directly aligned with the research described in the abstract. It clearly conveys the purpose of the AutoRewrite model without unnecessary wording, making it scholarly and straightforward. While not exceptionally original, it effectively communicates the research contribution without embellishment.",
+      "B": "Title B is redundant with the repetition of 'AutoRewrite' and 'for' in close proximity, creating an awkward phrasing that diminishes clarity. It appears less polished than the other options and fails to add any originality or significance beyond what Title A conveys more efficiently. The redundancy makes it seem less professional and carefully considered.",
+      "C": "Title C frames the research as a question, which adds an engaging quality but slightly reduces directness compared to Title A. While more original in its framing, the question format might create unnecessary ambiguity about the paper's contribution when the abstract clearly states positive results. The title is scholarly but introduces complexity that isn't necessary given the straightforward nature of the research."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly aligned with the abstract, accurately conveying the paper's focus on the ReviewAnalyzer tool for product review analysis. While not highly original in structure, it effectively communicates the research contribution in a straightforward, scholarly manner without unnecessary elements.",
+      "B": "Title B is redundant with the repetition of 'for analyzing,' making it less clear and more awkwardly phrased than Title A. It offers no originality improvements over Title A and appears less polished, with its repetitive structure potentially confusing readers about the paper's actual contribution.",
+      "C": "Title C uses a question format that adds some originality and engagement, but introduces unnecessary uncertainty about the tool's effectiveness that isn't reflected in the confident findings presented in the abstract. The phrasing with 'gleaning' is more verbose than needed, though it does effectively communicate the paper's focus on evaluation."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is concise, clear, and directly aligns with the abstract's focus on DocSummarize for legal document summarization. It maintains scholarly precision while effectively conveying the paper's core contribution without unnecessary elements that might dilute its impact.",
+      "B": "Title B is awkwardly phrased with the redundant 'for Summarizing' construction that creates ambiguity about whether DocSummarize is a tool name or a method. This phrasing is less scholarly and appears less polished than Title A, while conveying the same information less efficiently.",
+      "C": "Title C frames the paper as a question, which misrepresents the abstract's confident assertion about DocSummarize's effectiveness (85% accuracy). The interrogative format suggests an exploratory study rather than the definitive performance results and tool introduction described in the abstract."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise, scholarly, and clearly aligned with the abstract, accurately representing the research on ContextAI as a framework for contextual understanding in AI models. It is straightforward without being overly technical, though somewhat conventional in structure, and effectively conveys the significance of the framework introduced in the research.",
+      "B": "Title B is redundant with the repetition of 'contextual understanding' and 'AI models,' making it less elegant than Title A while conveying essentially the same information. The phrasing is awkward and less scholarly, giving it a slightly promotional rather than academic tone, and it doesn't add any information about the framework's purpose or significance.",
+      "C": "Title C frames the research as a question, which creates unnecessary uncertainty when the abstract clearly presents ContextAI as a solution that demonstrably improves contextual understanding. While the question format is more original, it undermines the confidence in the research findings presented in the abstract, where ContextAI's effectiveness is stated as a conclusion rather than a query."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is clear and straightforward, accurately identifying the paper's focus on TextOptimizer and its role in text representation for NLP. While technically accurate, it lacks a distinctive quality that would distinguish it from similar research papers and doesn't fully convey the evaluative aspect present in the abstract.",
+      "B": "Title B is awkwardly phrased with the preposition 'in' creating grammatical confusion, reducing clarity about the paper's purpose. It reads like an incomplete title and fails to capture the evaluative nature of the research, making it the weakest option of the three.",
+      "C": "Title C most faithfully represents the research by framing it as an effectiveness evaluation of TextOptimizer, which aligns perfectly with the performance assessment described in the abstract. The question format makes it more engaging and scholarly, while clearly signaling to readers that the paper contains empirical results and comparative analysis against existing methods."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is clear and straightforward, directly stating the purpose of ImageCaption. However, it lacks originality and fails to highlight the effectiveness or improvements mentioned in the abstract, making it somewhat generic and less informative about the actual contribution.",
+      "B": "Title B is redundant with the repetition of 'for generating captions for images' and lacks grammatical fluency. Like Title A, it fails to convey the significance of the model's improvements over baselines or its potential applications mentioned in the abstract.",
+      "C": "Title C is the strongest as it frames the research as an evaluation of effectiveness, which directly aligns with the abstract's focus on performance improvements and evaluation results. The question format creates engagement while still being scholarly, and it better hints at the significance of the 12% BLEU score improvement mentioned in the abstract."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 1,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A presents a straightforward, descriptive representation of the research, clearly identifying the tool (TextAnalyzer) and its purpose. While lacking originality and using somewhat generic phrasing, it faithfully represents the abstract's content without unnecessary elements or misleading information.",
+      "B": "Title B is essentially a redundant version of Title A, with the repetition of 'for Analyzing' creating awkward phrasing that reduces clarity. It lacks any originality and offers the same level of significance as Title A but with poorer sentence structure, making it less effective at communicating the paper's focus.",
+      "C": "The question format in Title C introduces unnecessary ambiguity about the research findings, which the abstract clearly presents as positive results. The interrogative structure suggests uncertainty about TextAnalyzer's effectiveness, contradicting the confident claims in the abstract about its superior performance (88% accuracy) over traditional methods."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 2,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is somewhat redundant and vague, as it simply restates 'LanguageModel' and 'language models' without clarifying the framework's specific contribution to robustness. It has a descriptive but generic scholarly tone that fails to convey the innovative aspects or specific improvements mentioned in the abstract.",
+      "B": "Title B suffers from grammatical confusion with the preposition 'for', making it unclear whether LanguageModel is a tool for building models or itself a model. This title is the least clear of the three and, like Title A, fails to capture the comparative improvement (15% perplexity reduction) or specific robustness contributions mentioned in the abstract.",
+      "C": "Title C most faithfully represents the research by framing it as an investigation into LanguageModel's capability to improve robustness, which aligns with the abstract's focus on performance improvements and evaluation. The question format is more engaging and clearly communicates the paper's purpose, while also hinting at the comparative analysis that shows LanguageModel outperforming existing approaches."
+    }
+  },
+  {
+    "id": 50,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, explicitly stating both the tool name and its purpose. While straightforward and scholarly, it lacks originality in its formulation, following a common '[Tool]: [Function]' pattern. The title adequately conveys the significance of the research but doesn't highlight the effectiveness findings that appear central to the research contribution.",
+      "B": "Title B is redundant and awkwardly phrased, repeating 'generating phrases' in a way that creates confusion about the tool's function versus its purpose. It's less original than the other titles and appears to be a weaker variant of Title A without any distinctive elements. The significance of the research is only partially conveyed, missing the effectiveness aspect highlighted in the abstract.",
+      "C": "Title C most effectively captures the research contribution by framing it as an evaluation of PhraseGenerator's effectiveness, which directly aligns with the 90% satisfaction rate finding mentioned in the abstract. The question format is more engaging and original, creating reader interest while accurately reflecting the evaluative nature of the research. This title best communicates the significance of the work by emphasizing its practical application and effectiveness in assisting creative writing."
+    }
+  }
+]

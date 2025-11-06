@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'VisionFusion,' which suggests a novel approach to multimodal learning. It is somewhat original due to the coined term, which adds a distinctive angle. The title implies a significant contribution by framing the work as a 'new paradigm,' suggesting broad impact. However, it could be slightly more precise in explaining what 'VisionFusion' entails.",
+      "B": "Title B is straightforward but lacks specificity, making it less clear than Title A. It is unoriginal, as it uses generic phrasing without introducing any unique elements. The significance is moderate, as it suggests a new paradigm but does not specify what makes it novel or impactful, making it less compelling than Title A.",
+      "C": "Title C poses a question, which can be engaging but also introduces ambiguity. It is slightly more original than Title B due to its interrogative form, but it still lacks specificity. The significance is moderate, as it hints at potential enhancement in multimodal learning but does not clearly convey the nature or scope of the contribution. Overall, it is less impactful than Title A."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on 3D scene understanding using deep learning. The inclusion of 'SceneNet' suggests a novel framework or model, adding a layer of originality. It implies a significant contribution to the field by potentially introducing a new tool or method, making it the strongest title overall.",
+      "B": "Title B is straightforward but lacks the specificity and potential novelty indicated by Title A. It is clear but somewhat generic, resembling many existing titles in the field. The absence of a unique element like 'SceneNet' makes it appear less significant and original compared to the other titles.",
+      "C": "Title C is engaging and poses a question, which can intrigue readers. It suggests a focus on enhancement, implying a meaningful contribution. However, it lacks the specificity of a new model or framework, as seen in Title A, making it slightly less impactful in terms of academic significance."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 5,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on real-time object tracking using deep learning. The inclusion of 'TrackNet' suggests a novel approach or model, adding a layer of originality. It implies a significant contribution to the field by potentially introducing a new tool or method, making it slightly more impactful than the others.",
+      "B": "Title B is straightforward and clear, but lacks the distinctiveness of Title A. It is more generic, resembling many existing titles in the field, which affects its originality. The significance is moderate, as it suggests a useful but possibly incremental contribution without hinting at a novel approach or model.",
+      "C": "Title C is intriguing and poses a question, which adds originality and engages the reader. However, it is slightly less clear than Title A due to its interrogative form, which might imply uncertainty about the contribution. It suggests a significant exploration of deep learning's capabilities, but the lack of specificity about the method or model makes it less impactful than Title A."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'ReconstructNet,' which suggests a novel approach or model, adding to its originality. It effectively communicates the focus on advancing 3D reconstruction using neural networks, implying a significant contribution. However, the term 'ReconstructNet' might require further context for full clarity.",
+      "B": "Title B is the clearest and most straightforward, directly stating the research focus without any jargon. However, it lacks originality and distinctiveness, as it resembles many existing titles in the field. Its significance is somewhat limited by the absence of a specific model or method name, making it less impactful than Title A.",
+      "C": "Title C is clear and poses an intriguing question, which adds a layer of originality. However, it suggests a more exploratory or uncertain contribution, which might imply a narrower significance compared to Title A. The question format can be engaging but may not convey the same level of academic impact as a declarative statement."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on a specific model, SegNet, for image segmentation. While the originality is average due to the common use of 'Deep Learning Approach' in titles, the inclusion of 'SegNet' suggests a potentially significant contribution. Compared to the other titles, it provides a more specific angle, which enhances its perceived significance.",
+      "B": "Title B is straightforward but lacks specificity, making it less original and significant. It is clear but generic, as it does not specify any particular model or method, which diminishes its impact. Compared to Title A, it feels less distinctive and impactful due to the absence of a unique identifier like 'SegNet'.",
+      "C": "Title C poses a question, which adds a layer of originality and suggests a critical evaluation of deep learning's effectiveness in image segmentation. It is clear but slightly less direct than Title A. The question format implies a broader exploration, potentially increasing its significance, but it lacks the specificity of Title A, which might limit its immediate academic impact."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific model name, 'StyleTransferNet,' which adds a layer of originality and suggests a concrete contribution. It effectively communicates the research focus on artistic image transformation using deep learning, indicating a potentially significant impact. Compared to Title B, it provides more specificity, and compared to Title C, it is more assertive about the research outcome.",
+      "B": "Title B is the clearest and most straightforward, directly stating the research topic without any additional context or model names. However, it lacks originality and specificity, making it sound more generic and less impactful than Title A. It suggests a useful but potentially incremental contribution to the field.",
+      "C": "Title C is framed as a question, which adds a degree of originality and intrigue. However, it may imply uncertainty about the research outcome, which could reduce perceived significance. It is less direct than Title A but more engaging than Title B, though it might not clearly convey the research's potential impact."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific system name, 'FaceRecogNet,' which adds a layer of originality and suggests a potentially significant contribution. However, the title could be slightly more precise in describing the nature of the enhancement. Compared to Title B, it offers more specificity and originality.",
+      "B": "Title B is very clear and straightforward, but it lacks originality and feels generic, as it does not introduce any unique elements or specific contributions. It suggests a useful but potentially incremental contribution. It is less distinctive compared to Title A.",
+      "C": "Title C is phrased as a question, which can be engaging but slightly less direct. It suggests a focus on exploring the enhancement process, which adds some originality and significance. However, it lacks the specificity of Title A, which names a particular system, making Title A more impactful overall."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on human pose estimation using deep learning. The inclusion of 'PoseNet' adds a distinctive element, suggesting a novel approach or model, which enhances its originality. It implies a significant contribution to the field by promising accuracy improvements, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctive element present in Title A. It is more generic and less original, as it resembles many existing titles in the field. While it suggests a useful contribution, it does not imply a broad impact or novel approach as strongly as Title A.",
+      "C": "Title C is framed as a question, which adds a slight originality by engaging the reader's curiosity. However, it is less direct in conveying the research's contribution compared to Title A. The question format may imply uncertainty about the significance of the findings, making it less impactful than Title A."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the paper's focus on generating images from text descriptions. However, it lacks originality, as it resembles many existing titles in the field. The title suggests a significant contribution, but it does not specify the method or approach, which could enhance its perceived impact.",
+      "B": "Title B is straightforward but somewhat generic, lacking the specificity and branding of Title A. It is less original and does not stand out among similar research topics. The significance is moderate, as it implies a useful but potentially incremental contribution without highlighting any novel approach or method.",
+      "C": "Title C introduces a fresh angle by questioning the effectiveness of deep learning in the task, which adds an element of originality. It is clear, though slightly less direct than Title A, and suggests a meaningful contribution by potentially evaluating or challenging existing methods. This title stands out for its potential to impact the field by addressing the effectiveness of a popular approach."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on real-time action recognition in videos. The inclusion of 'ActionNet' suggests a novel approach or model, adding a layer of originality. It implies a significant contribution to the field by addressing real-time processing, which is a challenging and impactful area in NLP and computer vision.",
+      "B": "Title B is straightforward and clear, but lacks the distinctiveness of Title A. It is more generic and does not suggest any novel methodology or framework, making it less original. The significance is moderate, as it addresses an important topic but without indicating any unique contribution.",
+      "C": "Title C poses a question, which can be engaging but also introduces some ambiguity. It suggests an exploration of deep learning's capabilities, which is somewhat original but not entirely novel. The significance is notable, as it hints at evaluating the potential of deep learning for real-time applications, but it lacks the specificity of Title A."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on depth estimation from monocular images. The inclusion of 'DepthNet' suggests a novel approach or model, adding a layer of originality. It implies a significant contribution to the field by promising accuracy, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A. It is more generic and does not suggest any novel methodology or model, which reduces its originality. The significance is moderate, as it suggests a useful but potentially incremental contribution.",
+      "C": "Title C is phrased as a question, which can be engaging but also introduces some ambiguity. It suggests an exploration of the feasibility of the task, which is somewhat original but less direct in indicating a specific contribution. Its significance is similar to Title B, as it implies a useful investigation but not necessarily a groundbreaking advancement."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'GenerativeNet,' which suggests a novel approach or model. It effectively communicates the research focus on generating realistic images from noise, indicating a potentially significant contribution to the field. However, it could be slightly more precise in defining 'GenerativeNet.'",
+      "B": "Title B is very clear and straightforward, making it immediately understandable. However, it lacks originality and specificity, as it does not introduce any unique terms or concepts, making it sound generic. Its significance is somewhat limited by the absence of a specific model or method.",
+      "C": "Title C poses a question, which can be engaging but also introduces some ambiguity. It suggests an exploration of generative models, which is significant, but the phrasing is less direct than the other titles. It is more original than Title B but less so than Title A, as it does not introduce a specific model or term."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on anomaly detection in video streams with a specific model, AnomalyNet. It introduces a novel element with the name 'AnomalyNet,' suggesting a unique approach or model, which adds to its originality. The title implies a significant contribution to the field by addressing a practical problem with a potentially new method.",
+      "B": "Title B is straightforward and clear but lacks specificity and originality. It describes the task of detecting anomalies in video streams without indicating any novel approach or method, making it less distinctive. Compared to Title A, it does not suggest a specific contribution or innovation, reducing its perceived significance.",
+      "C": "Title C is clear and poses an intriguing question about the effectiveness of deep learning for anomaly detection in video streams. It is somewhat original by framing the research as a question, which can engage the reader's curiosity. However, it lacks the specificity of Title A regarding the method or model used, which slightly diminishes its impact in terms of contribution."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on image colorization using deep learning. The inclusion of 'ColorNet' adds a novel touch, suggesting a specific model or approach, which enhances its originality. It implies a significant contribution to the field by potentially introducing a new method or framework.",
+      "B": "Title B is straightforward but lacks the specificity and distinctiveness of Title A. While it clearly states the topic, it feels more generic and less innovative without a unique identifier like 'ColorNet.' Its significance appears limited as it doesn't suggest a new method or framework.",
+      "C": "Title C is phrased as a question, which can be engaging but may also seem less formal or scholarly. It suggests an exploration of deep learning's impact on image colorization, which is somewhat original. However, it lacks the directness and potential impact implied by Title A, making it seem less significant in terms of contribution."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on real-time hand gesture recognition using a system named GestureNet. The inclusion of a specific system name adds a layer of originality and suggests a potentially significant contribution to the field. Compared to the other titles, it is more distinctive and implies a concrete research output.",
+      "B": "Title B is straightforward and clear but lacks the specificity and originality of Title A. It is generic and does not hint at any novel approach or system, making it less impactful in terms of significance. While it communicates the research topic effectively, it does not stand out in an academic context.",
+      "C": "Title C poses a question, which can be engaging, but it introduces some ambiguity about the research's scope and outcomes. It suggests an exploration of deep learning's capabilities, which is significant, but the phrasing is less direct than Title A. It is more original than Title B but lacks the specificity and clarity of Title A."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on automated image labeling using neural networks. The inclusion of 'LabelNet' adds a distinctive element, suggesting a novel approach or system, which enhances its originality. It implies a meaningful contribution to the field, potentially offering a new tool or method, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctive element present in Title A. It is somewhat generic, resembling many existing titles in the field, which reduces its originality. While it suggests a useful contribution, it does not imply a significant impact or novel approach as strongly as Title A.",
+      "C": "Title C is phrased as a question, which can be engaging but also introduces some ambiguity. It suggests an exploration rather than a concrete contribution, which may limit its perceived significance. While it offers a slightly different angle, it lacks the precision and impact suggested by Title A."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on image filtering using deep learning. The inclusion of 'FilterNet' adds a unique branding element, suggesting a novel approach or model, which enhances its originality. It implies a significant contribution to the field by suggesting an advanced technique, making it the strongest title overall.",
+      "B": "Title B is straightforward but lacks the distinctiveness of Title A. It is clear but somewhat generic, as it does not introduce any unique elements or suggest a specific contribution beyond the general application of deep learning to image filtering. Its significance appears limited compared to Title A.",
+      "C": "Title C poses a question, which can be engaging but also introduces ambiguity. It suggests exploration rather than a definitive contribution, which may imply a less significant impact. While it hints at originality by questioning the capabilities of deep learning, it lacks the clarity and assertiveness of Title A."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on deep learning for image segmentation. The inclusion of 'SegmentNet' suggests a novel approach or model, adding originality and potential significance. Compared to the other titles, it stands out by hinting at a specific contribution, making it more impactful for an academic audience.",
+      "B": "Title B is straightforward and clear but lacks originality, as it is a generic description of the topic. It does not suggest any specific contribution or novel angle, making it less significant compared to Title A. While it is easy to understand, it does not capture the reader's interest as effectively as the other titles.",
+      "C": "Title C is somewhat clear but introduces a question format that may imply a broader discussion rather than a specific contribution. It suggests an exploration of improvements in accuracy, which adds some significance. However, it lacks the specificity and originality of Title A, making it less compelling overall."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a focus on inference optimization in neural networks, but the term 'InferNet' is somewhat vague and could be interpreted as a specific tool or framework, which may not be immediately clear to all readers. It has average originality, as it follows a common naming convention in NLP. The title implies a significant contribution to the field, but the impact is not as explicitly stated as in Title C.",
+      "B": "Title B is very clear and straightforward, directly stating the focus on inference optimization for neural networks. However, it lacks originality, as it is a generic description that could apply to many papers in the field. The significance is moderate, as it suggests a useful but potentially incremental contribution without highlighting any novel aspect.",
+      "C": "Title C is clear and poses an intriguing question, which can engage the reader's curiosity. It is more original than the other titles, as it frames the research as an exploration of the potential benefits of optimization techniques. The title suggests a significant contribution by implying a potential improvement in neural network performance, making it the strongest choice for academic impact."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'ReinforceNet,' which suggests a novel approach or model. However, it lacks specificity about what makes this approach unique or impactful. Compared to Title C, it does not explicitly address the effectiveness or impact of the method, which could limit its perceived significance.",
+      "B": "Title B is very clear and straightforward, but it lacks originality and specificity, making it sound generic. It does not introduce any novel concepts or suggest a significant contribution to the field. While it is the clearest of the three, it does not convey the same level of potential impact as Title C.",
+      "C": "Title C is clear and poses a direct question about the effectiveness of deep learning in a specific context, which suggests a significant and potentially impactful contribution. It is more original than Title B, as it frames the research as an investigation into the effectiveness of a popular technique. This title stands out for its potential to engage the audience by addressing a relevant and broad question in the field."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'MetaNet: Learning to Learn with Deep Learning,' is mostly clear and introduces a potentially novel concept with the term 'MetaNet.' It suggests a significant contribution by implying a new framework or model in the meta-learning space. However, it could be slightly more precise in explaining what 'MetaNet' entails compared to the other titles.",
+      "B": "Title B, 'Learning to Learn with Deep Learning,' is the clearest and most straightforward of the three, but it lacks originality and specificity. It suggests a general exploration of meta-learning with deep learning, which is a common topic in the field. Its significance seems limited without additional context or a unique angle.",
+      "C": "Title C, 'Can Deep Learning Facilitate Meta-Learning Approaches?' is clear and poses an intriguing question, suggesting a fresh angle on the relationship between deep learning and meta-learning. It implies a significant exploration of this relationship, but the question format may make it seem less definitive than Title A. It stands out for its originality but could be perceived as less assertive in its contribution."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces the concept of Graph Neural Networks (GNNs) for structured data, but the term 'GraphNet' might be slightly ambiguous without context. It is somewhat original by suggesting a specific framework, but it lacks the novelty of a question-driven approach. The title implies a significant contribution by focusing on a specific application of GNNs.",
+      "B": "Title B is very clear and straightforward, directly stating the focus on GNNs for structured data. However, it lacks originality, as it resembles many existing titles in the field. The significance is moderate, as it suggests a general application without indicating a specific contribution or impact.",
+      "C": "Title C is clear and poses an intriguing question, which adds originality and suggests a deeper exploration of the topic. It implies a significant contribution by focusing on the enhancement of learning, which could have broad implications for the field. This title stands out for its potential to engage the reader and suggest a meaningful research question."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and suggests a focus on attention mechanisms, but the term 'AttentionNet' is somewhat vague without context. It is moderately original, as it combines a common term with a specific focus. The title implies a significant contribution by suggesting enhanced learning, but it lacks specificity compared to Title C.",
+      "B": "Title B is clear and straightforward, but it lacks the specificity and intrigue of the other titles. It is less original, as it uses a common structure without any unique elements. The significance is moderate, as it suggests an improvement in learning but does not specify the context or scope, making it less impactful than Title A or C.",
+      "C": "Title C is the clearest and most engaging, posing a direct question that invites curiosity. It is more original due to its interrogative form, which is less common in academic titles. The title suggests a significant contribution by questioning the impact of attention mechanisms on learning outcomes, making it the strongest choice for academic impact."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear but slightly ambiguous due to the term 'CloudNet,' which may not be immediately understood by all readers. It has average originality, as it follows a common naming convention in tech papers. The significance is moderate, as it suggests a focus on cloud solutions, but lacks a clear indication of broader impact.",
+      "B": "Title B is very clear and straightforward, making it easy to understand. However, it lacks originality, as it is a generic description of the topic. The significance is similar to Title A, suggesting a focus on cloud solutions without indicating a broader impact or novel approach.",
+      "C": "Title C is clear and poses an intriguing question, which adds a layer of originality. It suggests a broader exploration of the impact of cloud technologies on image processing, indicating a potentially significant contribution. This title stands out for its engaging and thought-provoking nature compared to the more straightforward Titles A and B."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'TransformNet,' which suggests a novel approach or model, adding to its originality. It implies a significant contribution by framing the research as transformative for visual data, which could have broad implications. However, the term 'TransformNet' might be slightly ambiguous without context, but it still stands out compared to the more generic Title B.",
+      "B": "Title B is the clearest and most straightforward, directly stating the focus on transformative learning for visual data. However, it lacks the originality and potential impact suggested by the other titles, as it does not introduce any specific model or question. It feels more like a general topic statement rather than a specific research contribution.",
+      "C": "Title C is intriguing and poses a question, which can engage the reader by suggesting an exploration of the potential benefits of transformative learning. It is original in its approach and implies a significant contribution by questioning the enhancement of visual data processing. However, the question format might make it seem less definitive compared to Title A, which presents a more assertive contribution."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on image quality optimization using deep learning. The inclusion of 'VisionEnhancer' adds a unique touch, suggesting a novel approach or tool, which enhances its originality. It implies a significant contribution to the field, potentially offering broad impact, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A. It is somewhat generic, resembling many existing titles in the field, which affects its originality. While it suggests a useful contribution, it does not imply a broad impact, making it less significant compared to Title A.",
+      "C": "Title C poses a question, which can be engaging but also introduces ambiguity, making it less clear than the other titles. It offers a slightly different angle by framing the research as an inquiry, which adds some originality. However, it does not strongly suggest a significant contribution, making it less impactful than Title A."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on temporal sequences in videos with a specific model, TemporalNet. It suggests a novel approach, which adds to its originality, and implies a significant contribution to the field by introducing a new model. Compared to the other titles, it is more specific and impactful.",
+      "B": "Title B is straightforward but lacks specificity, making it less original and significant. It is clear but does not introduce any unique elements or suggest a substantial contribution. It feels generic compared to Title A, which specifies a model, and Title C, which poses a research question.",
+      "C": "Title C is clear and poses an intriguing question about the effectiveness of deep learning, which adds to its significance. However, it is less original than Title A, as it does not introduce a specific model or method. It is more engaging than Title B but lacks the specificity and novelty of Title A."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'FusionNet: Integrating Information from Multiple Sources,' is mostly clear and introduces a specific system or model, 'FusionNet,' which adds a layer of originality. It suggests a meaningful contribution by implying a novel method for integrating information, which could have broad implications in NLP. However, it could be slightly more precise about the nature of the integration.",
+      "B": "Title B, 'Integrating Information from Multiple Sources,' is very clear but lacks originality, as it is a generic description of a common task in NLP. Its significance is limited as it does not suggest any specific method or innovation, making it appear more incremental compared to the other titles.",
+      "C": "Title C, 'How Can Deep Learning Integrate Information from Multiple Sources?' is clear and poses an intriguing question, which adds a degree of originality. It suggests a significant contribution by focusing on deep learning, a key area in NLP. However, it is slightly less precise than Title A, as it does not specify any particular approach or model."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on image classification and ensemble learning. The introduction of 'BoostNet' adds a novel element, suggesting a specific method or framework, which enhances its originality. It implies a significant contribution by suggesting an enhancement to existing techniques, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A due to the absence of a specific method name like 'BoostNet.' It is less original and significant as it resembles many existing titles in the field, focusing on a common topic without suggesting a novel approach.",
+      "C": "Title C is framed as a question, which adds a degree of originality and engages curiosity. However, it lacks the specificity and assertiveness of Title A, making it seem less significant. While it suggests an exploration of ensemble learning's impact, it does not imply a concrete contribution as strongly as Title A does."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific method, 'ReflectNet,' which suggests a novel approach. It is somewhat original due to the introduction of a new term, which implies a potentially significant contribution to the field. Compared to the other titles, it balances clarity, originality, and significance well, making it the strongest choice overall.",
+      "B": "Title B is very clear and straightforward, but it lacks originality and specificity. It sounds generic and does not suggest any novel contribution or method, which limits its perceived significance. While it is the clearest of the three, it does not stand out in terms of academic impact.",
+      "C": "Title C is somewhat clear but uses a question format that can be seen as less scholarly. It suggests a focus on deep learning, which is a significant area, but the phrasing is less direct and more speculative. It is more original than Title B but less precise than Title A, making it less effective overall."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'SecureNet: Enhancing Image Security with Deep Learning,' is mostly clear and introduces a specific term, 'SecureNet,' which suggests a novel approach or system. This adds a layer of originality and implies a significant contribution to the field of image security. Compared to the other titles, it is more distinctive and suggests a broader impact.",
+      "B": "Title B, 'Enhancing Image Security with Deep Learning,' is very clear and straightforward, making it easily understandable. However, it lacks originality and distinctiveness, as it resembles many existing titles in the field. Its significance appears limited, as it does not suggest any specific innovation or system, unlike Title A.",
+      "C": "Title C, 'How Can Deep Learning Enhance Image Security Measures?' is phrased as a question, which adds a slight originality and engages curiosity. It suggests a focus on exploring potential methods, which could imply a significant contribution. However, it is less direct than Title A and may not convey the same level of impact or specificity."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 5,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific system name, 'AuthNet,' which adds a layer of originality. However, it may not immediately convey the significance of the research to those unfamiliar with the system. Compared to Title B, it offers a more distinctive angle, but it lacks the engaging question format of Title C.",
+      "B": "Title B is the clearest and most straightforward, making it immediately understandable. However, it lacks originality and significance, as it resembles many existing titles in the field. It does not stand out as much as Title A or C, which offer more unique or thought-provoking elements.",
+      "C": "Title C is framed as a question, which is both engaging and original, prompting curiosity about the research's potential impact. It suggests a broader significance by questioning the reliability of deep learning in image authentication. While slightly less clear than Title B, it effectively communicates a novel and significant research angle, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately indicating the focus on object movement tracking in video streams with a specific model, TraceNet. It suggests a novel approach, which adds to its originality. The title implies a significant contribution to the field by introducing a potentially new method, making it the strongest choice overall.",
+      "B": "Title B is straightforward and clear but lacks specificity and originality. It describes the general task of tracking object movement in video streams without indicating any novel approach or method. Its significance is limited as it suggests a more incremental contribution compared to the other titles.",
+      "C": "Title C is clear and poses an intriguing question about the role of deep learning in enhancing object movement tracking. It is somewhat original due to its question format, which is less common in academic titles. The title suggests a significant contribution by exploring the impact of deep learning, but it lacks the specificity of Title A."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a novel term 'SynthNet,' which suggests a specific model or framework, adding originality. It implies a significant contribution by hinting at a new method for synthesizing textures, which could be impactful in the field. Compared to Title B, it offers more specificity and intrigue.",
+      "B": "Title B is very clear and straightforward, making it easy to understand. However, it lacks originality and distinctiveness, as it resembles many existing titles in the field. Its significance seems limited, as it does not suggest any novel approach or framework, unlike Title A.",
+      "C": "Title C is clear and poses an intriguing question, which adds a layer of originality. It suggests a significant exploration of the effectiveness of deep learning in texture synthesis, potentially impacting the field. However, it is slightly less direct than Title A, which explicitly introduces a new concept."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'RefineNet,' which suggests a novel approach or model. However, it lacks originality as it follows a common naming convention in NLP. The significance is moderate, as it implies a contribution to image processing but does not suggest a broad impact.",
+      "B": "Title B is the clearest and most straightforward, making it immediately understandable. However, it is quite generic and lacks originality, as it does not introduce any unique terms or concepts. The significance is similar to Title A, indicating a useful but not groundbreaking contribution.",
+      "C": "Title C is clear and poses a question, which adds an element of originality and intrigue. It suggests a focus on effectiveness, which could imply a deeper exploration of methods or results. While it shares the same level of significance as the others, the phrasing makes it stand out as potentially more engaging and thought-provoking."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on event detection in video streams with a specific system or model, 'EventNet.' It suggests a novel approach or tool, which adds to its originality. The title implies a significant contribution to the field by potentially introducing a new method or framework, making it more impactful than the others.",
+      "B": "Title B is straightforward and clear but lacks specificity and originality. It describes the general topic of event detection in video streams without indicating any novel approach or specific contribution. This makes it less significant compared to Title A, as it does not suggest any new insights or methods.",
+      "C": "Title C is somewhat clear but framed as a question, which can be engaging but also slightly ambiguous. It hints at an exploration of deep learning's effectiveness, adding some originality. However, it lacks the directness of Title A in suggesting a concrete contribution, making it less impactful overall."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on natural disasters and remote sensing. The inclusion of 'DisasterNet' adds a novel element, suggesting a specific framework or model, which enhances its originality and potential significance. Compared to the other titles, it stands out as more distinctive and impactful.",
+      "B": "Title B is clear and straightforward, effectively communicating the core topic. However, it lacks the originality and distinctiveness of Title A, as it does not introduce any unique elements or frameworks. Its significance appears more limited, as it suggests a general assessment rather than a novel approach.",
+      "C": "Title C is somewhat clear but slightly less precise due to its question format, which can introduce ambiguity. It lacks originality, as it resembles common phrasing in academic titles. The significance is moderate, as it implies a focus on effectiveness but does not suggest a novel contribution like Title A does."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'SmartNet: Intelligent Systems for Real-Time Decision Making,' is mostly clear and introduces a potentially novel concept with the term 'SmartNet,' which adds a layer of originality. It suggests a significant contribution by implying a new system or framework, which could have broad implications for the field. Compared to the other titles, it stands out due to its specific branding and potential for impact.",
+      "B": "Title B, 'Intelligent Systems for Real-Time Decision Making,' is very clear and straightforward, making it easily understandable. However, it lacks originality, as it resembles many existing titles in the field. The significance is moderate, as it suggests a useful but possibly incremental contribution without indicating a novel approach or system.",
+      "C": "Title C, 'Can Intelligent Systems Facilitate Real-Time Decision Making?' is clear but slightly less so than Title B due to its question format, which introduces some ambiguity. It has moderate originality by framing the topic as a question, which can engage curiosity but may also imply uncertainty about the contribution. The significance appears limited, as it suggests exploration rather than a definitive contribution."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on predicting future events in time series data. The inclusion of 'PredictNet' suggests a novel approach or model, adding a layer of originality. It implies a significant contribution to the field by potentially introducing a new method, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A. It is somewhat generic, as it does not specify any particular method or innovation, reducing its originality. The significance is moderate, as it suggests a useful but potentially incremental contribution.",
+      "C": "Title C is clear and poses an intriguing question, which can engage the reader. It suggests a focus on deep learning, which adds some originality compared to Title B. However, it lacks the specificity of a novel model or approach like in Title A, making it slightly less impactful overall."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on AI in emergency response. The use of 'RescueNet' adds a novel and catchy element, suggesting a specific system or framework, which enhances its originality. It strongly implies a significant contribution to the field by addressing a critical application of AI, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A. It is somewhat generic, as it does not introduce any unique terminology or concepts. While it suggests a meaningful application of AI, it does not convey the same level of impact or specificity as Title A.",
+      "C": "Title C introduces a question format, which adds a slight originality compared to Title B. However, it implies uncertainty about the effectiveness of AI in this domain, which might suggest a narrower or more exploratory scope. It is clear but lacks the assertive impact of Title A, making it less compelling in terms of significance."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'SimulNet,' which suggests a novel framework or system, adding to its originality. It effectively communicates the potential significance of simulating real-world scenarios, hinting at broad applicability. However, the term 'SimulNet' might require further context for full clarity.",
+      "B": "Title B is the clearest and most straightforward, making it immediately understandable. However, it lacks the originality and specificity of Title A, as it does not introduce any unique concepts or frameworks. Its significance is also less pronounced, as it appears more descriptive than impactful.",
+      "C": "Title C poses a question, which can be engaging but also introduces some ambiguity. It suggests a novel angle by focusing on the enhancement of understanding, which adds to its originality. However, the phrasing is less direct, making it slightly less clear than Title A and B, and its significance is implied rather than explicit."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a novel term 'CollaborNet,' which suggests a specific framework or model, adding originality. It implies a significant contribution by hinting at enhanced performance through collaborative learning, making it appealing for its potential impact. However, it could be slightly more precise in specifying the context or domain of application.",
+      "B": "Title B is the clearest and most straightforward, directly stating the focus on collaborative learning and enhanced performance. However, it lacks originality and specificity, making it sound generic and less impactful compared to Title A. It suggests a useful but potentially incremental contribution.",
+      "C": "Title C is framed as a question, which adds a degree of originality and engages curiosity. It is clear but slightly less direct than Title B. The question format implies exploration rather than a definitive contribution, which may suggest lower significance compared to Title A. It lacks the specificity and potential impact conveyed by the term 'CollaborNet' in Title A."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on financial risk assessment using AI. The inclusion of 'RiskNet' adds a novel element, suggesting a specific framework or model, which enhances its originality and potential significance. Compared to the other titles, it stands out as more distinctive and impactful.",
+      "B": "Title B is straightforward and clear, but lacks originality, as it is a generic statement about AI's role in financial risk assessment. It suggests a useful contribution but appears more limited in scope compared to Title A, which implies a specific approach or system.",
+      "C": "Title C is somewhat clear but introduces a question format that may imply a broader or more exploratory study. While it adds a slight twist in originality, it lacks the specificity and potential impact suggested by Title A. The phrasing could be seen as less direct, making it slightly less effective in conveying significance."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'SustainNet: Promoting Sustainable Practices with AI,' is mostly clear and introduces a potentially novel concept with the term 'SustainNet,' suggesting a specific framework or model. It implies a significant contribution to both AI and sustainability, though the exact nature of 'SustainNet' is not immediately clear. Compared to the other titles, it stands out for its originality and potential impact.",
+      "B": "Title B, 'Promoting Sustainable Practices with AI,' is very clear and straightforward, making it immediately understandable. However, it lacks originality and specificity, as it does not introduce any unique concepts or frameworks. Its significance seems limited to a general application of AI, making it less impactful than Title A.",
+      "C": "Title C, 'How Can AI Promote Sustainable Practices Effectively?' is clear and poses an interesting question, suggesting a focus on effectiveness. While it hints at a meaningful contribution, it lacks the specificity and novelty of Title A. It is more engaging than Title B but does not convey the same level of innovation as Title A."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on data privacy and AI techniques. The inclusion of 'PrivacyNet' adds a novel touch, suggesting a specific framework or model, which enhances its originality. It implies a significant contribution to the field by addressing a critical issue, making it the strongest title overall.",
+      "B": "Title B is straightforward and clear but lacks the distinctiveness of Title A. It is more generic and does not suggest a specific framework or model, which reduces its originality. While it indicates a useful contribution, it appears more incremental compared to Title A.",
+      "C": "Title C is phrased as a question, which adds a degree of originality and engages curiosity. However, it is slightly less clear than Title A due to its interrogative form, which may imply uncertainty about the contribution. It suggests a potentially significant topic but lacks the directness and specificity of Title A."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'HealthNet: AI for Predictive Health Analytics,' is mostly clear and introduces a specific system or framework, 'HealthNet,' which adds a layer of originality. It suggests a significant contribution to the field of health analytics, potentially indicating a comprehensive approach. Compared to the other titles, it is more distinctive and implies a broader impact.",
+      "B": "Title B, 'AI for Predictive Health Analytics,' is very clear and straightforward, making it immediately understandable. However, it lacks originality and feels generic, as it does not introduce any unique element or angle. Its significance appears limited, suggesting a more incremental contribution compared to Title A.",
+      "C": "Title C, 'How Can AI Enhance Predictive Health Analytics?' is clear and poses an interesting question, which can engage the reader. It has moderate originality by framing the topic as a question, but it may imply a narrower scope of exploration. While it suggests a meaningful contribution, it lacks the specificity and potential impact indicated by Title A."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific concept, 'SmartCityNet,' which suggests a novel framework or system, enhancing its originality. It strongly implies a significant contribution to the field of sustainable urban development through AI, making it impactful. Compared to the other titles, it stands out due to its specificity and potential for broad impact.",
+      "B": "Title B is very clear and straightforward, but it lacks originality, as it is a generic statement about AI's role in sustainable urban development. While it suggests a meaningful contribution, it does not hint at any specific innovation or framework, making it less impactful than Title A.",
+      "C": "Title C is clear and poses a question, which can be engaging but also somewhat vague. It suggests an exploration of AI's role, which is slightly more original than Title B but less so than Title A. The significance is moderate, as it implies a discussion rather than a specific solution or framework."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and precise, immediately conveying the focus on AI in precision agriculture. The use of 'AgriNet' adds a unique branding element, suggesting a novel approach or framework, which enhances its originality. It implies a significant contribution to the field by potentially introducing a new system or methodology.",
+      "B": "Title B is straightforward and clear, but lacks originality, as it is a generic statement about AI's role in precision agriculture. It suggests a broad overview rather than a specific contribution, which limits its perceived significance compared to Title A.",
+      "C": "Title C is somewhat clear but slightly verbose, posing a question that implies exploration rather than a definitive contribution. It is moderately original, as it frames the topic as an inquiry, but this also makes it seem less impactful than Title A, which suggests a concrete development or innovation."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and introduces a specific term, 'TransNet,' which suggests a novel approach or model, adding a layer of originality. However, the title could be more precise about the nature of the transformation or the type of data involved. Compared to Title B, it offers a slightly more distinctive angle, and it implies a moderate level of significance in the field.",
+      "B": "Title B is straightforward and clear but lacks specificity and originality, as it is a generic statement about AI techniques transforming data. It does not introduce any unique concepts or terms, making it less impactful in terms of significance. Compared to Title A, it is less distinctive and suggests a narrower contribution.",
+      "C": "Title C poses a question, which adds an element of originality and curiosity. However, it is less clear than Title A and B due to its interrogative form, which might imply uncertainty about the research contribution. It suggests a moderate level of significance by questioning the effectiveness of AI techniques, but it lacks the specificity that Title A provides with the introduction of 'TransNet.'"
+    }
+  },
+  {
+    "id": 50,
+    "round": "title-only",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A, 'ConnectNet: Enhancing Connectivity in IoT Networks,' is mostly clear and introduces a specific term, 'ConnectNet,' which suggests a novel approach or model. It is somewhat original due to the coined term, which adds a distinctive touch. The title implies a significant contribution to the field of IoT connectivity, making it potentially impactful.",
+      "B": "Title B, 'Enhancing Connectivity in IoT Networks,' is very clear and straightforward, but lacks originality as it is quite generic and resembles many existing titles. While it suggests a useful contribution, it does not imply a broad impact or novel approach, making it less significant compared to the other titles.",
+      "C": "Title C, 'How Can AI Enhance Connectivity in IoT Networks?' is clear but slightly less so due to its question format, which can be seen as less direct. It introduces the angle of AI, which adds some originality, but the phrasing is not as distinctive as Title A. The title suggests a significant contribution by involving AI, but the question format may imply a more exploratory rather than definitive study."
+    }
+  }
+]

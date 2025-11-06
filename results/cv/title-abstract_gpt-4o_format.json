@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the integration of multi-source data and the enhancement of perception, which are central to the paper's contributions. The title is original enough to stand out while conveying the significance of the work in advancing perception capabilities.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its longer and more complex structure. It conveys the same core ideas but lacks the succinctness and impact of Title A. While it suggests meaningful contributions, it does not emphasize the novelty as strongly, making it less distinctive.",
+      "C": "Title C introduces a question format, which adds a layer of originality but at the cost of clarity. It is less direct in conveying the research's contributions and significance, making it appear more speculative. Compared to Titles A and B, it is less effective in highlighting the importance and innovation of the work."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, effectively summarizing the research focus on VisionNet as a comprehensive architecture for visual recognition. While it lacks originality, as it resembles many existing titles, it does convey the significance of the research by highlighting the comprehensive nature of the architecture.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its phrasing. It is unoriginal and feels derivative, as it closely resembles Title A without adding any new perspective. The significance is somewhat diminished compared to Title A, as it does not emphasize the innovative aspects as strongly.",
+      "C": "Title C introduces a question format, which adds a degree of originality and engages curiosity. However, it is less clear and more awkwardly phrased, making it harder to immediately grasp the research focus. The significance is not as well conveyed as in Title A, as the question format may imply a more exploratory rather than definitive contribution."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of generating realistic environments from minimal input, which is a significant contribution to the field. The title is both memorable and indicative of the research's impact, making it the strongest choice overall.",
+      "B": "Title B is mostly clear and faithful to the abstract, but it is slightly less concise than Title A. While it conveys the main idea, it lacks the same level of originality and impact, making it feel more like a straightforward description rather than a compelling title. It is still a solid choice but not as strong as Title A.",
+      "C": "Title C introduces an element of questioning, which adds some originality, but it is less clear and direct compared to the other titles. It suggests uncertainty about the research's capabilities, which is not reflected in the confident findings presented in the abstract. This title is less significant and impactful, making it the weakest option."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 5,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the innovative aspect of the research with the term 'Novel Approach.' It highlights the significance of the work by focusing on 'Temporal Action Detection,' which is central to the abstract. Compared to the other titles, it balances clarity, originality, and significance well.",
+      "B": "Title B is mostly clear but slightly less precise due to the phrase 'Enhanced Precision,' which could be interpreted in various ways. It is somewhat original but lacks the distinctiveness of Title A. The significance is suggested but not as strongly as in Title A, as it focuses more on precision rather than the broader impact.",
+      "C": "Title C is the most original, posing a question that invites curiosity about the innovations of ActionTrack. However, it is less clear and somewhat awkwardly phrased, making it less effective in conveying the research's significance. It suggests a focus on innovation but lacks the directness and clarity of Title A."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the innovative aspect of the DepthWise framework for 3D reconstruction. It highlights the novelty and significance of the research, suggesting a broad impact on fields like augmented reality and robotics. Compared to the other titles, it is the most scholarly and impactful.",
+      "B": "Title B is mostly clear but slightly less precise due to the phrasing 'as a Novel Framework,' which adds unnecessary complexity. It conveys the novelty of the research but lacks the distinctiveness of Title A. While it suggests meaningful contributions, it does not emphasize the significance as strongly as Title A.",
+      "C": "Title C is somewhat vague and awkwardly phrased, focusing on the effectiveness of DepthWise rather than its innovative framework. It captures some originality by posing a question but does not convey the research's significance as effectively as the other titles. It feels more like an inquiry rather than a statement of contribution."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, highlighting the use of deep learning in human pose detection. However, it could be slightly more precise in conveying the specific contributions of the research. It is somewhat original, though it lacks a distinctive element that sets it apart. The title effectively conveys the significance of the research, suggesting a meaningful advancement in the field.",
+      "B": "Title B is the clearest and most straightforward, accurately reflecting the research focus on enhancing human pose detection with deep learning. However, it is quite generic and lacks originality, resembling many existing titles in the field. The significance is moderately conveyed, as it suggests an enhancement but does not emphasize the broader impact as strongly as Title A.",
+      "C": "Title C is less clear due to its question format, which introduces ambiguity about the research's contributions. It is more original than the others, as it poses a question that hints at potential innovation. The significance is well suggested, as it implies a broader impact, but the phrasing could mislead readers about the research's definitive contributions."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative framework, VideoGen, and its purpose of generating videos from text, which is a significant contribution to the field. The title is both clear and impactful, making it the strongest choice.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its phrasing. It conveys the framework's purpose but lacks the succinctness and impact of Title A. While it suggests meaningful contributions, it does not emphasize the novelty as strongly, making it less original.",
+      "C": "Title C is somewhat vague and awkwardly phrased, focusing more on the facilitation aspect rather than the framework itself. It lacks clarity and does not strongly convey the significance or innovation of the research. Compared to Titles A and B, it is less effective in representing the research's contributions."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, highlighting the advanced nature of the framework. However, it lacks a bit in originality, as it follows a common naming convention. It effectively conveys the significance of the research by emphasizing the advanced framework, which is a key contribution of the paper.",
+      "B": "Title B is clear but slightly less original, as it closely resembles Title A without adding any new perspective. It suggests a focus on techniques, which is somewhat narrower than the broader framework described in the abstract. The significance is less pronounced compared to Title A, as it does not emphasize the framework's advancement.",
+      "C": "Title C is somewhat less clear due to its question format, which may not directly convey the research's contribution. It is more original, as it attempts to engage the reader by posing a question. The significance is well captured by suggesting an advancement in techniques, but the phrasing could be more direct to match the abstract's emphasis on the framework's impact."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it could be slightly more precise. It captures the essence of the research by highlighting the enhancement of identity verification through advanced techniques. While not highly original, it effectively conveys the significance of the research, suggesting meaningful contributions to the field.",
+      "B": "Title B is clear but lacks originality, as it closely resembles Title A without adding any unique elements. It adequately reflects the research's focus on improving identity verification but does not stand out in terms of innovation. Its significance is slightly lower than Title A, as it feels more generic.",
+      "C": "Title C introduces a question format, which adds a degree of originality and intrigue. However, it is less clear and slightly awkward, as it implies uncertainty about the research's outcomes. Despite this, it effectively conveys the significance of the research by suggesting a potential enhancement in identity verification, making it more engaging than Title B."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "B",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, but the phrasing is slightly awkward. It captures the essence of the research but lacks distinctiveness, making it somewhat generic. The title suggests a significant contribution, but not as strongly as Title B.",
+      "B": "Title B is precise and unambiguous, clearly reflecting the research's focus on a new paradigm for real-time detection. While it is not highly original, it effectively conveys the significance of the work. Compared to the other titles, it is the most straightforward and faithful to the abstract.",
+      "C": "Title C introduces a question format, which adds a layer of originality but makes it less clear and direct. It suggests an exploration of the paradigm's features rather than presenting it outright, which may not fully capture the research's impact. It is less significant compared to Title B, as it implies a narrower scope."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of bridging artistic and realistic styles, which is central to the paper. The title also conveys the significance of the research by suggesting a meaningful contribution to the field of style transfer.",
+      "B": "Title B is somewhat clear but lacks the precision and impact of Title A. It feels more generic and does not emphasize the innovative aspect of the research as strongly. While it suggests a contribution, it does not convey the significance as effectively as Title A.",
+      "C": "Title C is clear and somewhat original, using a question format to engage the reader. However, it is slightly less precise than Title A and does not convey the significance of the research as strongly. It does highlight the innovative aspect but lacks the succinctness and impact of Title A."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the use of GANs for vision tasks, which is central to the paper's contribution. The title is both original and significant, emphasizing the innovative application of GANs in a memorable way.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its more generic phrasing. It conveys the main idea but lacks the distinctiveness of Title A. While it suggests meaningful contributions, it does not emphasize the innovative aspects as strongly, making it less impactful.",
+      "C": "Title C introduces ambiguity with the question format, which may confuse readers about the paper's focus. It is somewhat original due to its interrogative style, but this detracts from clarity. The significance is also reduced, as the title does not strongly convey the research's impact or contributions compared to Titles A and B."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of NeuralTracking and its application in object tracking, which is a significant contribution to the field. The title is both scholarly and memorable, making it the strongest choice overall.",
+      "B": "Title B is mostly clear but slightly awkward in phrasing compared to Title A. It conveys the research's focus on advanced techniques but lacks the same level of precision and impact. While it suggests meaningful contributions, it does not stand out as much as Title A in terms of originality and significance.",
+      "C": "Title C introduces a question format, which adds some originality but makes it less clear and direct. It implies an evaluation of effectiveness, which is part of the research, but does not fully capture the innovative techniques introduced. The significance is somewhat diminished compared to Title A, as it feels more exploratory than declarative."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it could be more concise. It captures the essence of the research by emphasizing the enhancement of image understanding through segmentation. However, it lacks a distinctive element that would make it stand out in terms of originality.",
+      "B": "Title B is somewhat awkwardly phrased and feels redundant, as it repeats the concept of segmentation without adding clarity. It is less original and significant compared to Title A, as it does not effectively highlight the innovative aspects of the research.",
+      "C": "Title C introduces a question format, which adds a layer of originality by prompting curiosity about the research's impact. However, it is less clear and slightly misleading, as the abstract confirms the enhancement rather than questioning it. Its significance is on par with Title B, but it stands out more in terms of originality."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of the NeuroVision architecture and its application in visual recognition, making it both memorable and significant. Compared to the other titles, it is the most scholarly and impactful.",
+      "B": "Title B is mostly clear but slightly less precise than Title A, as it suggests a broader application without emphasizing the specific contribution of NeuroVision. It is somewhat original but lacks the distinctiveness of Title A. The significance is conveyed, but it feels more generic compared to the more focused Title A.",
+      "C": "Title C is phrased as a question, which can be seen as less formal and scholarly. It introduces some ambiguity and does not clearly convey the research's significance. While it attempts to highlight the innovative aspect, it lacks the precision and impact of Title A, making it the weakest choice overall."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 5,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, emphasizing the advancement in contextual awareness through SceneUnderstanding. It captures the innovative aspect of the research by highlighting the framework's contribution to computer vision. The title effectively conveys the significance of the work, suggesting a broad impact on the field.",
+      "B": "Title B is very clear and directly reflects the content of the abstract, focusing on the improvement of contextual awareness. However, it lacks originality, as it closely resembles common phrasing and does not stand out. The significance is adequately conveyed, but it feels more incremental compared to Title A.",
+      "C": "Title C is somewhat unclear due to its question format, which may confuse readers about the paper's focus. It is highly original, as it presents the research in a distinctive way, but this originality comes at the cost of clarity. The significance is suggested, but the title's phrasing makes it less direct than Title A."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, effectively summarizing the research focus on enhancing model robustness through augmentation techniques. While it is straightforward, it lacks a unique angle, making it somewhat average in originality. However, it conveys the significance of the research well, highlighting the broad impact of the proposed techniques.",
+      "B": "Title B is overly verbose and somewhat redundant, making it less clear than Title A. It repeats the phrase 'through Augmentation Techniques,' which adds unnecessary length without additional clarity. Its originality is low, as it feels generic and lacks a distinctive element. The significance is also less pronounced due to its cumbersome phrasing.",
+      "C": "Title C poses a question, which adds a slight twist to the presentation, making it more engaging than Title B. It is relatively clear, though the question format may imply a narrower focus on exploration rather than contribution. Its originality is moderate, as it introduces a different approach to the title, and it adequately conveys the significance by suggesting an investigation into the effectiveness of the techniques."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights both the assessment and improvement aspects of image quality, which are central to the paper. The title is original enough to stand out and conveys the significance of the research in the context of vision tasks.",
+      "B": "Title B is somewhat awkwardly phrased and less clear than Title A, making it harder to follow. It lacks originality and feels derivative, as it closely resembles Title A without adding any new perspective. The significance is also less pronounced, as it does not effectively convey the impact of the research.",
+      "C": "Title C is clear but slightly verbose, which may detract from its impact. It captures the research's focus on the impact of image quality but does so in a less concise manner than Title A. While it suggests significance, it lacks the originality and precision found in Title A, making it a less compelling choice overall."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, accurately reflecting the focus on anomaly detection in visual data. While it is straightforward, it lacks a distinctive element that would make it stand out, resulting in an average score for originality. However, it effectively conveys the significance of the research by highlighting the identification of unusual patterns, which is a key contribution of the paper.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to the use of 'for' which makes it read more like a purpose statement rather than a description. It is less original, as it closely resembles common phrasing found in many technical papers. The significance is somewhat diminished compared to Title A, as it does not emphasize the innovative aspects of the research as strongly.",
+      "C": "Title C is less clear due to its question format, which can be seen as awkward and not directly representative of the research's contributions. It is more original than the other titles, as it attempts to engage the reader with a question, but this originality does not necessarily enhance the understanding of the research's significance. The significance is average, as the title does not effectively convey the impact or importance of the research."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, emphasizing the transformation of data into visual insights. However, it lacks a unique angle, making it somewhat generic. It effectively conveys the significance of the research but does not stand out in terms of originality compared to Title C.",
+      "B": "Title B is less clear due to its awkward phrasing, which makes it harder to follow. It is also quite unoriginal, resembling many existing titles in the field. The significance is present but not as strongly conveyed as in Title A or C, making it the weakest option overall.",
+      "C": "Title C is clear and poses an engaging question that aligns well with the abstract, capturing the innovative aspects of the research. It is more original than the other titles, offering a distinctive approach. The title effectively conveys the significance of the research, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, effectively capturing the essence of the research. It highlights the creation of realistic facial images using AI, which is the core contribution of the paper. The title is both precise and significant, reflecting the innovative aspects of the research without unnecessary complexity.",
+      "B": "Title B is mostly clear but slightly verbose, which may detract from its impact. While it accurately describes the research, it lacks the succinctness of Title A. The originality is average, as it closely resembles common phrasing in the field, and the significance is slightly less pronounced due to its length.",
+      "C": "Title C introduces a question format, which adds a layer of originality but also introduces ambiguity. It suggests uncertainty about the research's capability, which is not reflected in the confident findings of the abstract. The significance is lower as it does not strongly convey the research's impact, unlike Title A."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it could be more concise. It captures the essence of the research by highlighting the enhancement of object tracking through deep learning. While not highly original, it effectively conveys the significance of the work in improving tracking performance.",
+      "B": "Title B is somewhat awkwardly phrased and less clear than Title A, with a repetitive structure that makes it harder to follow. It lacks originality and feels generic, failing to strongly convey the significance of the research. Compared to Title A, it is less effective in summarizing the contribution.",
+      "C": "Title C is phrased as a question, which can be engaging but also introduces ambiguity. It is moderately original but does not clearly convey the significance of the research. While it attempts to highlight the enhancement aspect, it is less direct than Title A in communicating the research's impact."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, effectively capturing the essence of the research by highlighting the use of AI to advance OCR. It is original in its straightforwardness and conveys the significance of the research by emphasizing the advancement in OCR technology. Compared to the other titles, it is more precise and impactful.",
+      "B": "Title B is somewhat clear but awkwardly phrased, making it less effective in conveying the research's focus. It lacks originality, as it closely resembles common phrasing and does not stand out. While it suggests significance, it does so less effectively than Title A, as the phrasing is less direct.",
+      "C": "Title C is phrased as a question, which can be less conventional for academic titles and may introduce unnecessary ambiguity. It is not particularly original, as it follows a common pattern of question-based titles. The significance is less apparent compared to Title A, as the question format does not strongly convey the research's impact."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative framework 'ImageRestoration' and its purpose, which is to reconstruct high-quality images from low-quality inputs. The title is both clear and significant, reflecting the broad impact of the research in the field of image processing.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its more verbose structure. It conveys the same core idea but lacks the succinctness and impact of Title A. While it still suggests meaningful contributions, it does not stand out as much in terms of originality or significance.",
+      "C": "Title C introduces a question format, which adds some originality but also introduces ambiguity regarding the research's findings. It suggests an evaluation rather than a presentation of a new framework, which may mislead readers about the paper's content. Compared to Titles A and B, it is less clear and significant, as it does not directly convey the innovative aspects or the impact of the research."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is clear and directly aligned with the abstract, accurately reflecting the focus on identifying environments through image analysis. While it is straightforward, it lacks a distinctive element that would make it stand out, resulting in an average score for originality. However, it effectively conveys the significance of the research, suggesting a meaningful contribution to the field.",
+      "B": "Title B is similar to Title A but slightly less clear due to the added preposition, which makes it more cumbersome. It is also less original, as it closely resembles common phrasing in the field. The significance is somewhat diminished compared to Title A, as it does not emphasize the innovative aspects of the research as strongly.",
+      "C": "Title C introduces a question format, which adds a layer of originality by prompting curiosity about the innovations of SceneRecognition. However, it is less clear and more awkwardly phrased, potentially confusing readers about the paper's focus. It does suggest significance by hinting at innovations, but the phrasing could mislead readers into expecting a broader discussion than the abstract provides."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, highlighting the advancement in HCI through gesture recognition. However, it lacks specificity about the technological aspect, making it somewhat generic. It captures the significance of the research but does not stand out in terms of originality compared to Title C.",
+      "B": "Title B is somewhat awkwardly phrased and less clear, as it suggests a broader scope than the abstract implies. It is also less original, resembling common phrasing in the field. The significance is moderate, as it does not strongly convey the impact of the research compared to the other titles.",
+      "C": "Title C is clear and directly questions the role of gesture recognition in advancing HCI technologies, which aligns well with the abstract's focus. It is more original, as it frames the research in an engaging way. The title effectively conveys the significance of the research, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research by highlighting the bridging of physical and digital worlds through AugmentedReality. It is original in its succinctness and memorable phrasing, and it strongly conveys the significance of the research in advancing augmented reality technologies.",
+      "B": "Title B is mostly clear but slightly awkward due to its phrasing, which makes it less impactful than Title A. It is somewhat original but lacks the distinctiveness of Title A. The significance is conveyed, but the title feels more generic and less engaging.",
+      "C": "Title C is less clear and somewhat awkwardly phrased as a question, which does not align well with the declarative nature of the abstract. It is average in originality, resembling common phrasing, and the significance is not as strongly conveyed as in Title A. Overall, it feels less scholarly and impactful."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the focus on motion dynamics and the introduction of the OpticalFlow framework, which is central to the paper. The title is both original and significant, emphasizing the broad impact of the research in video analysis.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its phrasing. It still conveys the main idea of the research but lacks the same level of originality. The significance is adequately suggested, but the title feels more generic compared to Title A.",
+      "C": "Title C is somewhat awkwardly phrased and less clear, as it poses a question that may not directly reflect the research's contributions. While it attempts to highlight the enhancement aspect, it does so in a less scholarly manner. The originality and significance are on par with Title B, but the clarity is weaker, making it less effective overall."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of bringing depth to visual experiences, which is central to the paper's contribution. The title is both memorable and significant, suggesting a broad impact on the field of 3D reconstruction.",
+      "B": "Title B is mostly clear but slightly less precise than Title A, as it uses 'for Enhanced Depth' which feels somewhat redundant. It is less original, resembling common phrasing in technical papers. However, it still conveys meaningful contributions, though with a narrower scope compared to Title A.",
+      "C": "Title C introduces ambiguity with the question format, which may confuse readers about the paper's contributions. While it attempts to be original by posing a question, it weakly conveys the significance of the research. Compared to Titles A and B, it lacks clarity and impact, making it less effective in representing the research."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative framework, ColorEnhancement, and its purpose of optimizing image quality through color processing. The title is both scholarly and impactful, making it the strongest choice among the three.",
+      "B": "Title B is mostly clear but slightly less concise than Title A due to the additional preposition. It conveys the research's focus on color processing for image quality optimization but lacks the same level of originality and impact. While it is still a faithful representation, it feels more generic compared to Title A.",
+      "C": "Title C is phrased as a question, which makes it less clear and more awkward compared to the other titles. It introduces unnecessary ambiguity and does not effectively convey the significance of the research. The originality and significance are average, as it resembles a common phrasing without highlighting the innovative aspects of the study."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively conveying the main contribution of the research, which is improving action recognition through TemporalSegmentation. It captures the innovative aspect of the framework and its significance in enhancing accuracy, making it both clear and impactful.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to the use of 'Enhanced' instead of 'Improving,' which could imply a broader scope. It is somewhat original but lacks the distinctiveness of Title A. The significance is conveyed, but not as strongly as in Title A.",
+      "C": "Title C is less clear due to its question format, which introduces ambiguity about the research's findings. It is average in originality, as it resembles common phrasing and does not strongly convey the research's significance. Compared to Titles A and B, it is less effective in representing the research's contributions."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, but it is somewhat generic and lacks specificity about the applications. It captures the significance of enhancing accuracy but does not fully convey the innovative aspects of the research. Compared to Title C, it is less engaging and informative.",
+      "B": "Title B is clear but overly generic and lacks originality, as it closely resembles common phrasing. It suggests a focus on applications, which is not the primary emphasis of the abstract. While it indicates significance, it does not highlight the innovative methods used, making it less compelling than Title C.",
+      "C": "Title C is precise and clearly aligned with the abstract, effectively capturing the innovative aspects of the research. It is original and engaging, posing a question that highlights the framework's contribution to enhancing accuracy. This title stands out for its clarity and ability to convey both the significance and novelty of the research, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of integrating diverse data sources for enhanced learning. It is original in its presentation, though not entirely unique, and strongly conveys the significance of the research by emphasizing the enhancement of learning outcomes. Compared to the other titles, it is the most balanced in terms of clarity, originality, and significance.",
+      "B": "Title B is mostly clear but slightly awkward in phrasing, making it less precise than Title A. It is somewhat original but resembles many existing titles, and it suggests meaningful contributions with a narrower scope. While it captures the essence of the research, it lacks the impact and clarity of Title A.",
+      "C": "Title C introduces a question format, which adds a layer of originality, but it is less clear and more ambiguous than the other titles. It suggests a potential rather than a definitive contribution, which diminishes its perceived significance. While it is more engaging, it does not convey the research's impact as effectively as Title A."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it is slightly lengthy. It captures the essence of the research but lacks distinctiveness, making it somewhat average in originality. The title effectively conveys the significance of the research, suggesting a meaningful contribution to model performance enhancement.",
+      "B": "Title B is awkwardly phrased and less clear due to its structure, which makes it harder to follow. It is also quite generic and lacks originality, resembling many existing titles. The significance is not as strongly conveyed as in Title A, making it appear more incremental.",
+      "C": "Title C is clear and engaging, posing a question that aligns well with the abstract's focus on feature extraction and model performance. It is more original than the other titles, as it uses a question format to draw interest. The title effectively highlights the significance of the research by suggesting a comprehensive analysis of feature extraction's impact."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research on improving model efficiency through knowledge transfer. It is original in its straightforward presentation of the concept of KnowledgeDistillation, and it strongly conveys the significance of the research by emphasizing model efficiency. Compared to the other titles, it is the most concise and impactful.",
+      "B": "Title B is mostly clear but slightly longer and more cumbersome than Title A. It captures the research's focus on model efficiency and knowledge transfer but lacks the succinctness and impact of Title A. Its originality is average, as it closely resembles Title A without adding any unique elements.",
+      "C": "Title C is less clear due to its question format, which introduces ambiguity about the research's contributions. It is less original and significant compared to Title A, as it does not effectively convey the research's impact or innovation. The question format makes it feel less scholarly and more speculative, which detracts from its overall effectiveness."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, but it is somewhat generic and lacks a distinctive element that highlights the specific innovations of the research. It suggests significance by framing GNNs as a 'new frontier,' but does not specify the unique contributions of the paper compared to existing work.",
+      "B": "Title B is similar to Title A in clarity and significance, with a slight variation in phrasing. It maintains the same level of originality and significance, as it also lacks a specific focus on the unique contributions of the research. The use of 'as a' instead of a colon does not significantly alter its impact.",
+      "C": "Title C is the strongest as it clearly highlights the innovative aspects of the research by posing a question about the contributions of GraphNeuralNetworks. It is both clear and original, effectively capturing the essence of the research and its significance in advancing deep learning with GNNs. This title stands out by directly addressing the novelty and impact of the work."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      }
+    },
+    "choice": "C",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it could be slightly more precise. It captures the essence of the research but lacks distinctiveness, making it somewhat generic. The title suggests a meaningful contribution to the field, but it does not emphasize the broader impact as strongly as Title C.",
+      "B": "Title B is understandable but awkwardly phrased, making it less clear than Title A. It is quite similar to Title A but feels more derivative and lacks originality. The significance is apparent but not as well conveyed as in Title C, making it less impactful overall.",
+      "C": "Title C is precise and clearly aligned with the abstract, effectively capturing the innovative aspect of the research. It is more original and engaging than the other titles, posing a question that highlights the research's significance. This title strongly conveys the importance and broader impact of the work, making it the strongest choice overall."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of FederatedLearning as a new paradigm, which is a significant contribution to decentralized model training. The title is both scholarly and impactful, making it the strongest choice overall.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its phrasing. It conveys the novelty of FederatedLearning but lacks the distinctiveness of Title A. While it suggests meaningful contributions, it does not emphasize the significance as strongly as Title A.",
+      "C": "Title C is somewhat vague and less aligned with the abstract, as it poses a question rather than stating the research contribution directly. It captures some originality by focusing on the advantages, but it does not convey the significance of the research as effectively as Titles A and B. The question format makes it feel less scholarly and more speculative."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, capturing the essence of the research by emphasizing the potential unlocked by self-supervised learning. It is somewhat original, as it succinctly conveys the innovative aspect of the research. The title strongly suggests the significance of the work, highlighting the broad impact of self-supervised learning.",
+      "B": "Title B is very clear and directly reflects the content of the abstract, making it easy to understand. However, it lacks originality, as it closely resembles common phrasing in the field. The title suggests meaningful contributions but with a narrower scope, focusing on the technical aspect of not using labeled data.",
+      "C": "Title C is less clear due to its question format, which may not directly convey the research's contributions. It is somewhat original, as it poses a question that hints at exploration, but it does not strongly convey the significance of the research. Compared to the other titles, it appears less impactful and more limited in scope."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research on enhancing transparency in machine learning models through ExplainableAI. While it is clear and significant, it lacks a distinctive flair, making it somewhat average in originality. However, it remains the strongest choice due to its clarity and relevance.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its phrasing. It is less original, as it closely resembles Title A without adding any unique elements. The significance is moderate, as it suggests a focus on transparency but does not strongly convey the broader impact of the research.",
+      "C": "Title C is clear and introduces a question format, which adds a degree of originality. It effectively suggests an exploration of the relationship between ExplainableAI and transparency, aligning well with the abstract. However, the question format may imply a narrower scope, slightly reducing its perceived significance compared to Title A."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research on EthicalAI and its role in responsible AI development. It is original in its presentation, though not entirely unique, and strongly conveys the significance of the research by emphasizing the challenges and the framework's role in addressing them.",
+      "B": "Title B is somewhat awkwardly phrased and less clear than Title A, as the structure makes it slightly confusing. It lacks originality, resembling a rearrangement of Title A, and while it suggests meaningful contributions, it does so with less impact than Title A.",
+      "C": "Title C is clear but slightly less precise than Title A, as it poses a question that may not fully capture the research's depth. It is average in originality, similar to Title B, and conveys significance by implying an exploration of EthicalAI's effectiveness, though not as strongly as Title A."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the focus on assessing model resilience under adversarial conditions, which is central to the paper. The title is both original and significant, as it emphasizes the importance of robustness evaluation, making it the strongest choice overall.",
+      "B": "Title B is mostly clear but slightly longer and less concise than Title A. It conveys the same core idea but lacks the succinctness and impact of Title A. While it is still relevant and significant, it does not stand out as much in terms of originality, as it closely resembles Title A with minor differences.",
+      "C": "Title C is more awkwardly phrased and less clear, as it poses a question that is not directly addressed in the abstract. It lacks the precision and directness of Titles A and B, making it less effective in conveying the research's significance. The originality and significance are average, as it does not strongly highlight the innovative aspects or the importance of the research."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, though it could be slightly more concise. It captures the essence of the research by focusing on automation in model development, which is a significant contribution. However, it lacks a distinctive element that would make it stand out in terms of originality.",
+      "B": "Title B is somewhat awkwardly phrased and less clear due to its repetitive structure. It does not add any unique perspective or highlight the innovative aspects of the research, making it feel more generic compared to Title A. Its significance is also less pronounced as it doesn't effectively convey the impact of the research.",
+      "C": "Title C is phrased as a question, which can be engaging but may not be the most scholarly approach. It is clear in its intent but lacks originality, as it follows a common pattern. The significance is moderate, as it suggests an exploration rather than a definitive contribution, which is less impactful than Title A."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative use of AI in cybersecurity, which is a significant contribution. The title is both clear and impactful, making it the strongest choice among the three.",
+      "B": "Title B is somewhat clear but awkwardly phrased, making it less effective in conveying the research's focus. It lacks the precision of Title A and feels more generic. While it suggests meaningful contributions, it does not stand out as much as Title A.",
+      "C": "Title C is phrased as a question, which can be engaging but also introduces ambiguity. It does not clearly convey the research's significance or originality, making it less effective than Title A. The question format may also detract from the scholarly tone expected in a research title."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "B",
+    "reasons": {
+      "A": "Title A is mostly clear and aligns well with the abstract, but the use of 'A New Paradigm' is somewhat generic and does not fully capture the specific contributions of the research. It suggests significance by indicating a shift in computational efficiency, but lacks distinctiveness in originality compared to Title B.",
+      "B": "Title B is precise and unambiguous, clearly reflecting the research's focus on quantum computing as a new paradigm for computational efficiency. It maintains a scholarly tone and effectively conveys the significance of the research. While not highly original, it is the most straightforward and faithful representation of the abstract among the three titles.",
+      "C": "Title C introduces a question format, which adds a degree of originality, but it is less clear and direct in conveying the research's contributions. It suggests exploration rather than definitive findings, which may underplay the significance of the results presented in the abstract. Compared to Titles A and B, it is less effective in highlighting the research's impact."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of the framework and its impact on biological data analysis, making it both memorable and significant. Compared to the other titles, it is the most concise and impactful.",
+      "B": "Title B is mostly clear but slightly awkward due to the inclusion of 'for' which adds unnecessary length. It conveys the research's significance but lacks the distinctiveness of Title A. While it captures the essence of the research, it is less original and impactful than Title A.",
+      "C": "Title C is phrased as a question, which makes it less clear and more awkward compared to the other titles. It does not effectively convey the significance or originality of the research, making it appear less impactful. The question format detracts from the scholarly tone expected in a research title."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of using AI in urban planning, which is a significant contribution. The title is both memorable and scholarly, making it the strongest choice among the three.",
+      "B": "Title B is mostly clear but slightly longer and more cumbersome than Title A. It conveys the research's focus on AI solutions for urban planning but lacks the succinctness and impact of Title A. While it suggests meaningful contributions, it is less original and distinctive.",
+      "C": "Title C is phrased as a question, which makes it less clear and more awkward compared to the other titles. It does not effectively convey the significance or originality of the research, appearing more generic. The question format detracts from the scholarly tone, making it the weakest option."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of using predictive analytics for maintenance, which is a significant contribution. The title is both memorable and scholarly, making it the strongest choice among the three.",
+      "B": "Title B is mostly clear but slightly awkward due to its length and phrasing. It conveys the research's focus on predictive maintenance but lacks the distinctiveness of Title A. While it suggests meaningful contributions, it does not emphasize the innovation as strongly as Title A.",
+      "C": "Title C introduces ambiguity with its question format, which may confuse readers about the research's conclusions. Although it adds a sense of inquiry, it weakly conveys the significance and impact of the research. Compared to Titles A and B, it is less clear and impactful."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research on creating virtual replicas through DigitalTwins. It is both clear and significant, highlighting the broad impact of the framework across various applications. The title is somewhat original, though it could be more distinctive.",
+      "B": "Title B is mostly clear but slightly less precise than Title A due to its more passive construction. It conveys the research's significance but lacks the same level of originality, as it closely resembles common phrasing. Overall, it is a solid title but not as strong as Title A.",
+      "C": "Title C introduces a question format, which adds a layer of originality but makes it less clear and direct compared to the other titles. It suggests a focus on the process rather than the framework itself, which may not fully capture the research's significance as described in the abstract. It is less effective in conveying the broad impact of the work."
+    }
+  },
+  {
+    "id": 50,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, effectively capturing the essence of the research. It highlights the innovative aspect of using AI for eco-friendly practices, making it both memorable and significant. Compared to the other titles, it is the most concise and impactful, conveying the broad impact of the research.",
+      "B": "Title B is mostly clear but slightly longer and less concise than Title A. It conveys the research's significance but lacks the same level of originality, as it closely resembles Title A with minor wording changes. While it suggests meaningful contributions, it does not stand out as much as Title A.",
+      "C": "Title C introduces ambiguity with its question format, which may not clearly convey the research's contributions. It is somewhat original in its approach but lacks the directness and significance of Title A. The question format may imply uncertainty, which is not reflected in the abstract's confident presentation of results."
+    }
+  }
+]

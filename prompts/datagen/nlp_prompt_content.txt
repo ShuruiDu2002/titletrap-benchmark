@@ -1,0 +1,40 @@
+Generate 50 items of paper metadata in strict JSON array format.
+Each item must contain:
+- id (integer, starting at 1)
+- field ("NLP")
+- title_a: Branding/colon-style title introducing a coined term or branded phrase (must use colon, e.g., “X: Y for Z”).
+- title_b: Plain descriptive academic title in traditional style (no branding, no coined terms).
+- title_c: Interrogative-style title phrased as a clear research question (must end with a question mark).
+- abstract: A 180–220 word abstract written in the style of a real ACL/EMNLP/NAACL paper, covering background, method, experiments, and conclusion.
+
+Strict requirements:
+1. All three titles (a/b/c) must be faithful to the SAME paper abstract.
+2. Titles must differ only in style, not in factual content.
+3. Title_a must introduce a coined or branded term and follow colon-style formatting.
+   - Example: “TransLingua: A Transfer Learning Framework for Multilingual NLP”
+4. Title_b must be plain descriptive, academically neutral, and free of branding.
+   - Example: “A Transfer Learning Framework for Multilingual NLP”
+5. Title_c must be interrogative, asking a clear research question, ending with a question mark.
+   - Example: “Can Transfer Learning Improve Multilingual NLP?”
+6. Abstracts must:
+   - Be between 180–220 words.
+   - Be technically plausible for NLP (topics such as LLMs, transformers, embeddings, multilingual NLP, dialogue systems, evaluation, interpretability, etc.).
+   - Explicitly mention at least one dataset, benchmark, or experimental setting (e.g., GLUE, WMT, MultiWOZ, CoNLL).
+   - Include clear structure: background motivation, method/approach, datasets/experiments, results, and conclusion/implications.
+   - Report at least one concrete outcome (e.g., “achieves a 3.2% improvement over baseline”).
+   - Avoid vagueness and buzzwords without substance.
+
+Output format:
+[
+  {
+    "id": 1,
+    "field": "NLP",
+    "title_a": "...",
+    "title_b": "...",
+    "title_c": "...",
+    "abstract": "..."
+  },
+  ...
+]
+
+Output only valid JSON. Do not include any explanation or commentary.

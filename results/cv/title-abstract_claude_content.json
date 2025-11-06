@@ -1,0 +1,1352 @@
+[
+  {
+    "id": 1,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific model (VisionFusion) being introduced in the abstract, making it precise and faithful to the research content. It effectively communicates both the technical contribution and its application domain, providing readers with an immediate understanding of the paper's focus on a novel framework for multimodal learning.",
+      "B": "Title B is overly generic, lacking the specific reference to the VisionFusion model that constitutes the main contribution described in the abstract. While it correctly identifies the general field (multimodal learning), it fails to convey what makes this research distinctive or innovative, making it significantly less informative than Title A.",
+      "C": "Title C's question format creates unnecessary ambiguity and fails to directly communicate the paper's actual contribution of introducing the VisionFusion model. The interrogative structure suggests uncertainty rather than presenting a clear scientific contribution, and it lacks the technical precision needed to accurately represent the research described in the abstract."
+    }
+  },
+  {
+    "id": 2,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies both the proposed approach (SceneNet) and its purpose (understanding 3D scenes through deep learning), making it perfectly aligned with the abstract. It is scholarly and precise, directly naming the novel architecture described in the research while effectively conveying the significance of the contribution to 3D scene understanding.",
+      "B": "Title B is clear but generic, lacking the specific mention of the SceneNet architecture that forms the core contribution of the paper. While it accurately represents the general topic, it fails to convey the originality of the research and appears less scholarly than Title A by omitting the specific methodological contribution described in the abstract.",
+      "C": "Title C uses a question format that creates unnecessary ambiguity about the paper's actual contribution and findings. While it suggests significance by implying deep learning enhances 3D scene understanding, it lacks the scholarly precision of Title A and fails to mention the specific SceneNet architecture that represents the paper's primary contribution."
+    }
+  },
+  {
+    "id": 3,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and scholarly, clearly identifying both the specific model name (TrackNet) and the core technology (deep learning for real-time object tracking) that aligns perfectly with the abstract. The title effectively communicates the paper's main contribution while maintaining academic rigor and avoiding unnecessary elements.",
+      "B": "Title B is straightforward but generic, lacking the specificity of the model name (TrackNet) which is a key component mentioned throughout the abstract. While accurate in describing the research topic, it fails to distinguish this work from numerous other papers in the same domain, making it less memorable and distinctive.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity when the abstract clearly demonstrates that deep learning does enable real-time tracking. This rhetorical approach feels somewhat clickbait-like and less scholarly than Title A, while also omitting the specific contribution (TrackNet) that makes this research unique."
+    }
+  },
+  {
+    "id": 4,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (ReconstructNet) introduced in the paper, providing clear alignment with the abstract's content. It maintains a scholarly tone while faithfully representing the paper's key contribution - a neural network approach to 3D reconstruction. This title effectively communicates both the method and objective of the research.",
+      "B": "Title B accurately describes the research focus but lacks the specificity of naming the model (ReconstructNet) that is central to the paper's contribution. While technically correct, this more generic framing reduces both clarity and originality, making it less distinctive than Title A despite covering the same general topic.",
+      "C": "Title C poses a question rather than asserting the paper's findings, creating unnecessary ambiguity since the abstract clearly demonstrates that neural networks do improve reconstruction accuracy. This interrogative format feels less scholarly and understates the significance of the research, failing to mention the specific contribution (ReconstructNet) detailed in the abstract."
+    }
+  },
+  {
+    "id": 5,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and scholarly, explicitly naming the proposed model (SegNet) which aligns perfectly with the abstract's focus. It clearly communicates the paper's contribution while maintaining appropriate academic formality and specificity, making it immediately clear to readers what they can expect from the research.",
+      "B": "Title B is overly generic and lacks the specific naming of the proposed model that is central to the paper. Without mentioning SegNet, it fails to distinguish this research from countless other papers on deep learning for image segmentation, significantly reducing its memorability and informativeness.",
+      "C": "Title C adopts a question format that introduces unnecessary ambiguity about the paper's stance and contributions. While slightly more engaging than Title B, it still omits the specific model name (SegNet) and doesn't reflect the paper's clear focus on presenting and evaluating a novel architecture rather than merely questioning effectiveness."
+    }
+  },
+  {
+    "id": 6,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and scholarly, explicitly naming the proposed framework (StyleTransferNet) which directly aligns with the content of the abstract. It effectively communicates both the technical approach (deep learning) and the application domain (artistic image transformation), providing a complete and faithful representation of the research contribution.",
+      "B": "Title B is clear but lacks the specificity of naming the actual framework presented in the research. While it accurately describes the general topic, it feels generic and misses the opportunity to highlight the novel contribution (StyleTransferNet) that distinguishes this work, making it less informative than Title A.",
+      "C": "Title C frames the research as a question rather than stating the contribution, creating unnecessary ambiguity when the abstract clearly demonstrates that deep learning has already achieved artistic transformation. This interrogative framing undermines the significance of the presented framework and fails to communicate the actual innovation described in the abstract."
+    }
+  },
+  {
+    "id": 7,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A explicitly mentions the model name 'FaceRecogNet' which aligns perfectly with the abstract's description of the proposed system. The title is scholarly, precise, and faithfully represents both the method (deep learning) and the application domain (facial recognition) while also conveying the contribution's significance through the word 'Enhanced'.",
+      "B": "Title B is clear but lacks the specificity of identifying the particular system (FaceRecogNet) described in the abstract. It's overly generic and fails to distinguish this work from countless other papers on deep learning for facial recognition, missing an opportunity to highlight the novel aspects of the research contribution.",
+      "C": "Title C frames the research as a question rather than an assertion of contribution, creating uncertainty about what the paper actually delivers. While it covers the basic topic, the interrogative format feels less scholarly and confident than Title A, and doesn't effectively communicate the concrete contributions described in the abstract."
+    }
+  },
+  {
+    "id": 8,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A provides precise information about the research, clearly naming the model (PoseNet) and describing its purpose, which aligns perfectly with the abstract. It is scholarly and comprehensive, conveying both the technical approach and the specific application domain, making it immediately clear what the paper contributes to the field.",
+      "B": "Title B accurately describes the research focus but lacks specificity by omitting the name of the proposed model (PoseNet). While it's clear and straightforward, it's less distinctive than Title A and fails to differentiate this work from other papers on the same topic, making it somewhat generic in comparison.",
+      "C": "Title C presents the research as a question, which creates uncertainty about whether the paper actually demonstrates improvements or merely explores possibilities. This framing is misaligned with the abstract, which confidently presents PoseNet as achieving significant improvements in accuracy, and the question format feels less scholarly than the declarative statements in Titles A and B."
+    }
+  },
+  {
+    "id": 9,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title is precise and fully aligned with the abstract, clearly identifying both the model name (Text2Image) and the research focus on generating images from text descriptions. It maintains scholarly precision without being overly technical, and directly represents the core contribution described in the abstract.",
+      "B": "This title is overly generic and lacks the specificity needed to differentiate the work from other similar research. While technically accurate, it omits the model name and fails to convey the deep learning aspects or innovative contributions mentioned in the abstract, making it less informative than Title A.",
+      "C": "This question-format title introduces an evaluative angle that isn't the primary focus of the abstract, which emphasizes the presentation of a specific model (Text2Image) rather than broadly questioning deep learning effectiveness. While more original than Title B, it slightly misrepresents the paper's main contribution by framing it as an effectiveness assessment rather than a model presentation."
+    }
+  },
+  {
+    "id": 10,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely captures the paper's contribution by naming the introduced architecture (ActionNet) and stating its purpose (real-time action recognition in videos). The title is scholarly, technically precise, and perfectly aligned with the abstract's focus on both the model's architecture and its real-time performance capabilities.",
+      "B": "Title B is technically accurate but lacks specificity about the paper's main contribution - the ActionNet architecture. This generic title fails to distinguish the work from other papers in the same domain and doesn't reflect the innovative aspects described in the abstract, making it appear more like a survey than original research.",
+      "C": "Title C poses a question that doesn't properly represent the paper's conclusive contribution. While it creates intrigue, it suggests uncertainty about the feasibility of real-time action recognition, whereas the abstract clearly presents a working solution (ActionNet) with specific performance metrics. The rhetorical approach feels somewhat misleading given the definitive results presented."
+    }
+  },
+  {
+    "id": 11,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies both the method (DepthNet) and the research focus (accurate depth estimation from monocular images), making it fully aligned with the abstract. It is scholarly and informative, immediately conveying the technical contribution while maintaining appropriate specificity about the proposed approach.",
+      "B": "Title B accurately describes the research topic but omits the key contribution (DepthNet) mentioned in the abstract. While clear and straightforward, it lacks originality and distinctiveness, appearing generic compared to Title A which provides more specific information about the research contribution.",
+      "C": "Title C presents the research as a question rather than stating the contribution, creating ambiguity about whether the paper actually achieves accurate depth estimation. This interrogative framing diminishes the significance of the work and fails to highlight the novel DepthNet model that forms the core contribution described in the abstract."
+    }
+  },
+  {
+    "id": 12,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the abstract by mentioning 'GenerativeNet', the specific model introduced in the paper, while clearly describing the research focus on creating realistic images from noise. This scholarly title provides the right balance of specificity and clarity, directly reflecting the main contribution described in the abstract.",
+      "B": "Title B is too generic and lacks the specificity needed to highlight the novel contribution of the GenerativeNet architecture mentioned in the abstract. While it accurately describes the general goal of the research, it fails to convey the technical innovation or distinguish this work from numerous other papers on generative models.",
+      "C": "The question format of Title C makes it somewhat engaging but less direct than Title A in conveying the research contribution. While it correctly addresses the research domain, it doesn't specifically mention the paper's novel architecture (GenerativeNet) and suggests a more exploratory paper rather than one presenting a specific technical solution."
+    }
+  },
+  {
+    "id": 13,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly aligns with the abstract by naming the proposed model (AnomalyNet) and clearly stating the research focus on detecting anomalies in video streams. It is scholarly, precise, and effectively communicates the paper's technical contribution while maintaining an appropriate level of specificity that matches the described research.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other anomaly detection papers. While technically accurate, it fails to mention the deep learning approach or the novel AnomalyNet model described in the abstract, making it significantly less informative than Title A.",
+      "C": "Title C uses a question format that captures reader interest but doesn't directly state the paper's contribution of introducing AnomalyNet. Though it mentions deep learning, which aligns with the abstract's focus, the interrogative structure creates uncertainty about the paper's findings rather than confidently presenting the demonstrated effectiveness described in the abstract."
+    }
+  },
+  {
+    "id": 14,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies both the specific model (ColorNet) and the research domain (image colorization using deep learning), making it perfectly aligned with the abstract. It is scholarly and comprehensive, capturing the essence of the research contribution while maintaining clarity about the technical approach.",
+      "B": "Title B accurately describes the research domain but lacks specificity by omitting the model name (ColorNet) that features prominently in the abstract. While straightforward and factual, it's less original and distinctive compared to Title A, offering a generic description rather than highlighting the unique contribution.",
+      "C": "Title C frames the research as a question rather than a statement of contribution, creating unnecessary ambiguity about what the paper actually delivers. The interrogative format feels less scholarly and diminishes the significance of the research achievements described in the abstract, where ColorNet is presented as a concrete solution rather than an exploration."
+    }
+  },
+  {
+    "id": 15,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely represents the research by naming the proposed model (GestureNet) and clearly stating its purpose for real-time hand gesture recognition, perfectly aligning with the abstract. The title is concise, scholarly, and faithfully captures the technical contribution while immediately conveying the practical application of the research.",
+      "B": "Title B is overly generic, lacking the specific model name (GestureNet) that features prominently in the abstract. While it accurately describes the basic function of the research, it fails to distinguish this work from countless other papers on the same topic and doesn't convey the technical contribution or significance of the approach.",
+      "C": "Title C adopts a question format that creates unnecessary ambiguity about the research findings, when the abstract clearly demonstrates successful implementation. While more engaging than Title B, it still lacks the specific model name and presents as less scholarly and authoritative than Title A, diminishing the impact of the significant results reported in the abstract."
+    }
+  },
+  {
+    "id": 16,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A provides complete information by naming the specific system (LabelNet) while clearly describing its function, perfectly matching the abstract's content. It is scholarly, precise, and effectively communicates both the technical approach and the purpose of the research, making it immediately clear what contribution the paper makes.",
+      "B": "Title B is clear but generic, lacking the specific system name (LabelNet) mentioned prominently in the abstract. While technically accurate about the research focus, it is less distinctive and fails to highlight the novel contribution that distinguishes this research from other neural network approaches to image labeling.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity about the paper's contribution. The interrogative format feels less scholarly and authoritative compared to Titles A and B, and fails to convey that the paper actually presents a concrete solution (LabelNet) rather than just exploring possibilities."
+    }
+  },
+  {
+    "id": 17,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (FilterNet) introduced in the paper and clearly indicates its focus on image filtering using deep learning, perfectly aligning with the abstract's content. It is scholarly, informative, and provides readers with an immediate understanding of the paper's contribution, which is significantly more specific than the other options.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other similar works in the field. While technically accurate, it omits the name of the proposed model (FilterNet) which is central to the paper's contribution, making it less informative than Title A.",
+      "C": "This question-format title creates unnecessary ambiguity about the paper's contribution and findings, when the abstract clearly presents a successful implementation rather than an exploratory investigation. The interrogative structure feels less scholarly and potentially misleading, as the paper doesn't primarily question capability but rather demonstrates a specific implementation (FilterNet)."
+    }
+  },
+  {
+    "id": 18,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the proposed architecture (SegmentNet) while clearly indicating the research focus on deep learning for image segmentation, perfectly aligning with the abstract's content. It is technically accurate, appropriately specific, and scholarly in tone, providing readers with the exact information about what the paper presents without being overly verbose.",
+      "B": "Title B is too broad and generic, failing to mention the specific contribution (SegmentNet) that makes this research unique. While technically accurate, it lacks distinctiveness and specificity, appearing more like a topic label than a research paper title that highlights the novel contribution described in the abstract.",
+      "C": "Title C adopts a question format that feels less scholarly and more like marketing content, though it does hint at the performance improvements mentioned in the abstract. While it emphasizes the improvement aspect of the research, it omits the specific contribution (SegmentNet) and uses a more conversational tone that doesn't match the technical nature of the paper."
+    }
+  },
+  {
+    "id": 19,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely captures the paper's focus on inference optimization for neural networks while also introducing the framework name 'InferNet' mentioned in the abstract. It is scholarly and concise while clearly aligning with the research content, providing readers with immediate understanding of both the specific technique and its purpose.",
+      "B": "Title B is technically accurate but overly generic, lacking the specificity that would distinguish this research from other papers on neural network optimization. It omits the framework name 'InferNet' which is central to the research contribution, making it less informative and memorable compared to Title A.",
+      "C": "Title C's question format feels less scholarly and authoritative than a declarative statement, though it does highlight the paper's purpose. While it correctly emphasizes the optimization aspect, it unnecessarily frames the established research as a question and omits the framework name, making it less effective at conveying the specific contribution compared to Title A."
+    }
+  },
+  {
+    "id": 20,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely captures the core contribution of the paper by naming the proposed architecture 'ReinforceNet' while clearly indicating its purpose for policy optimization in reinforcement learning. It is concise yet informative, directly aligning with the abstract's description of the novel architecture and its performance improvements.",
+      "B": "Title B is overly generic and lacks specificity about the paper's primary contribution - the ReinforceNet architecture. While technically accurate, it fails to distinguish this research from countless other papers on policy optimization, missing the opportunity to highlight the novel deep learning approach described in the abstract.",
+      "C": "Title C frames the research as a question rather than asserting the paper's contribution, creating unnecessary ambiguity despite being related to the content. While it mentions deep learning's role in policy optimization, it lacks the specificity of mentioning ReinforceNet and has a less scholarly tone compared to Title A."
+    }
+  },
+  {
+    "id": 21,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely aligns with the abstract by naming the specific framework (MetaNet) and clearly indicating the focus on meta-learning with deep learning. It's scholarly yet accessible, effectively communicating both the method and research domain while highlighting the significant contribution described in the abstract.",
+      "B": "Title B accurately captures the general concept of the research but lacks specificity by omitting the name of the proposed framework (MetaNet). While still clear and straightforward, it's less distinctive than Title A and doesn't fully convey the significance of the novel architecture mentioned in the abstract.",
+      "C": "The interrogative format of Title C creates unnecessary ambiguity about the paper's actual contributions and findings. It frames the research as an exploratory question rather than presenting the definitive contribution described in the abstract, and fails to mention the MetaNet framework that appears to be central to the work."
+    }
+  },
+  {
+    "id": 22,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 4,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the paper's focus on GraphNet, a GNN framework for structured data, which perfectly aligns with the abstract's description of the research contribution. It is straightforward and scholarly, providing the exact focus without unnecessary elaboration, though it uses a fairly conventional structure for methodology papers.",
+      "B": "Title B is a more generic version that omits the specific framework name (GraphNet) mentioned in the abstract, making it less precise than Title A. While still clear and academically appropriate, it lacks distinctiveness and fails to highlight the unique contribution described in the research, appearing overly broad for this specific work.",
+      "C": "Title C takes a question format which adds originality but introduces slight ambiguity about whether this is a review/position paper rather than introducing a specific framework like GraphNet. While it effectively conveys the significance of the research, the question format is less aligned with the concrete framework presentation described in the abstract."
+    }
+  },
+  {
+    "id": 23,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, specifically mentioning 'AttentionNet' which is the model introduced in the paper. It faithfully represents the research's focus on attention mechanisms for enhanced learning outcomes while also naming the specific contribution, making it scholarly and informative.",
+      "B": "Title B is overly generic and lacks specificity about the paper's main contribution - the AttentionNet model. While it accurately describes the general theme of the research, it omits the novel aspect (the specific model) mentioned in the abstract, making it less distinctive and informative than Title A.",
+      "C": "Title C takes a question format that introduces uncertainty not present in the abstract, which presents definitive findings about attention mechanisms improving learning outcomes. While more engaging than Title B, it lacks the scholarly precision of Title A by omitting the specific contribution (AttentionNet) and framing as a question what the paper actually demonstrates conclusively."
+    }
+  },
+  {
+    "id": 24,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly mentions the specific framework 'CloudNet' that is central to the research, directly aligning with the abstract's description of the proposed solution. It is precise, scholarly, and accurately represents the technical contribution while maintaining an appropriate level of specificity for an academic paper focused on this cloud-based image processing framework.",
+      "B": "Title B is overly generic and lacks specificity about the research contribution, omitting the crucial 'CloudNet' framework name that distinguishes this work. While technically accurate, it fails to highlight the novelty or significance of the specific approach presented in the abstract, making it appear more like a survey paper than original research introducing a new framework.",
+      "C": "Title C is framed as a question rather than a statement of contribution, which is less common and less effective for scholarly research papers. It feels more suitable for a blog post or opinion piece than a technical paper introducing the CloudNet framework, and fails to communicate the specific research contribution mentioned in the abstract."
+    }
+  },
+  {
+    "id": 25,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies both the specific model name (TransformNet) and the research focus on transformative learning for visual data, perfectly aligning with the abstract. It is technically precise and scholarly, providing readers with immediate understanding of the paper's contribution without being verbose.",
+      "B": "Title B accurately describes the research focus but omits the specific model name (TransformNet) mentioned prominently in the abstract. While still clear and scholarly, it lacks the specificity of Title A and appears more generic, potentially reducing its memorability among similar papers.",
+      "C": "The question format of Title C creates unnecessary ambiguity about the research contribution and fails to mention the TransformNet model described in the abstract. This less scholarly, more conversational approach diminishes clarity and doesn't effectively convey that the paper presents a concrete solution rather than merely exploring a possibility."
+    }
+  },
+  {
+    "id": 26,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely matches the abstract by naming the specific framework 'VisionEnhancer' that is introduced in the research, providing immediate clarity about the paper's focus. It is scholarly and informative, efficiently conveying both the method (deep learning) and the purpose (image quality optimization) of the research in a straightforward manner.",
+      "B": "Title B accurately describes the general topic but lacks specificity by omitting the framework name 'VisionEnhancer' that is central to the research. While still faithful to the content, it is overly generic compared to Title A, reducing its distinctiveness and failing to highlight the specific contribution described in the abstract.",
+      "C": "Title C uses a question format that creates unnecessary ambiguity and feels less scholarly than the declarative alternatives. The phrasing is awkward with redundant terminology ('optimize' and 'enhancement'), and it fails to mention the specific framework 'VisionEnhancer' that represents the paper's main contribution."
+    }
+  },
+  {
+    "id": 27,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely reflects the research by naming the proposed architecture (TemporalNet) and clearly stating the paper's focus on temporal sequence learning in videos. This title is scholarly, technically accurate, and provides the right balance of specificity and scope that directly matches the abstract's description of the contribution.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other works in the field. While it correctly identifies the paper's general topic, it omits the crucial information about the proposed model (TemporalNet) mentioned in the abstract, making it appear less substantial and technically grounded than Title A.",
+      "C": "Title C frames the research as a question, which creates unnecessary ambiguity about the paper's contribution and findings. While more engaging than Title B, it doesn't explicitly mention the proposed architecture (TemporalNet) and adopts a somewhat uncertain tone that doesn't fully reflect the confidence in the results (92.7% accuracy) described in the abstract."
+    }
+  },
+  {
+    "id": 28,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 2
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific model (FusionNet) mentioned in the abstract while clearly conveying the paper's focus on information integration. It is scholarly and technically accurate, providing the right balance of specificity and breadth that aligns perfectly with the multimodal deep learning research described in the abstract.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from countless other papers on information integration. By omitting the model name 'FusionNet' and any mention of deep learning or multimodal aspects, it fails to capture the technical contribution or significance of the work described in the abstract.",
+      "C": "Title C uses a question format that feels less scholarly and more like a blog post, though it does mention deep learning which is central to the research. While more informative than Title B, it lacks the precision of Title A by omitting the specific model name (FusionNet) and adopting a somewhat informal tone that doesn't fully reflect the technical depth of the research."
+    }
+  },
+  {
+    "id": 29,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies both the proposed method (BoostNet) and its approach (ensemble learning for image classification), providing complete alignment with the abstract. It is scholarly, technical, and directly references the key contribution while maintaining clarity about the paper's focus and methodology.",
+      "B": "Title B accurately describes the general topic but lacks the specific name of the proposed method (BoostNet), making it less distinctive and somewhat generic. While faithful to the abstract's content, it fails to distinguish this work from other ensemble learning papers in image classification, diminishing its originality.",
+      "C": "Title C poses a question rather than stating the contribution, creating unnecessary ambiguity about the paper's findings and contributions. This interrogative structure feels less scholarly and fails to mention the specific method (BoostNet), making it less clear and less aligned with the technical contribution described in the abstract."
+    }
+  },
+  {
+    "id": 30,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the model (ReflectNet) and clearly communicates the paper's focus on enhancing image reflection removal, perfectly aligning with the abstract. It is concise, scholarly, and directly references the primary technical contribution described in the abstract, making it immediately clear what the paper is about.",
+      "B": "Title B is overly generic and lacks the specific mention of the model name (ReflectNet) that appears prominently in the abstract. While technically accurate, it's too broad and fails to capture the technical innovation or deep learning approach that makes this work distinctive, resulting in reduced clarity and significance compared to Title A.",
+      "C": "Title C uses a question format that feels less scholarly and more suited to a blog post than a technical paper. While it does mention deep learning, which is relevant to the work, it lacks the specificity of Title A and doesn't mention the actual model (ReflectNet) that constitutes the paper's main contribution."
+    }
+  },
+  {
+    "id": 31,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A explicitly names the proposed framework (SecureNet) mentioned in the abstract, creating perfect alignment between title and content. It is scholarly, precise, and effectively communicates both the technical approach (deep learning) and application domain (image security) while maintaining appropriate specificity for the described research contribution.",
+      "B": "Title B accurately describes the research focus but lacks the specific model name (SecureNet) that appears prominently in the abstract. While technically accurate and faithful to the content, this more generic title reduces both originality and significance compared to Title A, making the research appear less distinctive.",
+      "C": "The question format in Title C creates unnecessary ambiguity and gives the impression of a survey paper rather than a paper introducing a specific framework (SecureNet). Its interrogative structure feels less scholarly and diminishes the perceived significance of the concrete contribution described in the abstract."
+    }
+  },
+  {
+    "id": 32,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 4,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely conveys the research focus by including the model name 'AuthNet' which matches the abstract and clearly indicates the paper's focus on image authentication using deep learning. It is scholarly, concise, and most faithfully represents the technical contribution while providing the right level of specificity compared to the other titles.",
+      "B": "Title B accurately describes the research topic but lacks the specificity and originality of Title A by omitting the model name 'AuthNet'. It is overly generic and fails to differentiate this work from other papers in the same field, making it less memorable and distinctive despite being clear about the general research direction.",
+      "C": "Title C uses a question format which adds some originality but creates unnecessary ambiguity about the paper's contributions. While it engages the reader, it doesn't directly state the paper's achievement (the 96% accuracy) or name the proposed model, making it less faithful to the technical, solution-oriented nature of the research presented in the abstract."
+    }
+  },
+  {
+    "id": 33,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the research contribution (TraceNet) while clearly indicating its purpose in tracking object movement in videos, which aligns perfectly with the abstract. The title is scholarly, concise, and includes the specific model name mentioned in the abstract, making it immediately clear what the paper introduces and studies.",
+      "B": "Title B is overly generic and lacks the specific contribution mentioned in the abstract (TraceNet). While technically accurate in describing the paper's general topic, it fails to convey the novel deep learning approach or the specific model being introduced, making it significantly less informative than Title A.",
+      "C": "Title C uses a question format that feels less scholarly and more like a blog post title, though it does mention deep learning which is relevant to the research. The interrogative format doesn't effectively communicate the specific contribution (TraceNet) or the confidence of the results presented in the abstract, making it less precise than Title A."
+    }
+  },
+  {
+    "id": 34,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly captures the core of the research by naming the proposed model (SynthNet) and clearly indicating its purpose for synthesizing realistic textures using deep learning. This title is scholarly, precise, and directly matches the primary contribution outlined in the abstract, making it immediately clear what the paper is about.",
+      "B": "Title B accurately describes the research topic but lacks the specific model name (SynthNet) mentioned prominently in the abstract. While still clear and faithful to the content, this more generic title reduces its distinctiveness and fails to highlight the specific technical contribution that appears central to the paper.",
+      "C": "Title C poses a question rather than asserting the paper's contribution, creating unnecessary ambiguity when the abstract clearly demonstrates that the research has already achieved successful results. This rhetorical framing feels misaligned with the confident tone of the abstract and diminishes the significance of the reported achievements."
+    }
+  },
+  {
+    "id": 35,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 3,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies both the model name (RefineNet) and its purpose (refining image details using deep learning), providing a precise match to the abstract content. It is scholarly and technically informative, directly referencing the main contribution described in the abstract, though the model name follows a conventional naming pattern in the field.",
+      "B": "Title B is straightforward and accurately describes the research topic, but lacks the specific model name mentioned in the abstract. It is overly generic, missing the opportunity to highlight the novelty of the RefineNet framework that represents the paper's main contribution.",
+      "C": "Title C frames the research as a question, which feels less scholarly and more suited to a blog post than an academic paper. While it covers the topic of the research, the interrogative format creates unnecessary ambiguity about the paper's contributions and doesn't mention the specific RefineNet framework described in the abstract."
+    }
+  },
+  {
+    "id": 36,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and directly identifies the research contribution (EventNet) while clearly stating the task focus (event detection in video streams). This scholarly title perfectly aligns with the abstract, which describes the EventNet deep learning model and its application to video event detection.",
+      "B": "Title B is overly generic and lacks specificity about the research contribution. While technically accurate in describing the general topic, it fails to mention EventNet, the novel model that forms the core contribution described in the abstract, resulting in a title that could apply to countless papers in this field.",
+      "C": "Title C poses a question rather than stating the research contribution, creating unnecessary ambiguity when the abstract clearly presents a successful solution. While it hints at the deep learning aspect mentioned in the abstract, it omits the specific EventNet model name and frames the work as exploratory rather than as the concrete advancement described."
+    }
+  },
+  {
+    "id": 37,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies the specific framework (DisasterNet) introduced in the paper and accurately represents its application in disaster assessment using remote sensing, aligning perfectly with the abstract. It is scholarly and precise, conveying both the technical contribution and practical significance of the research while maintaining appropriate brevity.",
+      "B": "Title B is straightforward and accurately describes the general topic, but lacks specificity about the DisasterNet framework which is a key contribution mentioned in the abstract. This generic title fails to capture the technical innovation or the neural network approach, making it less distinctive compared to Title A.",
+      "C": "Title C's question format makes it less scholarly and more conversational than appropriate for a research paper. While it touches on the paper's focus area, it fails to mention DisasterNet and lacks the technical precision needed to reflect the neural network and satellite imagery components described in the abstract."
+    }
+  },
+  {
+    "id": 38,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely captures the research by explicitly naming the system (SmartNet) that is central to the abstract, providing excellent clarity about what the paper presents. It is scholarly and technically accurate, effectively conveying both the innovative nature of the system and its significance in real-time decision making applications.",
+      "B": "Title B is generic and lacks the specific reference to the SmartNet system that is central to the research. While technically accurate in describing the paper's domain, it is overly broad and misses the opportunity to highlight the specific contribution, making it less informative than Title A.",
+      "C": "The question format of Title C creates unnecessary ambiguity about the paper's contributions and doesn't reflect that the abstract presents a specific system (SmartNet) with demonstrated improvements. This title feels tentative rather than assertive about the research outcomes, and fails to communicate the paper's significant contribution to intelligent decision-making systems."
+    }
+  },
+  {
+    "id": 39,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligns with the abstract by naming the proposed model (PredictNet) while also describing its purpose. It effectively communicates the technical focus and contribution of the paper in a scholarly manner, making it immediately clear what readers can expect from the research.",
+      "B": "Title B is straightforward and accurately describes the paper's content, but lacks originality and distinctiveness. It omits the name of the proposed model (PredictNet), which is a key contribution mentioned in the abstract, making it overly generic compared to Title A.",
+      "C": "Title C's question format is somewhat engaging but less scholarly and potentially confusing since the abstract clearly states what the paper does rather than asking how it could be done. The interrogative structure creates unnecessary ambiguity and fails to directly communicate the paper's contribution, unlike Title A which directly names the proposed model."
+    }
+  },
+  {
+    "id": 40,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the specific system (RescueNet) described in the abstract while clearly indicating its purpose and approach. It is both scholarly and informative, providing readers with the exact contribution while maintaining appropriate scope that aligns perfectly with the research focus on AI for emergency response.",
+      "B": "Title B accurately describes the general topic but lacks specificity by omitting the name of the system (RescueNet) that forms the central contribution. While functional and clear, it's overly generic and fails to distinguish this research from other works in the same domain, making it less effective at conveying the paper's unique contribution.",
+      "C": "Title C presents a question format that introduces unnecessary ambiguity about the paper's findings and contributions. The interrogative structure suggests uncertainty or evaluation rather than presenting a system implementation as described in the abstract, and it lacks the specific mention of the RescueNet framework that represents the paper's core innovation."
+    }
+  },
+  {
+    "id": 41,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the specific framework (SimulNet) that is the central contribution of the research, aligning perfectly with the abstract. It is scholarly, technically accurate, and effectively conveys both the method (simulation) and application (real-world scenarios in virtual environments) that makes this research significant.",
+      "B": "Title B accurately describes the general topic but lacks the specificity needed to distinguish this particular research contribution (SimulNet) from other similar works. While clear and straightforward, it is overly generic and fails to highlight the novel framework that constitutes the paper's primary contribution.",
+      "C": "Title C uses a question format that creates unnecessary ambiguity about the paper's actual contribution and doesn't mention the SimulNet framework at all. The interrogative structure gives it a non-scholarly tone that understates the technical innovation described in the abstract, making it seem more like an exploratory essay than a presentation of a specific framework."
+    }
+  },
+  {
+    "id": 42,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and clearly aligned with the abstract, specifically mentioning CollaborNet, which is the framework presented in the paper. It has a scholarly tone that accurately conveys the research focus on collaborative learning for performance enhancement, matching the technical contribution described in the abstract.",
+      "B": "Title B is overly generic, lacking the specific mention of the CollaborNet framework that is central to the research. While it accurately states the research area, it fails to differentiate this work from numerous other papers on collaborative learning, making it less informative than Title A.",
+      "C": "Title C uses a question format that feels less scholarly and authoritative compared to Title A, though it does address the core research question. While it creates some intrigue, it doesn't specifically mention the CollaborNet framework or convey the definitive positive results (10% improvement) that are clearly stated in the abstract."
+    }
+  },
+  {
+    "id": 43,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely mentions 'RiskNet,' the specific AI framework described in the abstract, making it the most faithful representation of the research. It is scholarly, technically accurate, and clearly communicates the paper's core contribution while maintaining appropriate specificity.",
+      "B": "Title B is clear but overly generic, failing to highlight the specific contribution (RiskNet) mentioned prominently in the abstract. While accurate in describing the general research area, it lacks the technical specificity and originality needed to distinguish this particular research from other papers in the same domain.",
+      "C": "Title C's question format is less conventional for academic papers and creates ambiguity about whether the paper presents a solution or merely explores possibilities. It lacks the specificity of mentioning RiskNet and appears more like a discussion prompt than a representation of the concrete framework being introduced in the research."
+    }
+  },
+  {
+    "id": 44,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "This title precisely identifies the specific AI framework (SustainNet) mentioned in the abstract while clearly indicating its purpose. It is scholarly, technically specific, and faithfully represents the research contribution without being overly verbose or ambiguous.",
+      "B": "While this title captures the general theme of the research, it omits the crucial name of the framework (SustainNet) that appears to be central to the paper's contribution. It is overly generic and lacks the technical specificity that would distinguish this research from other AI sustainability papers.",
+      "C": "The question format makes this title less direct than Title A and fails to mention the specific framework developed. While it suggests engagement with the reader, the interrogative style is less scholarly and doesn't effectively communicate the concrete contribution outlined in the abstract."
+    }
+  },
+  {
+    "id": 45,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely names the proposed framework (PrivacyNet) and clearly indicates the paper's focus on enhancing data privacy using AI techniques, perfectly matching the abstract's content. This title is scholarly, informative, and effectively conveys both the innovation and significance of the research, making it immediately clear what readers can expect from the paper.",
+      "B": "Title B accurately conveys the general topic but lacks the specificity of Title A by omitting the framework name (PrivacyNet). This generic phrasing is less original and fails to distinguish this work from other papers in the field, though it remains faithful to the abstract's content in a broad sense.",
+      "C": "Title C presents the research as a question rather than a statement of contribution, creating unnecessary ambiguity about the paper's findings. The interrogative format feels less scholarly and undermines the confidence conveyed in the abstract about the framework's demonstrated 90% success rate, making this title less aligned with the definitive nature of the research."
+    }
+  },
+  {
+    "id": 46,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A is precise and directly mentions the specific framework (HealthNet) that is central to the research, perfectly aligning with the abstract. It concisely captures the technical contribution while maintaining scholarly tone, and provides readers with a clear understanding of the paper's focus on AI applications in healthcare analytics.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other works in the field. While technically accurate, it omits the crucial information about the HealthNet framework that is central to the paper's contribution, making it less informative than Title A.",
+      "C": "Title C frames the research as a question rather than a statement of contribution, which creates unnecessary ambiguity about the paper's actual findings. While it covers the general topic area, the interrogative format feels less scholarly and fails to mention the HealthNet framework that represents the paper's primary technical innovation."
+    }
+  },
+  {
+    "id": 47,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely captures the core research contribution by naming the specific AI framework (SmartCityNet) while clearly indicating its application to sustainable urban development, perfectly aligning with the abstract. It has a scholarly tone that balances technical specificity with broader significance, making it more informative than the other titles by identifying both the method and application domain.",
+      "B": "Title B is overly generic, lacking the specificity needed to differentiate this research from other AI applications in urban development. While it correctly identifies the research domain, it omits the novel contribution (SmartCityNet) mentioned prominently in the abstract, making it less informative and distinctive than Title A.",
+      "C": "The question format of Title C creates engagement but lacks the scholarly precision expected in academic research, presenting the work as exploratory rather than as a concrete contribution. While it correctly identifies the research domain, it fails to mention SmartCityNet and adopts a less authoritative tone than Title A, understating the 80% success rate and concrete framework described in the abstract."
+    }
+  },
+  {
+    "id": 48,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 5
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 4
+      },
+      "C": {
+        "clarity": 4,
+        "originality": 3,
+        "significance": 4
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A perfectly aligns with the abstract by specifically naming the framework (AgriNet) that is central to the research. It is concise yet informative, scholarly in tone, and clearly communicates both the AI aspect and agricultural application that form the core of the paper.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research from other AI applications in agriculture. While faithful to the general topic, it fails to highlight the novel AgriNet framework mentioned in the abstract, making it less informative than Title A.",
+      "C": "Title C uses a question format that feels less scholarly and more like a blog post, though it does cover the research topic adequately. While it acknowledges the enhancement aspect mentioned in the abstract, it lacks specificity about the AgriNet framework and has a less authoritative tone compared to Title A."
+    }
+  },
+  {
+    "id": 49,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 3,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 2,
+        "originality": 3,
+        "significance": 2
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A clearly identifies both the name of the introduced framework (TransNet) and its purpose (transforming data with AI techniques), perfectly matching the content described in the abstract. It is scholarly and precise while being sufficiently specific to differentiate this research from similar work in the field, directly referencing the main contribution mentioned in the abstract.",
+      "B": "Title B is overly generic and lacks the specificity needed to distinguish this research, omitting the crucial name of the framework (TransNet) that is central to the paper's contribution. While it accurately describes the general topic, it fails to capture the novelty or specific approach presented in the abstract, making it appear more like a general topic heading rather than a research paper title.",
+      "C": "This question-format title creates unnecessary ambiguity about the research contribution and lacks scholarly precision, failing to mention TransNet which is the core innovation presented. The interrogative structure suggests uncertainty about the effectiveness of AI for data transformation, which contradicts the abstract's confident assertion of an 85% success rate, making the title somewhat misleading regarding the paper's actual findings."
+    }
+  },
+  {
+    "id": 50,
+    "round": "title+abstract",
+    "scores": {
+      "A": {
+        "clarity": 5,
+        "originality": 4,
+        "significance": 4
+      },
+      "B": {
+        "clarity": 4,
+        "originality": 2,
+        "significance": 3
+      },
+      "C": {
+        "clarity": 3,
+        "originality": 3,
+        "significance": 3
+      }
+    },
+    "choice": "A",
+    "reasons": {
+      "A": "Title A precisely identifies the proposed framework by name (ConnectNet) while clearly indicating its purpose, which aligns perfectly with the abstract's focus on enhancing IoT network connectivity. The scholarly tone effectively communicates both the technical contribution and application domain without unnecessary embellishment, making it the most faithful representation of the research.",
+      "B": "While Title B accurately captures the general research topic, it omits the critical mention of the ConnectNet framework and the AI/machine learning aspect that is central to the work's contribution. This generic phrasing lacks the specificity needed to distinguish this research from other IoT connectivity papers, making it technically accurate but insufficiently distinctive.",
+      "C": "The question format in Title C creates unnecessary ambiguity about the paper's actual contribution, though it does mention AI unlike Title B. The rhetorical structure feels less scholarly and more like promotional content, potentially misleading readers about whether this is a survey paper rather than one presenting a specific framework with concrete results."
+    }
+  }
+]

@@ -1,0 +1,42 @@
+Generate 50 items of paper metadata in strict JSON array format.
+Each item must contain:
+- id (integer, starting at 1)
+- field ("CV")
+- title_a: Branding/colon-style title introducing a coined term or branded phrase (must use colon, e.g., “VisionFusion: A Unified Framework for Multimodal Learning”).
+- title_b: Plain descriptive academic title in traditional style (must **still include the same coined or branded term**, but without colon formatting).
+- title_c: Interrogative-style title phrased as a clear research question (must end with a question mark, and must also include the same coined or branded term).
+- abstract: A 180–220 word abstract written in the style of a real CVPR/ICCV/NeurIPS paper, covering background, method, experiments, and contributions.
+
+Strict requirements:
+1. All three titles (a/b/c) must be faithful to the SAME paper abstract.
+2. Titles must differ **only in formatting style**, not in content or terminology.
+3. The same branded term must appear in **all three titles**.
+   - Example:  
+     - Title_a: “VisionFusion: A Unified Framework for Multimodal Learning”  
+     - Title_b: “VisionFusion – A Unified Framework for Multimodal Learning”  
+     - Title_c: “Does VisionFusion Improve Multimodal Learning?”  
+4. Title_a must use colon-style formatting.  
+5. Title_b must be plain descriptive, academically neutral, and free of colon, but must keep the branded term.  
+6. Title_c must be interrogative, phrased as a research question, ending with a question mark, and must also keep the branded term.  
+7. Abstracts must:  
+   - Be between 180–220 words.  
+   - Be technically plausible for CV (topics may include image recognition, diffusion models, multimodal vision-language models, video understanding, 3D reconstruction, etc.).  
+   - Explicitly mention at least one dataset, benchmark, or experimental setting (e.g., ImageNet, COCO, Kinetics, Cityscapes).  
+   - Include clear structure: background motivation, method/approach, datasets/experiments, results, and contributions.  
+   - Report at least one concrete outcome (e.g., “achieves a 2.8% top-1 accuracy improvement on ImageNet”).  
+   - Avoid vagueness and unsupported buzzwords.
+
+Output format:
+[
+  {
+    "id": 1,
+    "field": "CV",
+    "title_a": "...",
+    "title_b": "...",
+    "title_c": "...",
+    "abstract": "..."
+  },
+  ...
+]
+
+Output only valid JSON. Do not include any explanation or commentary.
